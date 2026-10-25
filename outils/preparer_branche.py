@@ -84,7 +84,11 @@ data['research_leads'].extend([
     dict(subject='Père de Marie-Paule JOLY', candidates='Théophile André François JOLY (1922–2011)', sources=['M09', 'M11'], status='Hors arbre ; aucun acte raccordant Marie-Paule ; divergence TOURET/BAURET')
 ])
 data['scope'] = 'Dossier v1.0 préservé ; branche maternelle mise à jour avec l’extrait de naissance de Nathalie. Recherche des générations précédentes en cours.'
-data['research_status'] = '25 octobre 2026 : naissance de Nathalie et identité, dates et lieux de naissance de ses parents documentés par M05. Jeanne TOURET reste sur déclaration familiale. Index de décès HIETTE relu. Couples Gérard HIETTE–Odette NOËL et Théophile JOLY–Jeanne TOURET repérés mais non raccordés par un acte. Aucun parent supplémentaire établi à ce stade.'
+data['research_status'] = '25 octobre 2026 : naissance de Nathalie et identité, dates et lieux de naissance de ses parents documentés par M05. Jeanne TOURET reste sur déclaration familiale. Index de décès HIETTE relu. Quatre ascendances candidates HIETTE, NOËL, TOURET–BOUTON et JOLY explorées jusqu’au huitième niveau conditionnel depuis Nathalie, avec 112 fiches sources et des références d’actes ; raccordements modernes et actes originaux non obtenus. Les candidats restent hors de l’arbre raccordé. Aucun parent supplémentaire de Claude ou de Marie-Paule établi à ce stade.'
+data['research_metrics'] = dict(generations_from_nathalie_documented_in_M05=2,
+    generations_from_nathalie_including_family_declarations=3,
+    conditional_depth_explored=8, candidate_positions=120, candidate_source_profiles=112,
+    new_verified_parent_links_in_resumed_research=0)
 data['counts']['total_people'] = len(data['people'])
 data['counts']['maternal_ancestors'] = 4
 data['counts']['by_generation'] = dict(sorted(collections.Counter(str(p['generation']) for p in data['people']).items(), key=lambda x: int(x[0])))

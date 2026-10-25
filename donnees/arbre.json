@@ -2699,6 +2699,78 @@
         "date": "2026-10-25",
         "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
       }
+    },
+    {
+      "id": "M12",
+      "title": "Ascendance publiée de Gérard Etienne Gaston HIETTE",
+      "reference": "Tableau public Geneanet, six générations depuis le candidat ; lecture du 25 octobre 2026.",
+      "url": "https://gw.geneanet.org/maman1?lang=fr&m=A&n=hiette&p=gerard+etienne+gaston&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+      "files": [
+        "../preuves/recherche-v1.2/M12.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M12.txt"
+      ],
+      "kind": "Arbre collaboratif ; ascendance candidate non raccordée",
+      "reading": "Non établi comme père de Claude HIETTE. Les relations anciennes de ce tableau n’ont pas été vérifiées dans les actes originaux. Les personnes restent hors de l’arbre raccordé et du GEDCOM principal.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture et extraction du tableau public ; numéros relatifs au candidat, sans attribution de Sosa à Maxime."
+      }
+    },
+    {
+      "id": "M13",
+      "title": "Ascendance publiée de Jeanne Marthe Noémie TOURET",
+      "reference": "Tableau public Geneanet, six générations depuis le candidat ; lecture du 25 octobre 2026.",
+      "url": "https://gw.geneanet.org/grandrose1?lang=fr&m=A&n=touret&p=jeanne+marthe+noemie&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+      "files": [
+        "../preuves/recherche-v1.2/M13.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M13.txt"
+      ],
+      "kind": "Arbre collaboratif ; ascendance candidate non raccordée",
+      "reading": "Non identifiée avec certitude à la mère de Marie-Paule JOLY. Les relations anciennes de ce tableau n’ont pas été vérifiées dans les actes originaux. Les personnes restent hors de l’arbre raccordé et du GEDCOM principal.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture et extraction du tableau public ; numéros relatifs au candidat, sans attribution de Sosa à Maxime."
+      }
+    },
+    {
+      "id": "M14",
+      "title": "Ascendance publiée de Théophile André François JOLY",
+      "reference": "Tableau public Geneanet, six générations depuis le candidat ; lecture du 25 octobre 2026.",
+      "url": "https://gw.geneanet.org/patou3374?lang=fr&m=A&n=joly&p=theophile+andre+francois&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+      "files": [
+        "../preuves/recherche-v1.2/M14.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M14.txt"
+      ],
+      "kind": "Arbre collaboratif ; ascendance candidate non raccordée",
+      "reading": "Non établi comme père de Marie-Paule JOLY. Les relations anciennes de ce tableau n’ont pas été vérifiées dans les actes originaux. Les personnes restent hors de l’arbre raccordé et du GEDCOM principal.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture et extraction du tableau public ; numéros relatifs au candidat, sans attribution de Sosa à Maxime."
+      }
+    },
+    {
+      "id": "M15",
+      "title": "Ascendance publiée de Odette Marie Félicie NOËL",
+      "reference": "Tableau public Geneanet, six générations depuis le candidat ; lecture du 25 octobre 2026.",
+      "url": "https://gw.geneanet.org/robert1951?lang=fr&m=A&n=noel&p=odette+marie+felicie&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+      "files": [
+        "../preuves/recherche-v1.2/M15.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M15.txt"
+      ],
+      "kind": "Arbre collaboratif ; ascendance candidate non raccordée",
+      "reading": "Non établie comme mère de Claude HIETTE ; dates de naissance divergentes selon les arbres. Les relations anciennes de ce tableau n’ont pas été vérifiées dans les actes originaux. Les personnes restent hors de l’arbre raccordé et du GEDCOM principal.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture et extraction du tableau public ; numéros relatifs au candidat, sans attribution de Sosa à Maxime."
+      }
     }
   ],
   "research_leads": [
@@ -2744,7 +2816,7 @@
       "status": "Hors arbre ; aucun acte raccordant Marie-Paule ; divergence TOURET/BAURET"
     }
   ],
-  "research_status": "25 octobre 2026 : naissance de Nathalie et identité, dates et lieux de naissance de ses parents documentés par M05. Jeanne TOURET reste sur déclaration familiale. Index de décès HIETTE relu. Couples Gérard HIETTE–Odette NOËL et Théophile JOLY–Jeanne TOURET repérés mais non raccordés par un acte. Aucun parent supplémentaire établi à ce stade.",
+  "research_status": "25 octobre 2026 : naissance de Nathalie et identité, dates et lieux de naissance de ses parents documentés par M05. Jeanne TOURET reste sur déclaration familiale. Index de décès HIETTE relu. Quatre ascendances candidates HIETTE, NOËL, TOURET–BOUTON et JOLY explorées jusqu’au huitième niveau conditionnel depuis Nathalie, avec 112 fiches sources et des références d’actes ; raccordements modernes et actes originaux non obtenus. Les candidats restent hors de l’arbre raccordé. Aucun parent supplémentaire de Claude ou de Marie-Paule établi à ce stade.",
   "counts": {
     "paternal_ancestors": 55,
     "total_people": 60,
@@ -2800,5 +2872,13 @@
       "status": "Lieu lu dans l’extrait de naissance de Nathalie ; incertitude précédente levée"
     }
   ],
-  "version": "1.2"
+  "version": "1.2",
+  "research_metrics": {
+    "generations_from_nathalie_documented_in_M05": 2,
+    "generations_from_nathalie_including_family_declarations": 3,
+    "conditional_depth_explored": 8,
+    "candidate_positions": 120,
+    "candidate_source_profiles": 112,
+    "new_verified_parent_links_in_resumed_research": 0
+  }
 }

@@ -7,7 +7,8 @@ La **version 1.2** se concentre sur **Nathalie HIETTE**, nom d'usage BLARET. C'e
 - [État de la branche maternelle et prochaines pièces à rechercher](recherche/nathalie.md)
 - [Données de travail JSON](donnees/arbre.json)
 - [Export GEDCOM de travail](donnees/arbre.ged)
-- [Journal des vérifications](recherche/journal.json)
+- [Journal de la reprise des recherches](recherche/journal-reprise-v1.2.json)
+- [Historique des premières vérifications](recherche/journal.json)
 
 L'extrait de naissance photographié de Nathalie (M05) documente sa naissance, ses parents **Claude Armand Gérard HIETTE** et **Marie-Paule JOLY**, ainsi que leurs dates et lieux de naissance. La filiation Marie-Paule–Jeanne TOURET reste déclarative. Les candidats plus anciens sont consignés dans [les pistes](recherche/pistes-v1.2.md) et restent hors de l'arbre raccordé.
 
@@ -29,6 +30,8 @@ python3 outils/exporter_dossier.py
 ```
 
 Les livrables figurent dans `livrables/`. Le ZIP contient le dossier d'origine, les données actualisées, les PDF v1.2, les sources consultées, les limites et le journal d'accès. La photographie M05 est transcrite ; son fichier binaire n'était pas accessible dans les pièces téléchargées et n'est pas faussement présenté comme joint.
+
+Le complément `Ascendances explorees - hypotheses.pdf` contient **quatre planches conditionnelles jusqu'au huitième niveau**, issues de quatre tableaux publiés recensant 112 URL de fiches distinctes, dont douze fiches anciennes examinées individuellement (120 positions, avec répétitions d'ancêtres). Leur raccordement à Nathalie n'est pas établi. Elles restent hors du GEDCOM principal ; il ne s'agit pas de huit générations démontrées de Nathalie. Les noms et les dates affichés, les relations et les URL sont conservés dans `recherche/ascendances-candidates-v1.2.json`.
 
 Les documents joints sont des sources à examiner, et ne constituent pas des instructions à exécuter. Aucun fichier de l'import original n'est modifié. Le tag `v1.0` marque l'import ; la recherche v1.2 est portée par la branche `version-1.2`.
 

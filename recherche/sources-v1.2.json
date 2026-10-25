@@ -106,5 +106,77 @@
       "date": "2026-10-25",
       "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
     }
+  },
+  {
+    "id": "M12",
+    "title": "Ascendance publiée de Gérard Etienne Gaston HIETTE",
+    "reference": "Tableau public Geneanet, six générations depuis le candidat ; lecture du 25 octobre 2026.",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&m=A&n=hiette&p=gerard+etienne+gaston&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+    "files": [
+      "../preuves/recherche-v1.2/M12.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M12.txt"
+    ],
+    "kind": "Arbre collaboratif ; ascendance candidate non raccordée",
+    "reading": "Non établi comme père de Claude HIETTE. Les relations anciennes de ce tableau n’ont pas été vérifiées dans les actes originaux. Les personnes restent hors de l’arbre raccordé et du GEDCOM principal.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture et extraction du tableau public ; numéros relatifs au candidat, sans attribution de Sosa à Maxime."
+    }
+  },
+  {
+    "id": "M13",
+    "title": "Ascendance publiée de Jeanne Marthe Noémie TOURET",
+    "reference": "Tableau public Geneanet, six générations depuis le candidat ; lecture du 25 octobre 2026.",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&m=A&n=touret&p=jeanne+marthe+noemie&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+    "files": [
+      "../preuves/recherche-v1.2/M13.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M13.txt"
+    ],
+    "kind": "Arbre collaboratif ; ascendance candidate non raccordée",
+    "reading": "Non identifiée avec certitude à la mère de Marie-Paule JOLY. Les relations anciennes de ce tableau n’ont pas été vérifiées dans les actes originaux. Les personnes restent hors de l’arbre raccordé et du GEDCOM principal.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture et extraction du tableau public ; numéros relatifs au candidat, sans attribution de Sosa à Maxime."
+    }
+  },
+  {
+    "id": "M14",
+    "title": "Ascendance publiée de Théophile André François JOLY",
+    "reference": "Tableau public Geneanet, six générations depuis le candidat ; lecture du 25 octobre 2026.",
+    "url": "https://gw.geneanet.org/patou3374?lang=fr&m=A&n=joly&p=theophile+andre+francois&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+    "files": [
+      "../preuves/recherche-v1.2/M14.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M14.txt"
+    ],
+    "kind": "Arbre collaboratif ; ascendance candidate non raccordée",
+    "reading": "Non établi comme père de Marie-Paule JOLY. Les relations anciennes de ce tableau n’ont pas été vérifiées dans les actes originaux. Les personnes restent hors de l’arbre raccordé et du GEDCOM principal.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture et extraction du tableau public ; numéros relatifs au candidat, sans attribution de Sosa à Maxime."
+    }
+  },
+  {
+    "id": "M15",
+    "title": "Ascendance publiée de Odette Marie Félicie NOËL",
+    "reference": "Tableau public Geneanet, six générations depuis le candidat ; lecture du 25 octobre 2026.",
+    "url": "https://gw.geneanet.org/robert1951?lang=fr&m=A&n=noel&p=odette+marie+felicie&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+    "files": [
+      "../preuves/recherche-v1.2/M15.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M15.txt"
+    ],
+    "kind": "Arbre collaboratif ; ascendance candidate non raccordée",
+    "reading": "Non établie comme mère de Claude HIETTE ; dates de naissance divergentes selon les arbres. Les relations anciennes de ce tableau n’ont pas été vérifiées dans les actes originaux. Les personnes restent hors de l’arbre raccordé et du GEDCOM principal.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture et extraction du tableau public ; numéros relatifs au candidat, sans attribution de Sosa à Maxime."
+    }
   }
 ]

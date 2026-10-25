@@ -2,7 +2,8 @@ Dossier généalogique de Maxime BLARET — v1.2, état de recherche
 25 octobre 2026
 
 La branche maternelle est incomplète : ne pas présenter les candidats comme des ascendants établis.
-Lire les trois PDF v1.2, puis recherche/nathalie.md et recherche/pistes-v1.2.md.
+Lire les PDF v1.2, puis recherche/nathalie.md et recherche/pistes-v1.2.md.
+Le PDF Ascendances explorees - hypotheses contient quatre lignées conditionnelles jusqu'au huitième niveau. Il ne démontre pas huit générations de Nathalie. Les candidats restent hors du GEDCOM principal.
 Les données courantes figurent dans donnees/arbre.json et donnees/arbre.ged.
 Les 55 fichiers de la v1.0 sont préservés dans imports/v1.0 ; leurs PDF sont historiques.
 Les preuves nouvelles et les extraits textuels de sources sont dans preuves/.

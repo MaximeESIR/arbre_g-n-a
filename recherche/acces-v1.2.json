@@ -580,5 +580,1022 @@
     "url": "https://www.pompes-funebres-herve-bonniez.fr/?s=Touret&post_type=obituaries",
     "checked_at": "2026-10-25T12:39:59.991596+00:00",
     "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r10-bouton1890",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=BOUTON&prenom=Celine+Felicie+Honorine&size=100",
+    "checked_at": "2026-10-25T13:31:08.125367+00:00",
+    "status": 200,
+    "bytes": 184796,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=BOUTON&prenom=Celine+Felicie+Honorine&size=100"
+  },
+  {
+    "name": "r10-hiette1777",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Francois+Joseph&from=1777&to=1777&size=100",
+    "checked_at": "2026-10-25T13:31:08.123678+00:00",
+    "status": 200,
+    "bytes": 160116,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Francois+Joseph&from=1777&to=1777&size=100"
+  },
+  {
+    "name": "r10-joly1862",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Pierre+Joseph+Theophile&from=1862&to=1862&size=100",
+    "checked_at": "2026-10-25T13:31:08.125923+00:00",
+    "status": 200,
+    "bytes": 168171,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Pierre+Joseph+Theophile&from=1862&to=1862&size=100"
+  },
+  {
+    "name": "r10-tillier1892",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TILLIER&prenom=Marie+Philomene+Ismerie&size=100",
+    "checked_at": "2026-10-25T13:31:08.124664+00:00",
+    "status": 200,
+    "bytes": 175440,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TILLIER&prenom=Marie+Philomene+Ismerie&size=100"
+  },
+  {
+    "name": "r11-avisnet",
+    "url": "https://www.avis-de-deces.net/recherche-avis-de-deces/?lastName=TOURET&firstName=Jeanne",
+    "checked_at": "2026-10-25T13:35:40.484732+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "r11-ddg",
+    "url": "https://html.duckduckgo.com/html/?q=%22Jeanne+Touret%22",
+    "checked_at": "2026-10-25T13:35:40.483115+00:00",
+    "status": 200,
+    "bytes": 25654,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Jeanne+Touret%22"
+  },
+  {
+    "name": "r11-enaos",
+    "url": "https://www.enaos.net/",
+    "checked_at": "2026-10-25T13:35:40.483992+00:00",
+    "status": 200,
+    "bytes": 239850,
+    "final_url": "https://www.enaos.net/"
+  },
+  {
+    "name": "r11-voix",
+    "url": "https://avis-de-deces.lavoixdunord.fr/",
+    "checked_at": "2026-10-25T13:35:40.485371+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r12-jeanne-joly",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Jeanne&place__0__=Thiembronne&from=1926&to=2018&size=100",
+    "checked_at": "2026-10-25T13:36:15.569421+00:00",
+    "status": 200,
+    "bytes": 184048,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Jeanne&place__0__=Thiembronne&from=1926&to=2018&size=100"
+  },
+  {
+    "name": "r12-joly-berthe-photo",
+    "url": "https://gw.geneanet.org/j998?lang=fr&n=joly&oc=1&p=berthe+francoise+helene",
+    "checked_at": "2026-10-25T13:36:16.743342+00:00",
+    "status": 200,
+    "bytes": 101245,
+    "final_url": "https://gw.geneanet.org/j998?lang=fr&n=joly&oc=1&p=berthe+francoise+helene"
+  },
+  {
+    "name": "r12-joly-pierre-photo",
+    "url": "https://gw.geneanet.org/gpisier?lang=fr&n=joly&p=pierre+joseph+theophile",
+    "checked_at": "2026-10-25T13:36:15.569978+00:00",
+    "status": 200,
+    "bytes": 102858,
+    "final_url": "https://gw.geneanet.org/gpisier?lang=fr&n=joly&p=pierre+joseph+theophile"
+  },
+  {
+    "name": "r12-marie-hiette",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Marie+Paule&size=100",
+    "checked_at": "2026-10-25T13:36:15.567288+00:00",
+    "status": 200,
+    "bytes": 124337,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Marie+Paule&size=100"
+  },
+  {
+    "name": "r12-nathalie-hiette",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Nathalie&size=100",
+    "checked_at": "2026-10-25T13:36:15.568716+00:00",
+    "status": 200,
+    "bytes": 124222,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Nathalie&size=100"
+  },
+  {
+    "name": "r13-ddg-claude",
+    "url": "https://html.duckduckgo.com/html/?q=%22Claude+Hiette%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:36:46.427723+00:00",
+    "status": 200,
+    "bytes": 29926,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Claude+Hiette%22&kl=fr-fr"
+  },
+  {
+    "name": "r13-ddg-frederic",
+    "url": "https://html.duckduckgo.com/html/?q=%22Fr%C3%A9d%C3%A9ric+Hiette%22+2015&kl=fr-fr",
+    "checked_at": "2026-10-25T13:36:46.430432+00:00",
+    "status": 200,
+    "bytes": 13407,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Fr%C3%A9d%C3%A9ric+Hiette%22+2015&kl=fr-fr"
+  },
+  {
+    "name": "r13-ddg-jeannedubiez",
+    "url": "https://html.duckduckgo.com/html/?q=%22Jeanne%22+%22Dubiez%22+%22Touret%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:36:46.429388+00:00",
+    "status": 200,
+    "bytes": 9403,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Jeanne%22+%22Dubiez%22+%22Touret%22&kl=fr-fr"
+  },
+  {
+    "name": "r13-ddg-mariepaule",
+    "url": "https://html.duckduckgo.com/html/?q=%22Marie-Paule%22+%22Hiette%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:36:46.428716+00:00",
+    "status": 200,
+    "bytes": 9361,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Marie-Paule%22+%22Hiette%22&kl=fr-fr"
+  },
+  {
+    "name": "r14-ddg-dubiezjeanne",
+    "url": "https://html.duckduckgo.com/html/?q=%22Dubiez%22+%22Jeanne%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:37:39.181609+00:00",
+    "status": 200,
+    "bytes": 28652,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Dubiez%22+%22Jeanne%22&kl=fr-fr"
+  },
+  {
+    "name": "r14-ddg-hiette-joly",
+    "url": "https://html.duckduckgo.com/html/?q=Hiette+Joly&kl=fr-fr",
+    "checked_at": "2026-10-25T13:37:39.179461+00:00",
+    "status": 200,
+    "bytes": 32985,
+    "final_url": "https://html.duckduckgo.com/html/?q=Hiette+Joly&kl=fr-fr"
+  },
+  {
+    "name": "r14-ddg-parents",
+    "url": "https://html.duckduckgo.com/html/?q=%22Hiette%22+%22Claude%22+%22Noel%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:37:39.180305+00:00",
+    "status": 200,
+    "bytes": 9397,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Hiette%22+%22Claude%22+%22Noel%22&kl=fr-fr"
+  },
+  {
+    "name": "r14-ddg-theophile",
+    "url": "https://html.duckduckgo.com/html/?q=%22Theophile+Joly%22+2011&kl=fr-fr",
+    "checked_at": "2026-10-25T13:37:39.180949+00:00",
+    "status": 200,
+    "bytes": 21114,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Theophile+Joly%22+2011&kl=fr-fr"
+  },
+  {
+    "name": "r15-avisnet-home",
+    "url": "https://www.avis-de-deces.net/",
+    "checked_at": "2026-10-25T13:37:58.414678+00:00",
+    "status": 200,
+    "bytes": 101643,
+    "final_url": "https://www.avis-de-deces.net/"
+  },
+  {
+    "name": "r15-enaos-searchform",
+    "url": "https://www.enaos.net/P1210.aspx?Mode=RA&LgTrv=9",
+    "checked_at": "2026-10-25T13:37:58.413746+00:00",
+    "status": 200,
+    "bytes": 38196,
+    "final_url": "https://www.enaos.net/P1210.aspx?Mode=RA&LgTrv=9"
+  },
+  {
+    "url": "https://www.enaos.net/P1210.aspx?Mode=RA&LgTrv=9",
+    "method": "POST recherche publique",
+    "query": {
+      "nom": "HIETTE",
+      "prenom": "",
+      "pays": "tous",
+      "date": "inconnue"
+    },
+    "status": 200,
+    "checked_at": "2026-10-25T13:39:00.125565+00:00"
+  },
+  {
+    "url": "https://www.enaos.net/P1210.aspx?Mode=RA&LgTrv=9",
+    "method": "POST recherche publique",
+    "query": {
+      "nom": "JOLY",
+      "prenom": "Theophile",
+      "pays": "tous",
+      "date": "inconnue"
+    },
+    "status": 200,
+    "checked_at": "2026-10-25T13:39:04.857051+00:00"
+  },
+  {
+    "url": "https://www.enaos.net/P1210.aspx?Mode=RA&LgTrv=9",
+    "method": "POST recherche publique",
+    "query": {
+      "nom": "TOURET",
+      "prenom": "Jeanne",
+      "pays": "tous",
+      "date": "inconnue"
+    },
+    "status": 200,
+    "checked_at": "2026-10-25T13:39:02.599979+00:00"
+  },
+  {
+    "name": "r17-ddg-pdf-quesques",
+    "url": "https://html.duckduckgo.com/html/?q=site%3Aancetresdartois.com+Quesques+mariages&kl=fr-fr",
+    "checked_at": "2026-10-25T13:40:47.478933+00:00",
+    "status": 200,
+    "bytes": 33889,
+    "final_url": "https://html.duckduckgo.com/html/?q=site%3Aancetresdartois.com+Quesques+mariages&kl=fr-fr"
+  },
+  {
+    "name": "r17-ddg-pdf-stmartin",
+    "url": "https://html.duckduckgo.com/html/?q=site%3Aancetresdartois.com+Saint+Martin+Hardinghem&kl=fr-fr",
+    "checked_at": "2026-10-25T13:40:47.479892+00:00",
+    "status": 200,
+    "bytes": 34416,
+    "final_url": "https://html.duckduckgo.com/html/?q=site%3Aancetresdartois.com+Saint+Martin+Hardinghem&kl=fr-fr"
+  },
+  {
+    "name": "r17-ddg-pdf-thiembronne",
+    "url": "https://html.duckduckgo.com/html/?q=site%3Aancetresdartois.com+Thiembronne&kl=fr-fr",
+    "checked_at": "2026-10-25T13:40:47.480400+00:00",
+    "status": 200,
+    "bytes": 36345,
+    "final_url": "https://html.duckduckgo.com/html/?q=site%3Aancetresdartois.com+Thiembronne&kl=fr-fr"
+  },
+  {
+    "url": "https://www.avis-de-deces.net/avis-de-deces/les-derniers-avis-de-deces/",
+    "query": "Claude Hiette",
+    "method": "POST recherche publique",
+    "status": 200,
+    "checked_at": "2026-10-25T13:41:20.920253+00:00"
+  },
+  {
+    "url": "https://www.avis-de-deces.net/avis-de-deces/les-derniers-avis-de-deces/",
+    "query": "Theophile Joly",
+    "method": "POST recherche publique",
+    "status": 200,
+    "checked_at": "2026-10-25T13:41:22.673118+00:00"
+  },
+  {
+    "url": "https://www.avis-de-deces.net/avis-de-deces/les-derniers-avis-de-deces/",
+    "query": "Jeanne Touret",
+    "method": "POST recherche publique",
+    "status": 200,
+    "checked_at": "2026-10-25T13:41:18.524559+00:00"
+  },
+  {
+    "url": "https://www.ancetresdartois.com/listes/index.html",
+    "checked_at": "2026-10-25T13:42:12.388530+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.ancetresdartois.com/listes/surques_files/surques_mariages_1678_1900.pdf",
+    "checked_at": "2026-10-25T13:42:12.387438+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.ancetresdartois.com/listes/thiembronne_files/thiembronne_mariages_1654_1792.pdf",
+    "checked_at": "2026-10-25T13:42:12.386661+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "r2-pfbee-dubiez",
+    "url": "https://pf-bee.fr/?s=Dubiez",
+    "checked_at": "2026-10-25T13:20:10.951750+00:00",
+    "status": 200,
+    "bytes": 78825,
+    "final_url": "https://pf-bee.fr/?s=Dubiez"
+  },
+  {
+    "name": "r2-pfbee-hiette",
+    "url": "https://pf-bee.fr/?s=Hiette",
+    "checked_at": "2026-10-25T13:20:10.952913+00:00",
+    "status": 200,
+    "bytes": 78825,
+    "final_url": "https://pf-bee.fr/?s=Hiette"
+  },
+  {
+    "name": "r2-pfbonniez-dubiez",
+    "url": "https://www.pompes-funebres-herve-bonniez.fr/?s=Dubiez&post_type=obituaries",
+    "checked_at": "2026-10-25T13:20:10.954006+00:00",
+    "status": 200,
+    "bytes": 107794,
+    "final_url": "https://www.pompes-funebres-herve-bonniez.fr/?s=Dubiez&post_type=obituaries"
+  },
+  {
+    "name": "r2-pfbonniez-joly",
+    "url": "https://www.pompes-funebres-herve-bonniez.fr/?s=Joly&post_type=obituaries",
+    "checked_at": "2026-10-25T13:20:10.954704+00:00",
+    "status": 200,
+    "bytes": 107797,
+    "final_url": "https://www.pompes-funebres-herve-bonniez.fr/?s=Joly&post_type=obituaries"
+  },
+  {
+    "name": "r20-avisnet-touret2",
+    "url": "https://www.avis-de-deces.net/avis-de-deces/les-derniers-avis-de-deces/page/2/?search-name=Jeanne%20Touret&postal_type=NONE",
+    "checked_at": "2026-10-25T13:43:11.991970+00:00",
+    "status": 200,
+    "bytes": 61078,
+    "final_url": "https://www.avis-de-deces.net/avis-de-deces/les-derniers-avis-de-deces/page/2/?search-name=Jeanne%20Touret&postal_type=NONE"
+  },
+  {
+    "name": "r20-avisnet-touret3",
+    "url": "https://www.avis-de-deces.net/avis-de-deces/les-derniers-avis-de-deces/page/3/?search-name=Jeanne%20Touret&postal_type=NONE",
+    "checked_at": "2026-10-25T13:43:11.992867+00:00",
+    "status": 200,
+    "bytes": 62786,
+    "final_url": "https://www.avis-de-deces.net/avis-de-deces/les-derniers-avis-de-deces/page/3/?search-name=Jeanne%20Touret&postal_type=NONE"
+  },
+  {
+    "name": "r20-ddg-jeanne2018",
+    "url": "https://html.duckduckgo.com/html/?q=%22Jeanne+Touret%22+%222018%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:43:11.994369+00:00",
+    "status": 200,
+    "bytes": 11796,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Jeanne+Touret%22+%222018%22&kl=fr-fr"
+  },
+  {
+    "name": "r20-ddg-theophile-accent",
+    "url": "https://html.duckduckgo.com/html/?q=%22Th%C3%A9ophile+Joly%22+%22Fruges%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:43:11.993471+00:00",
+    "status": 200,
+    "bytes": 9373,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Th%C3%A9ophile+Joly%22+%22Fruges%22&kl=fr-fr"
+  },
+  {
+    "name": "r21-ddg-claude1940",
+    "url": "https://html.duckduckgo.com/html/?q=%22HIETTE%22+%221940%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:44:57.795118+00:00",
+    "status": 200,
+    "bytes": 19359,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22HIETTE%22+%221940%22&kl=fr-fr"
+  },
+  {
+    "name": "r21-ddg-claudearmand",
+    "url": "https://html.duckduckgo.com/html/?q=%22Hiette%22+%22Armand%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:44:57.797072+00:00",
+    "status": 200,
+    "bytes": 14162,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Hiette%22+%22Armand%22&kl=fr-fr"
+  },
+  {
+    "name": "r21-ddg-date1949",
+    "url": "https://html.duckduckgo.com/html/?q=%22JOLY%22+%2230+janvier+1949%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:44:57.796483+00:00",
+    "status": 200,
+    "bytes": 9367,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22JOLY%22+%2230+janvier+1949%22&kl=fr-fr"
+  },
+  {
+    "name": "r21-ddg-mariepaule",
+    "url": "https://html.duckduckgo.com/html/?q=%22Marie+Paule+Joly%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:44:57.795956+00:00",
+    "status": 200,
+    "bytes": 9319,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Marie+Paule+Joly%22&kl=fr-fr"
+  },
+  {
+    "name": "r21-ddg-nathalie",
+    "url": "https://html.duckduckgo.com/html/?q=%22Nathalie+Hiette%22&kl=fr-fr",
+    "checked_at": "2026-10-25T13:44:58.672614+00:00",
+    "status": 202,
+    "bytes": 14243,
+    "final_url": "https://html.duckduckgo.com/html/?q=%22Nathalie+Hiette%22&kl=fr-fr"
+  },
+  {
+    "name": "r22-avisnet-jeanne-target",
+    "url": "https://www.avis-de-deces.net/avis-de-deces/hauts-de-france/pas-de-calais-62/62560-audincthun/2021-02-10-touret-jeanne-marthe-noemie_6PcYXe0kcdXKiY04OIZlb6/",
+    "checked_at": "2026-10-25T13:45:21.544955+00:00",
+    "status": 200,
+    "bytes": 60527,
+    "final_url": "https://www.avis-de-deces.net/avis-de-deces/hauts-de-france/pas-de-calais-62/62560-audincthun/2021-02-10-touret-jeanne-marthe-noemie_6PcYXe0kcdXKiY04OIZlb6/"
+  },
+  {
+    "name": "r23-hiette-16",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&oc=1&p=francois+joseph",
+    "checked_at": "2026-10-25T13:50:45.404749+00:00",
+    "status": 200,
+    "bytes": 105413,
+    "final_url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&oc=1&p=francois+joseph"
+  },
+  {
+    "name": "r23-hiette-32",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=jean+nicolas",
+    "checked_at": "2026-10-25T13:50:45.405441+00:00",
+    "status": 200,
+    "bytes": 107780,
+    "final_url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=jean+nicolas"
+  },
+  {
+    "name": "r23-hiette-4",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=joseph+hippolyte",
+    "checked_at": "2026-10-25T13:50:45.403338+00:00",
+    "status": 200,
+    "bytes": 105593,
+    "final_url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=joseph+hippolyte"
+  },
+  {
+    "name": "r23-hiette-8",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=jean+francois+joseph",
+    "checked_at": "2026-10-25T13:50:45.404220+00:00",
+    "status": 200,
+    "bytes": 109330,
+    "final_url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=jean+francois+joseph"
+  },
+  {
+    "name": "r23-joly-12",
+    "url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&oc=33&p=francois+joseph",
+    "checked_at": "2026-10-25T13:50:48.768068+00:00",
+    "status": 200,
+    "bytes": 112963,
+    "final_url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&oc=33&p=francois+joseph"
+  },
+  {
+    "name": "r23-joly-24",
+    "url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&oc=33&p=pierre+joseph",
+    "checked_at": "2026-10-25T13:50:48.768707+00:00",
+    "status": 200,
+    "bytes": 111582,
+    "final_url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&oc=33&p=pierre+joseph"
+  },
+  {
+    "name": "r23-joly-48",
+    "url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&oc=10&p=pierre+francois",
+    "checked_at": "2026-10-25T13:50:49.220070+00:00",
+    "status": 200,
+    "bytes": 109382,
+    "final_url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&oc=10&p=pierre+francois"
+  },
+  {
+    "name": "r23-joly-6",
+    "url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&oc=2&p=pierre+joseph+theophile",
+    "checked_at": "2026-10-25T13:50:48.162098+00:00",
+    "status": 200,
+    "bytes": 108683,
+    "final_url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&oc=2&p=pierre+joseph+theophile"
+  },
+  {
+    "name": "r23-touret-12",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&n=bouton&p=adolphe+cyprien",
+    "checked_at": "2026-10-25T13:50:47.205607+00:00",
+    "status": 200,
+    "bytes": 100187,
+    "final_url": "https://gw.geneanet.org/grandrose1?lang=fr&n=bouton&p=adolphe+cyprien"
+  },
+  {
+    "name": "r23-touret-26",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&n=delplace&p=pierre+marie",
+    "checked_at": "2026-10-25T13:50:47.211015+00:00",
+    "status": 200,
+    "bytes": 107919,
+    "final_url": "https://gw.geneanet.org/grandrose1?lang=fr&n=delplace&p=pierre+marie"
+  },
+  {
+    "name": "r23-touret-52",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&n=delplace&p=louis",
+    "checked_at": "2026-10-25T13:50:47.480376+00:00",
+    "status": 200,
+    "bytes": 94584,
+    "final_url": "https://gw.geneanet.org/grandrose1?lang=fr&n=delplace&p=louis"
+  },
+  {
+    "name": "r23-touret-6",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&n=bouton&p=georges",
+    "checked_at": "2026-10-25T13:50:47.172608+00:00",
+    "status": 200,
+    "bytes": 107920,
+    "final_url": "https://gw.geneanet.org/grandrose1?lang=fr&n=bouton&p=georges"
+  },
+  {
+    "name": "r24-odette-ascendance",
+    "url": "https://gw.geneanet.org/robert1951?lang=fr&m=A&n=noel&p=odette+marie+felicie&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+    "checked_at": "2026-10-25T13:52:29.890146+00:00",
+    "status": 200,
+    "bytes": 100803,
+    "final_url": "https://gw.geneanet.org/robert1951?lang=fr&m=A&n=noel&p=odette+marie+felicie&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on"
+  },
+  {
+    "name": "r24-odette-profile",
+    "url": "https://gw.geneanet.org/robert1951?lang=fr&n=noel&p=odette+marie+felicie",
+    "checked_at": "2026-10-25T13:52:29.887942+00:00",
+    "status": 200,
+    "bytes": 104797,
+    "final_url": "https://gw.geneanet.org/robert1951?lang=fr&n=noel&p=odette+marie+felicie"
+  },
+  {
+    "name": "r25-myheritage-claude",
+    "url": "https://www.myheritage.fr/names/claude_hiette",
+    "checked_at": "2026-10-25T13:54:46.205587+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r25-myheritage-mariepaule",
+    "url": "https://www.myheritage.fr/names/marie-paule_joly",
+    "checked_at": "2026-10-25T13:54:46.206768+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r25-wayback",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2Fvisualiseur%2Frecensement.html&output=json&filter=statuscode%3A200&limit=3&filter=mimetype%3Atext%2Fhtml&collapse=timestamp%3A4",
+    "checked_at": "2026-10-25T13:54:46.207409+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r26-myheritage-claude",
+    "url": "https://www.myheritage.fr/names/claude_hiette",
+    "checked_at": "2026-10-25T14:03:15.869425+00:00",
+    "status": 200,
+    "bytes": 851,
+    "final_url": "https://www.myheritage.fr/names/claude_hiette"
+  },
+  {
+    "name": "r26-wayback",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2Fvisualiseur%2Frecensement.html%2A&output=json&filter=statuscode%3A200&limit=3&collapse=timestamp%3A4",
+    "checked_at": "2026-10-25T14:03:15.870602+00:00",
+    "status": 200,
+    "bytes": 817,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2Fvisualiseur%2Frecensement.html%2A&output=json&filter=statuscode%3A200&limit=3&collapse=timestamp%3A4"
+  },
+  {
+    "name": "r27-archive-etatcivil-cdx",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2Fetatcivil.html%2A&output=json&filter=statuscode%3A200&limit=3&collapse=timestamp%3A4",
+    "checked_at": "2026-10-25T14:04:55.182896+00:00",
+    "status": 200,
+    "bytes": 3,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2Fetatcivil.html%2A&output=json&filter=statuscode%3A200&limit=3&collapse=timestamp%3A4"
+  },
+  {
+    "name": "r27-archive-search-cdx",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2Frecensement.html%2A&output=json&filter=statuscode%3A200&limit=3&collapse=timestamp%3A4",
+    "checked_at": "2026-10-25T14:04:55.181633+00:00",
+    "status": 200,
+    "bytes": 3,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2Frecensement.html%2A&output=json&filter=statuscode%3A200&limit=3&collapse=timestamp%3A4"
+  },
+  {
+    "name": "r27-archive-viewer",
+    "url": "https://web.archive.org/web/20250122070541id_/https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/recensement.html",
+    "checked_at": "2026-10-25T14:04:55.180754+00:00",
+    "status": 200,
+    "bytes": 18978,
+    "final_url": "https://web.archive.org/web/20250122070541id_/https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/recensement.html"
+  },
+  {
+    "name": "r28-archive-custom-js",
+    "url": "https://web.archive.org/web/20250122070541id_/https://archivesenligne.pasdecalais.fr/v2/ad62/js/visualiseur.js?v=1668520488",
+    "checked_at": "2026-10-25T14:06:25.795253+00:00",
+    "status": 200,
+    "bytes": 566,
+    "final_url": "https://web.archive.org/web/20250214150331id_/https://archivesenligne.pasdecalais.fr/v2/ad62/js/visualiseur.js?v=1668520488"
+  },
+  {
+    "name": "r28-archive-main-js",
+    "url": "https://web.archive.org/web/20250122070541id_/https://archivesenligne.pasdecalais.fr/v2/visualiseur/js/script.js?v=1686739742",
+    "checked_at": "2026-10-25T14:06:25.796207+00:00",
+    "status": 200,
+    "bytes": 123003,
+    "final_url": "https://web.archive.org/web/20250214150326id_/https://archivesenligne.pasdecalais.fr/v2/visualiseur/js/script.js?v=1686739742"
+  },
+  {
+    "name": "r28-archive-routes",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2F%2A&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=300&fl=timestamp%2Coriginal",
+    "checked_at": "2026-10-25T14:06:25.797349+00:00",
+    "status": 200,
+    "bytes": 36869,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2F%2A&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=300&fl=timestamp%2Coriginal"
+  },
+  {
+    "name": "r28-archive-viewer-id",
+    "url": "https://web.archive.org/web/20230205182048id_/https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/recensement.html?id=270914226",
+    "checked_at": "2026-10-25T14:06:25.796835+00:00",
+    "status": 200,
+    "bytes": 18094,
+    "final_url": "https://web.archive.org/web/20230205182048id_/https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/recensement.html?id=270914226"
+  },
+  {
+    "name": "r29-archive-q678-images",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr&matchType=domain&output=json&filter=statuscode%3A200&filter=mimetype%3Aimage%2F.*&filter=original%3A.*678.*&collapse=urlkey&limit=30&fl=timestamp%2Coriginal%2Cmimetype",
+    "checked_at": "2026-10-25T14:09:16.443719+00:00",
+    "error": "The read operation timed out"
+  },
+  {
+    "name": "r29-archive-quesques-routes",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr&matchType=domain&output=json&filter=statuscode%3A200&filter=original%3A.*%5BQq%5Duesques.*&collapse=urlkey&limit=50&fl=timestamp%2Coriginal",
+    "checked_at": "2026-10-25T14:09:16.443148+00:00",
+    "status": 200,
+    "bytes": 3,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr&matchType=domain&output=json&filter=statuscode%3A200&filter=original%3A.*%5BQq%5Duesques.*&collapse=urlkey&limit=50&fl=timestamp%2Coriginal"
+  },
+  {
+    "name": "r29-archive-search-routes",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr&matchType=domain&output=json&filter=statuscode%3A200&filter=original%3A.*%5BRr%5Decensement.*&filter=!original%3A.*visualiseur.*&collapse=urlkey&limit=60&fl=timestamp%2Coriginal",
+    "checked_at": "2026-10-25T14:09:16.441690+00:00",
+    "error": "The read operation timed out"
+  },
+  {
+    "name": "r3-libra-claude",
+    "url": "https://www.libramemoria.com/avis?nom=Hiette&prenom=Claude&debut=01%2F01%2F2001&fin=31%2F12%2F2001",
+    "checked_at": "2026-10-25T13:20:56.607687+00:00",
+    "status": 200,
+    "bytes": 190050,
+    "final_url": "https://www.libramemoria.com/avis?nom=Hiette&prenom=Claude&debut=01%2F01%2F2001&fin=31%2F12%2F2001"
+  },
+  {
+    "name": "r3-libra-dubiez",
+    "url": "https://www.libramemoria.com/avis?nom=Dubiez&prenom=Jeanne&debut=01%2F01%2F2018&fin=31%2F12%2F2018",
+    "checked_at": "2026-10-25T13:20:54.867936+00:00",
+    "status": 200,
+    "bytes": 185042,
+    "final_url": "https://www.libramemoria.com/avis?nom=Dubiez&prenom=Jeanne&debut=01%2F01%2F2018&fin=31%2F12%2F2018"
+  },
+  {
+    "name": "r3-libra-frederic",
+    "url": "https://www.libramemoria.com/avis?nom=Hiette&prenom=Frederic&debut=01%2F01%2F2015&fin=31%2F12%2F2015",
+    "checked_at": "2026-10-25T13:20:54.870543+00:00",
+    "status": 200,
+    "bytes": 190094,
+    "final_url": "https://www.libramemoria.com/avis?nom=Hiette&prenom=Frederic&debut=01%2F01%2F2015&fin=31%2F12%2F2015"
+  },
+  {
+    "name": "r3-libra-theophile",
+    "url": "https://www.libramemoria.com/avis?nom=Joly&prenom=Theophile&debut=01%2F01%2F2011&fin=31%2F12%2F2011",
+    "checked_at": "2026-10-25T13:20:54.869844+00:00",
+    "status": 200,
+    "bytes": 190076,
+    "final_url": "https://www.libramemoria.com/avis?nom=Joly&prenom=Theophile&debut=01%2F01%2F2011&fin=31%2F12%2F2011"
+  },
+  {
+    "name": "r3-libra-touret",
+    "url": "https://www.libramemoria.com/avis?nom=Touret&prenom=Jeanne&debut=01%2F01%2F2018&fin=31%2F12%2F2018",
+    "checked_at": "2026-10-25T13:20:54.866978+00:00",
+    "status": 200,
+    "bytes": 190084,
+    "final_url": "https://www.libramemoria.com/avis?nom=Touret&prenom=Jeanne&debut=01%2F01%2F2018&fin=31%2F12%2F2018"
+  },
+  {
+    "name": "r30-archive-portal-cdx",
+    "url": "https://web.archive.org/cdx/search/cdx?url=www.archivespasdecalais.fr%2FArchives-en-ligne%2A&output=json&filter=statuscode%3A200&collapse=urlkey&limit=30&fl=timestamp%2Coriginal",
+    "checked_at": "2026-10-25T14:11:04.408267+00:00",
+    "status": 200,
+    "bytes": 3469,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=www.archivespasdecalais.fr%2FArchives-en-ligne%2A&output=json&filter=statuscode%3A200&collapse=urlkey&limit=30&fl=timestamp%2Coriginal"
+  },
+  {
+    "name": "r30-archive-recensement-prefix",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2F%2A&output=json&filter=statuscode%3A200&filter=original%3A.*recensement.*&collapse=urlkey&limit=30&fl=timestamp%2Coriginal",
+    "checked_at": "2026-10-25T14:11:04.410436+00:00",
+    "status": 200,
+    "bytes": 3011,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fv2%2Fad62%2F%2A&output=json&filter=statuscode%3A200&filter=original%3A.*recensement.*&collapse=urlkey&limit=30&fl=timestamp%2Coriginal"
+  },
+  {
+    "name": "r30-archive-site-root-cdx",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2F&output=json&filter=statuscode%3A200&limit=3&collapse=timestamp%3A4&fl=timestamp%2Coriginal",
+    "checked_at": "2026-10-25T14:11:04.409768+00:00",
+    "status": 200,
+    "bytes": 213,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2F&output=json&filter=statuscode%3A200&limit=3&collapse=timestamp%3A4&fl=timestamp%2Coriginal"
+  },
+  {
+    "name": "r31-archive-census-portal",
+    "url": "https://web.archive.org/web/20170923211452id_/http://www.archivespasdecalais.fr:80/Archives-en-ligne/Histoire-d-une-personne/Recensements-de-population",
+    "checked_at": "2026-10-25T14:11:38.989273+00:00",
+    "status": 200,
+    "bytes": 27200,
+    "final_url": "https://web.archive.org/web/20170923211452id_/http://www.archivespasdecalais.fr:80/Archives-en-ligne/Histoire-d-une-personne/Recensements-de-population"
+  },
+  {
+    "name": "r31-archive-root",
+    "url": "https://web.archive.org/web/20240314171949id_/https://archivesenligne.pasdecalais.fr/",
+    "checked_at": "2026-10-25T14:11:38.991325+00:00",
+    "status": 200,
+    "bytes": 5972,
+    "final_url": "https://web.archive.org/web/20240314171949id_/https://archivesenligne.pasdecalais.fr/"
+  },
+  {
+    "name": "r32-archive-console-cdx",
+    "url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fconsole%2Fir_seriel.php%2A&output=json&filter=statuscode%3A200&filter=original%3A.*formulaire_recensement.*&collapse=urlkey&limit=12&fl=timestamp%2Coriginal",
+    "checked_at": "2026-10-25T14:13:56.180123+00:00",
+    "status": 200,
+    "bytes": 326,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=archivesenligne.pasdecalais.fr%2Fconsole%2Fir_seriel.php%2A&output=json&filter=statuscode%3A200&filter=original%3A.*formulaire_recensement.*&collapse=urlkey&limit=12&fl=timestamp%2Coriginal"
+  },
+  {
+    "name": "r32-live-console",
+    "url": "https://archivesenligne.pasdecalais.fr/console/ir_seriel.php?id=56&p=formulaire_recensement",
+    "checked_at": "2026-10-25T14:13:56.179016+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "r33-archive-form-2016",
+    "url": "https://web.archive.org/web/20160717210338id_/http://archivesenligne.pasdecalais.fr:80/console/ir_seriel.php?id=56&p=formulaire_recensement",
+    "checked_at": "2026-10-25T14:16:51.556727+00:00",
+    "status": 200,
+    "bytes": 14997,
+    "final_url": "https://web.archive.org/web/20160717210338id_/http://archivesenligne.pasdecalais.fr:80/console/ir_seriel.php?id=56&p=formulaire_recensement"
+  },
+  {
+    "name": "r33-archive-form-2024",
+    "url": "https://web.archive.org/web/20241114183138id_/https://archivesenligne.pasdecalais.fr/console/ir_seriel.php?id=56&p=formulaire_recensement&fbclid=IwAR1PiNgLOUNOb8zbY4bBpl9cpQJ-MGgaHXLGut6x-luWjC_xDRtal40exKY",
+    "checked_at": "2026-10-25T14:16:51.555591+00:00",
+    "status": 200,
+    "bytes": 20845,
+    "final_url": "https://web.archive.org/web/20241114183138id_/https://archivesenligne.pasdecalais.fr/console/ir_seriel.php?id=56&p=formulaire_recensement&fbclid=IwAR1PiNgLOUNOb8zbY4bBpl9cpQJ-MGgaHXLGut6x-luWjC_xDRtal40exKY"
+  },
+  {
+    "url": "https://archivesenligne.pasdecalais.fr/console/ir_seriel_action.php?f=0&cle=formulaire_recensement&id=56",
+    "method": "POST recherche publique",
+    "query": {
+      "f_0_0": "Quesques",
+      "f_0_1_0": "1946",
+      "f_0_1_1": "",
+      "f_0_2": "",
+      "s_0": "Rechercher"
+    },
+    "checked_at": "2026-10-25T14:25:58.687863+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "r35-ancestry-claude",
+    "url": "https://www.ancestry.com/search/collections/1030/?name=Claude_Hiette&birth=1940&death=2001",
+    "checked_at": "2026-10-25T14:31:33.727125+00:00",
+    "status": 200,
+    "bytes": 431876,
+    "final_url": "https://www.ancestry.com/search/collections/1030?name=Claude_Hiette&birth=1940&death=2001"
+  },
+  {
+    "name": "r35-ancestry-mariepaule",
+    "url": "https://www.ancestry.fr/search/collections/1030/?name=Marie-Paule_Joly&birth=1949",
+    "checked_at": "2026-10-25T14:31:33.727732+00:00",
+    "status": 200,
+    "bytes": 392641,
+    "final_url": "https://www.ancestry.fr/search/collections/1030?name=Marie-Paule_Joly&birth=1949"
+  },
+  {
+    "name": "r35-familysearch-claude",
+    "url": "https://www.familysearch.org/search/tree/results?count=20&q.givenName=Claude&q.surname=Hiette&q.birthLikeDate.from=1940&q.birthLikeDate.to=1940",
+    "checked_at": "2026-10-25T14:31:33.726053+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "r36-ancestry-claude-exact",
+    "url": "https://www.ancestry.fr/search/collections/1030/?name=Claude_Hiette&birth=1940&death=2001&name_x=1_1&birth_x=0-0-0&death_x=0-0-0",
+    "checked_at": "2026-10-25T14:37:26.537134+00:00",
+    "status": 200,
+    "bytes": 157796,
+    "final_url": "https://www.ancestry.fr/search/collections/1030?name=Claude_Hiette&birth=1940&death=2001&birth_x=0-0-0&death_x=0-0-0&name_x=1_1"
+  },
+  {
+    "name": "r36-ancestry-gerard-exact",
+    "url": "https://www.ancestry.fr/search/collections/1030/?name=Gerard_Hiette&birth=1912&death=1989&name_x=1_1",
+    "checked_at": "2026-10-25T14:37:26.539118+00:00",
+    "status": 200,
+    "bytes": 157628,
+    "final_url": "https://www.ancestry.fr/search/collections/1030?name=Gerard_Hiette&birth=1912&death=1989&name_x=1_1"
+  },
+  {
+    "name": "r36-ancestry-mariepaule-exact",
+    "url": "https://www.ancestry.fr/search/collections/1030/?name=Marie-Paule_Joly&birth=1949&name_x=1_1&birth_x=0-0-0",
+    "checked_at": "2026-10-25T14:37:26.537939+00:00",
+    "status": 200,
+    "bytes": 157049,
+    "final_url": "https://www.ancestry.fr/search/collections/1030?name=Marie-Paule_Joly&birth=1949&birth_x=0-0-0&name_x=1_1"
+  },
+  {
+    "name": "r4-claude-notice",
+    "url": "https://www.libramemoria.com/defunts/hiette-claude/c19c7f555f5d4da2afc43f693b65c11f",
+    "checked_at": "2026-10-25T13:22:00.323333+00:00",
+    "status": 200,
+    "bytes": 334510,
+    "final_url": "https://www.libramemoria.com/defunts/hiette-claude/c19c7f555f5d4da2afc43f693b65c11f"
+  },
+  {
+    "name": "r4-google-dubiez",
+    "url": "https://www.google.com/search?q=%22Touret%22+%22Dubiez%22&num=10&hl=fr",
+    "checked_at": "2026-10-25T13:22:00.324589+00:00",
+    "status": 200,
+    "bytes": 92231,
+    "final_url": "https://www.google.com/search?q=%22Touret%22+%22Dubiez%22&num=10&hl=fr"
+  },
+  {
+    "name": "r4-google-hiette",
+    "url": "https://www.google.com/search?q=%22Claude+Hiette%22+%22parents%22&num=10&hl=fr",
+    "checked_at": "2026-10-25T13:22:00.552637+00:00",
+    "status": 200,
+    "bytes": 92218,
+    "final_url": "https://www.google.com/search?q=%22Claude+Hiette%22+%22parents%22&num=10&hl=fr"
+  },
+  {
+    "name": "r4-jeanne-notice",
+    "url": "https://www.libramemoria.com/defunts/touret-jeanne/4d1c876a95214beea293cd904b20e454",
+    "checked_at": "2026-10-25T13:22:00.322175+00:00",
+    "status": 200,
+    "bytes": 334826,
+    "final_url": "https://www.libramemoria.com/defunts/touret-jeanne/4d1c876a95214beea293cd904b20e454"
+  },
+  {
+    "name": "r4-theophile-notice",
+    "url": "https://www.libramemoria.com/defunts/joly-theophile/34a37d26560f4e3da01cfc19a3b045d4",
+    "checked_at": "2026-10-25T13:22:00.323988+00:00",
+    "status": 200,
+    "bytes": 334807,
+    "final_url": "https://www.libramemoria.com/defunts/joly-theophile/34a37d26560f4e3da01cfc19a3b045d4"
+  },
+  {
+    "name": "r5-avis-net",
+    "url": "https://www.avis-de-deces.net/recherche-avis-de-deces/?lastName=TOURET&firstName=Jeanne",
+    "checked_at": "2026-10-25T13:23:38.571372+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r5-ddg",
+    "url": "https://html.duckduckgo.com/html/?q=%22Jeanne+Touret%22",
+    "checked_at": "2026-10-25T13:23:38.580750+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r5-enaos",
+    "url": "https://www.enaos.net/",
+    "checked_at": "2026-10-25T13:23:38.573200+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r5-genealo",
+    "url": "https://www.genealo.net/",
+    "checked_at": "2026-10-25T13:23:38.607076+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r5-voix",
+    "url": "https://avis-de-deces.lavoixdunord.fr/",
+    "checked_at": "2026-10-25T13:23:38.577703+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "r6-bing-dubiez",
+    "url": "https://www.bing.com/search?q=DUBIEZ+TOURET&count=30&setlang=fr",
+    "checked_at": "2026-10-25T13:24:21.888254+00:00",
+    "status": 200,
+    "bytes": 92867,
+    "final_url": "https://www.bing.com/search?q=DUBIEZ+TOURET&count=30&setlang=fr"
+  },
+  {
+    "name": "r6-bing-hiette",
+    "url": "https://www.bing.com/search?q=HIETTE&count=50&setlang=fr",
+    "checked_at": "2026-10-25T13:24:21.886328+00:00",
+    "status": 200,
+    "bytes": 122030,
+    "final_url": "https://www.bing.com/search?q=HIETTE&count=50&setlang=fr"
+  },
+  {
+    "name": "r6-bing-touret",
+    "url": "https://www.bing.com/search?q=TOURET+JOLY+THIEMBRONNE&count=30&setlang=fr",
+    "checked_at": "2026-10-25T13:24:21.887628+00:00",
+    "status": 200,
+    "bytes": 90267,
+    "final_url": "https://www.bing.com/search?q=TOURET+JOLY+THIEMBRONNE&count=30&setlang=fr"
+  },
+  {
+    "name": "r6-gw-claude-cloisel",
+    "url": "https://gw.geneanet.org/cloisel62?lang=fr&n=hiette&p=claude+armand+gerard",
+    "checked_at": "2026-10-25T13:24:22.254835+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "r6-gw-claude-cnt",
+    "url": "https://gw.geneanet.org/cnt?lang=fr&n=hiette&p=claude+armand+gerard",
+    "checked_at": "2026-10-25T13:24:21.889397+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "r7-claude-all1",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&size=100&page=1",
+    "checked_at": "2026-10-25T13:26:36.955286+00:00",
+    "status": 200,
+    "bytes": 953904,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&size=100&page=1"
+  },
+  {
+    "name": "r7-claude-all2",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&size=100&page=2",
+    "checked_at": "2026-10-25T13:26:36.956369+00:00",
+    "status": 200,
+    "bytes": 768159,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&size=100&page=2"
+  },
+  {
+    "name": "r7-claude-all3",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&size=100&page=3",
+    "checked_at": "2026-10-25T13:26:36.956979+00:00",
+    "status": 200,
+    "bytes": 172142,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&size=100&page=3"
+  },
+  {
+    "name": "r7-claude-maman",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=claude",
+    "checked_at": "2026-10-25T13:26:38.505608+00:00",
+    "status": 200,
+    "bytes": 103432,
+    "final_url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=claude"
+  },
+  {
+    "name": "r7-marie-all",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&size=100",
+    "checked_at": "2026-10-25T13:26:36.957608+00:00",
+    "status": 200,
+    "bytes": 779455,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&size=100"
+  },
+  {
+    "name": "r8-claude-bvroelant",
+    "url": "https://gw.geneanet.org/bvroelant?lang=fr&n=hiette&p=claude",
+    "checked_at": "2026-10-25T13:27:52.364007+00:00",
+    "status": 200,
+    "bytes": 92245,
+    "final_url": "https://gw.geneanet.org/bvroelant?lang=fr&n=hiette&p=claude"
+  },
+  {
+    "name": "r8-gerard-ascendance",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&m=A&n=hiette&p=gerard+etienne+gaston&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+    "checked_at": "2026-10-25T13:27:52.365023+00:00",
+    "status": 200,
+    "bytes": 130825,
+    "final_url": "https://gw.geneanet.org/maman1?lang=fr&m=A&n=hiette&p=gerard+etienne+gaston&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on"
+  },
+  {
+    "name": "r8-jeanne-ascendance",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&m=A&n=touret&p=jeanne+marthe+noemie&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+    "checked_at": "2026-10-25T13:27:52.367440+00:00",
+    "status": 200,
+    "bytes": 113577,
+    "final_url": "https://gw.geneanet.org/grandrose1?lang=fr&m=A&n=touret&p=jeanne+marthe+noemie&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on"
+  },
+  {
+    "name": "r8-theophile-ascendance",
+    "url": "https://gw.geneanet.org/patou3374?lang=fr&m=A&n=joly&p=theophile+andre+francois&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on",
+    "checked_at": "2026-10-25T13:27:52.368392+00:00",
+    "status": 200,
+    "bytes": 104631,
+    "final_url": "https://gw.geneanet.org/patou3374?lang=fr&m=A&n=joly&p=theophile+andre+francois&siblings=on&notes=on&t=T&v=6&image=on&marriage=on&full=on"
+  },
+  {
+    "name": "r9-hiette1837",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Jean+Francois+Joseph&from=1837&to=1837&size=100",
+    "checked_at": "2026-10-25T13:29:48.015857+00:00",
+    "status": 200,
+    "bytes": 166600,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Jean+Francois+Joseph&from=1837&to=1837&size=100"
+  },
+  {
+    "name": "r9-joly1901",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Berthe+Francoise+Helene&size=100",
+    "checked_at": "2026-10-25T13:29:48.017851+00:00",
+    "status": 200,
+    "bytes": 166758,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Berthe+Francoise+Helene&size=100"
+  },
+  {
+    "name": "r9-touret1882",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Eugene+Achille+Desire&size=100",
+    "checked_at": "2026-10-25T13:29:48.016979+00:00",
+    "status": 200,
+    "bytes": 150948,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Eugene+Achille+Desire&size=100"
+  },
+  {
+    "name": "reprise-ad62",
+    "url": "https://archivesenligne.pasdecalais.fr/v2/ad62/etatcivil.html",
+    "checked_at": "2026-10-25T13:19:54.292331+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "reprise-dansnoscoeurs",
+    "url": "https://www.dansnoscoeurs.fr/avis-deces/recherche?nom=touret",
+    "checked_at": "2026-10-25T13:19:55.587718+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "reprise-libra",
+    "url": "https://www.libramemoria.com/avis",
+    "checked_at": "2026-10-25T13:19:54.291419+00:00",
+    "status": 200,
+    "bytes": 259975,
+    "final_url": "https://www.libramemoria.com/avis"
+  },
+  {
+    "name": "reprise-pfbee-touret",
+    "url": "https://pf-bee.fr/?s=Touret",
+    "checked_at": "2026-10-25T13:19:54.271580+00:00",
+    "status": 200,
+    "bytes": 78825,
+    "final_url": "https://pf-bee.fr/?s=Touret"
+  },
+  {
+    "name": "reprise-pfbonniez-touret",
+    "url": "https://www.pompes-funebres-herve-bonniez.fr/?s=Touret&post_type=obituaries",
+    "checked_at": "2026-10-25T13:19:54.283996+00:00",
+    "status": 200,
+    "bytes": 107587,
+    "final_url": "https://www.pompes-funebres-herve-bonniez.fr/?s=Touret&post_type=obituaries"
   }
 ]

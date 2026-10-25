@@ -33,7 +33,7 @@ Les numéros entre parenthèses sont les numéros Sosa depuis Maxime ; les perso
 
 ## Résultats des recherches en ligne
 
-Les pages de recherche Geneanet et certaines fiches d'arbres sont accessibles. Les copies factuelles M06 à M11, leurs URL, les requêtes et les erreurs sont conservées. Les résultats des moteurs généralistes n'ont pas été utilisés pour attribuer des filiations : Google renvoie une coquille nécessitant JavaScript, puis une erreur 429 ; les réponses de Bing examinées sont sans rapport utile avec les identités demandées.
+Les pages de recherche Geneanet et certaines fiches d'arbres sont accessibles. Les copies factuelles M06 à M15, leurs URL, les requêtes et les erreurs sont conservées. Google renvoie une coquille nécessitant JavaScript, puis une erreur 429 ; les réponses de Bing examinées sont sans rapport utile avec les identités demandées. DuckDuckGo a ensuite permis des recherches ciblées, sans document établissant le raccordement ; un contrôle humain a finalement interrompu ces recherches, sans contournement. Le résultat qui cite notre propre dépôt GitHub est exclu de toute corroboration indépendante.
 
 Trois axes précis sont documentés dans [le dossier des pistes](pistes-v1.2.md) :
 
@@ -41,13 +41,19 @@ Trois axes précis sont documentés dans [le dossier des pistes](pistes-v1.2.md)
 2. Jeanne Marthe Noémie TOURET, née le 15 avril 1926 à Saint-Martin-d'Hardinghem, morte le 22 octobre 2018 à Thiembronne. Parents attribués dans un arbre : Eugène TOURET et Céline BOUTON. **Son identification à la mère de Marie-Paule reste à prouver.**
 3. Théophile André François JOLY, né en 1922, mort en 2011, associé selon les arbres à une Jeanne TOURET ou BAURET. **Il n'est pas établi comme père de Marie-Paule.**
 
-Les générations anciennes de ces arbres ne sont pas ajoutées à l'ascendance de Maxime sans le raccordement manquant.
+La reprise examine aussi l'ascendance d'**Odette Marie Félicie NOËL**, épouse du candidat Gérard, qui constitue une quatrième lignée. **112 URL de fiches distinctes** sont relevées dans les tableaux publiés dans ces quatre lignées (120 positions généalogiques, compte tenu des répétitions). Douze fiches anciennes ont été lues individuellement, avec les dates, métiers et références d'actes qu'elles déclarent. Leurs extraits sont conservés dans le fichier JSON des candidats.
+
+Ces tableaux atteignent le **huitième niveau conditionnel depuis Nathalie**, vers les années 1730–1760, mais ne valident pas les liens initiaux Claude–Gérard/Odette et Marie-Paule–Théophile/Jeanne Marthe. Ils figurent dans un PDF séparé et dans `ascendances-candidates-v1.2.json`. Les générations anciennes ne sont pas ajoutées à l'ascendance raccordée de Maxime ni au GEDCOM principal.
 
 ## Points d'arrêt concrets
 
 Les pages AD62 d'état civil, de recensement et l'ARK du mariage de 1938 renvoient **503** ; le portail testé renvoie **401**. Les catalogues contributifs Geneanet de Quesques, Saint-Martin-d'Hardinghem et Vaudringhem ont été parcourus : à Quesques, le résultat affiché est un testament de 1672 ; aucun registre moderne utile n'est proposé dans les trois pages examinées. Cela n'est pas un inventaire exhaustif des archives détenues par les mairies ou le département.
 
-Les accès aux sites de faire-part Bée, Bonniez, Libra Memoria et Dans Nos Cœurs ont été refusés par le proxy lors des premiers essais. Les destinations nécessaires ont été enregistrées dans le brouillon de configuration ; un brouillon n'établit pas leur application. Aucun résultat négatif de généalogie n'est déduit de ces refus.
+Après les premiers refus, Bée, Bonniez et Libra Memoria ont pu être consultés. Les recherches Bée/Bonniez sur les noms ciblés n'ont pas produit de faire-part raccordant cette famille. Les notices Libra Memoria de Claude, Jeanne et Théophile sont explicitement issues du fichier INSEE et ne donnent pas les parents ou les descendants : elles ne sont pas des faire-part familiaux indépendants.
+
+La recherche avancée publique Enaos, avec date inconnue et tous pays, n'a pas retrouvé Jeanne TOURET ou Théophile JOLY ; les résultats HIETTE affichés ne sont pas Claude. Le parcours des trois pages de résultats Jeanne Touret d'Avis-de-deces.net a retrouvé une notice au 22 octobre 2018, mais sans famille nommée ; elle indique Audincthun, alors que l'index et la fiche candidate donnent Thiembronne. Aucun choix entre ces communes n'est fait pour la Jeanne déclarée par Maxime.
+
+Les nouveaux accès nécessaires aux autres bases et aux sauvegardes historiques restent enregistrés dans le brouillon de configuration. Un brouillon ne prouve pas leur application. Aucun résultat négatif de généalogie n'est déduit d'un refus réseau.
 
 Les [pièces prioritaires et les formulations préparées](pieces-a-obtenir.md) sont la naissance de Claude (Quesques, 1940), son décès (Vaudringhem, 2001, n° 1), et la naissance de Marie-Paule (Saint-Martin-d'Hardinghem, 1949). Elles doivent nommer les parents pour permettre une remontée fiable. Aucune mairie ni aucun propriétaire d'arbre n'a été contacté.
 

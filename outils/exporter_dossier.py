@@ -14,10 +14,13 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, Table, TableStyle
 from reportlab.graphics.shapes import Drawing, Rect, Line, String
+from exporter_ascendances import exporter as exporter_ascendances
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 OUT = ROOT / 'livrables'
 OUT.mkdir(exist_ok=True)
+if (ROOT / 'recherche/ascendances-candidates-v1.2.json').exists():
+    exporter_ascendances()
 data = json.loads((ROOT / 'donnees/arbre.json').read_text())
 font_dir = pathlib.Path('/usr/share/fonts/truetype/dejavu')
 pdfmetrics.registerFont(TTFont('Dossier', str(font_dir / 'DejaVuSans.ttf')))
@@ -107,12 +110,12 @@ flow.append(t)
 pdf('Arbre genealogique v1.2.pdf', flow)
 
 flow = title('Journal de recherche')
-for name in ['nathalie.md', 'pistes-v1.2.md', 'pieces-a-obtenir.md']:
+for name in ['nathalie.md', 'pistes-v1.2.md', 'ascendances-explorees.md', 'pieces-a-obtenir.md']:
     flow += markdown(ROOT / 'recherche' / name) + [PageBreak()]
 pdf('Journal de recherche v1.2.pdf', flow[:-1])
 
 flow = title('Notices et catalogue des sources')
-flow += [para('Les sources S01–S36 et M01–M03 sont reprises de la v1.0, sans revendiquer leur relecture. M04 est le témoignage actuel ; M05 est la photographie transcrite ; M06–M11 sont des pages lues durant la recherche v1.2.'), Spacer(1, 10)]
+flow += [para('Les sources S01–S36 et M01–M03 sont reprises de la v1.0, sans revendiquer leur relecture. M04 est le témoignage actuel ; M05 est la photographie transcrite ; M06–M15 sont des pages lues durant la recherche v1.2. M12–M15 décrivent des ascendances candidates, hors de l’arbre raccordé.'), Spacer(1, 10)]
 for s in data['sources']:
     flow += [para(s['id'] + ' — ' + s['title'], 'Heading2'), para(s.get('kind', '')), para(s.get('reference', '')), para(s.get('reading', ''))]
     if s.get('url'): flow.append(para(s['url'], 'SmallDossier'))
@@ -123,7 +126,8 @@ readme = """Dossier généalogique de Maxime BLARET — v1.2, état de recherche
 25 octobre 2026
 
 La branche maternelle est incomplète : ne pas présenter les candidats comme des ascendants établis.
-Lire les trois PDF v1.2, puis recherche/nathalie.md et recherche/pistes-v1.2.md.
+Lire les PDF v1.2, puis recherche/nathalie.md et recherche/pistes-v1.2.md.
+Le PDF Ascendances explorees - hypotheses contient quatre lignées conditionnelles jusqu'au huitième niveau. Il ne démontre pas huit générations de Nathalie. Les candidats restent hors du GEDCOM principal.
 Les données courantes figurent dans donnees/arbre.json et donnees/arbre.ged.
 Les 55 fichiers de la v1.0 sont préservés dans imports/v1.0 ; leurs PDF sont historiques.
 Les preuves nouvelles et les extraits textuels de sources sont dans preuves/.

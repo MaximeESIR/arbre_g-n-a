@@ -73,6 +73,23 @@ assert 'M05' in families['F3']['sources']
 assert families['F7']['sources'] == ['M04'], 'Le lien Jeanne–Marie-Paule reste déclaratif'
 for sid in ['M05', 'M06', 'M07', 'M08', 'M09', 'M10', 'M11']:
     assert sid in sources
+candidate_file = root / 'recherche/ascendances-candidates-v1.2.json'
+if candidate_file.exists():
+    candidates = json.loads(candidate_file.read_text())
+    assert {l['id'] for l in candidates['lineages']} == {'hiette', 'noel', 'touret', 'joly'}
+    assert len(people) == 60 and len(families) == 31, 'Ne pas rattacher les candidats sans preuve'
+    for lineage in candidates['lineages']:
+        assert lineage['missing_bridge'] and lineage['source_id'] in sources
+        nodes = {p['relative_number']: p for p in lineage['persons']}
+        assert len(nodes) == len(lineage['persons']) and 1 in nodes
+        assert max(p['generation_from_nathalie_if_hypothesis_verified'] for p in nodes.values()) == 8
+        for number, person in nodes.items():
+            depth = number.bit_length()
+            assert person['generation_from_candidate'] == depth
+            assert person['generation_from_nathalie_if_hypothesis_verified'] == depth + 2
+            assert person['evidence_level'] == 'Assertion d’un arbre collaboratif ; acte non consulté dans cette extraction'
+            for parent in person['parents_relative_numbers']:
+                assert parent in nodes and parent in (number * 2, number * 2 + 1)
 for source in data['sources'][len(original['sources']):]:
     for name in source.get('files', []): assert (root / 'donnees' / name).is_file(), name
 print('M05 conservée comme transcription de photographie ; filiation de Nathalie documentée, générations antérieures non raccordées par acte.')

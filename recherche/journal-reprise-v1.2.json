@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-25",
+  "objectif": "Remonter les deux côtés de Nathalie sur huit générations et rechercher les actes correspondants",
+  "statut": "Recherche approfondie, raccordements modernes non établis ; objectif de huit générations raccordées non atteint",
+  "personnes_arbre_raccorde": 60,
+  "positions_candidates": 120,
+  "fiches_sources_candidates": 112,
+  "niveaux_conditionnels_depuis_nathalie": 8,
+  "liens_parentaux_nouveaux_etablis": 0,
+  "resultats": [
+    "Quatre tableaux d’ascendance explorés et extraits : Gérard HIETTE, Odette NOËL, Jeanne Marthe Noémie TOURET et Théophile JOLY",
+    "Douze fiches historiques lues individuellement : dates, communes, métiers, parents, conjoints et références d’actes conservés comme assertions des déposants",
+    "Références précises de mariages HIETTE à Quesques en 1775, 1835, 1856 et 1882",
+    "Métiers déclarés dans les fiches candidates : marchand de moutons, journalier, ouvrier papetier",
+    "Avis de Jeanne TOURET du 22 octobre 2018 retrouvé après parcours des trois pages de résultats Avis-de-deces.net, sans noms de famille associés ; commune Audincthun différente de Thiembronne dans les autres index",
+    "Recherche avancée Enaos via son formulaire public, tous pays et date inconnue ; aucun raccordement obtenu",
+    "Notices Libra Memoria de Claude HIETTE, Jeanne TOURET et Théophile JOLY lues et identifiées comme issues du même fichier INSEE, sans filiation",
+    "Sauvegardes Internet Archive de l’interface et du formulaire AD62 consultées ; la page de 2024 confirme l’annonce de recensements numérisés jusqu’à 1946, mais les vues nécessaires de Quesques n’ont pas été récupérées"
+  ],
+  "limites": [
+    "Claude n’a pas encore de parents établis dans les documents obtenus",
+    "Le père de Marie-Paule reste inconnu ; sa mère Jeanne TOURET est déclarée par Maxime, sans identité civile complète établie",
+    "Le service AD62 actuel, y compris le formulaire exact retrouvé dans les sauvegardes, renvoie 503",
+    "Les sauvegardes de la visionneuse ne contiennent pas les images et la notice nécessaires ; aucune lecture d’un foyer de Claude n’est revendiquée",
+    "MyHeritage renvoie une page Incapsula ; aucun contournement tenté",
+    "DuckDuckGo a ensuite présenté un contrôle humain ; les requêtes sur ce service ont été arrêtées, sans contournement",
+    "L’éventuel résultat qui cite notre propre GitHub est exclu des corroborations indépendantes",
+    "Les dates de naissance d’Odette NOËL et Berthe JOLY divergent selon les déposants ; elles ne sont pas corrigées sans acte",
+    "FamilySearch renvoie 403 à la recherche publique testée ; aucune connexion ni aucun contournement tenté",
+    "Les recherches Ancestry exactes Claude HIETTE, Marie-Paule JOLY et Gérard HIETTE ne produisent aucun bon résultat affiché ; les recherches larges produisent des homonymes et des champs masqués, qui ne sont pas utilisés comme preuve"
+  ],
+  "question_familiale": "Reconnaissance éventuelle des couples Gérard HIETTE–Odette NOËL et Théophile JOLY–Jeanne Marthe Noémie TOURET demandée à Maxime, sans présumer sa réponse.",
+  "controles": [
+    "L’ascendance raccordée conserve 60 personnes et 31 familles ; aucun candidat n’y est injecté",
+    "Les 55 fichiers originaux et les personnes, familles et sources historiques hors périmètre restent contrôlés",
+    "Les numéros et relations des quatre tableaux conditionnels sont contrôlés",
+    "Les extraits et références des sources M12–M15 sont conservés séparément des actes originaux"
+  ],
+  "nombre_resultats_requetes_journalises": 209,
+  "actes_prioritaires": [
+    "Naissance de Claude Armand Gérard HIETTE, Quesques, 6 janvier 1940",
+    "Décès de Claude, Vaudringhem, 11 janvier 2001, acte 1",
+    "Naissance de Marie-Paule JOLY, Saint-Martin-d’Hardinghem, 30 janvier 1949"
+  ],
+  "communications_externes": "Aucun message envoyé à une mairie, une entreprise funéraire ou un propriétaire d’arbre."
+}
