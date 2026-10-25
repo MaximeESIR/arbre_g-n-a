@@ -39,6 +39,14 @@ Les métadonnées des sources héritées du dossier peuvent mentionner des fichi
 
 ## Recherche vers la v2
 
-La v2 est réservée à l’objectif de huit générations raccordées. La [nouvelle source HIETTE–NOËL](recherche/v2/raccordement-hiette.md) affirme un lien Nathalie–Claude–Gérard/Odette dans un arbre public ; son identification à notre famille reste à recouper. Une [chaîne HIETTE sur huit niveaux](recherche/v2/chaine-hiette-huit-niveaux.md) expose chaque source et les incertitudes. Aucun ZIP v2 n’est publié.
+La v2 est livrée à la demande de Maxime comme dossier de recherche, avec les hypothèses explicitement signalées. La [nouvelle source HIETTE–NOËL](recherche/v2/raccordement-hiette.md) affirme un lien Nathalie–Claude–Gérard/Odette dans un arbre public ; son identification à notre famille reste à recouper. Une [chaîne HIETTE sur huit niveaux](recherche/v2/chaine-hiette-huit-niveaux.md) expose chaque source et les incertitudes. Le ZIP v2 réunit maintenant les PDF, les données, les sources et l’import original.
 
 L’[arbre de travail interactif de Nathalie](livrables/Nathalie-arbre-de-travail.html) rassemble les quatre lignées dans une vue unique dépliable sur huit niveaux. Il contient 123 positions renseignées, dont 120 positions candidates ; il ne présente pas ces candidats comme des ancêtres établis. Télécharger le HTML puis l’ouvrir dans un navigateur. Les [données correspondantes](recherche/v2/arbre-travail-nathalie.json) conservent les sources et le statut de chaque position.
+
+## Livrables v2
+
+- [PDF Nathalie — huit niveaux, 11 pages](livrables/Nathalie-Blaret-8-generations-v2.pdf)
+- [PDF Maxime — deux branches, maximum dix niveaux, 17 pages](livrables/Maxime-Blaret-arbre-complet-v2.pdf)
+- [ZIP complet v2](livrables/Maxime-Blaret-v2.zip)
+
+Les huit niveaux de Nathalie sont conditionnels : les cases ocres signalent les candidats. La profondeur maximale de dix niveaux depuis Maxime provient des données paternelles originales ; les lacunes sont conservées. Régénérer avec `python3 outils/exporter_v2.py`.

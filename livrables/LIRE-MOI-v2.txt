@@ -1,0 +1,13 @@
+DOSSIER COMPLET MAXIME BLARET — VERSION 2
+25 octobre 2026
+
+Ouvrir Nathalie-Blaret-8-generations-v2.pdf et Maxime-Blaret-arbre-complet-v2.pdf.
+Nathalie : huit niveaux explorés. Maxime : profondeur maximale de dix niveaux, racine comprise, héritée du dossier paternel ; branche de Nathalie jusqu’au niveau neuf depuis Maxime.
+Le mot complet désigne la réunion des documents et des branches disponibles, pas une ascendance intégralement démontrée.
+Les cases ocres et liens pointillés sont des candidats ou des filiations conditionnelles. Lire la première page de chaque PDF.
+Les sources et niveaux de preuve restent dans preuves/, recherche/ et donnees/.
+Le GEDCOM principal conserve l’arbre documenté et les déclarations identifiées ; les candidats des nouveaux PDF sont conservés dans les JSON de recherche, sans insertion silencieuse dans ce GEDCOM.
+Les 55 fichiers v1.0 sont conservés intégralement. Les anciens PDF v1.2 sont des états historiques.
+La photographie de naissance reçue dans le chat est transcrite en M05 ; son fichier image n’est pas inclus.
+La nouvelle source M16 indique un raccordement HIETTE dans nanamaxime, avec identification encore à recouper.
+La v2 est livrée à la demande de Maxime comme dossier avec hypothèses, sans prétendre que huit générations de Nathalie soient établies.
