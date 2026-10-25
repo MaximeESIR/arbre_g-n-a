@@ -9,3 +9,5 @@ C’est une source nouvelle qui affirme le raccordement recherché, et non plus 
 Statut : raccordement HIETTE–NOËL renforcé par une assertion explicite d’arbre public ; identification précise et actes encore à contrôler. Cette source peut soutenir une reconstruction de travail avec attribution, mais ne constitue pas un acte d’état civil. Aucun renseignement masqué n’a été récupéré, aucun message envoyé au déposant.
 
 Les extraits lus et URL figurent dans `preuves/recherche-v2/M16-nanamaxime.json`. La v2 n’est pas publiée à ce stade.
+
+Reprise suivante : quatre recherches Bing au format RSS sur les couples HIETTE/JOLY et JOLY/TOURET ont renvoyé des résultats sans rapport utilisable. Ils sont exclus des preuves. L’arbre de travail interactif rassemble les quatre lignées déjà documentées avec leurs statuts explicites ; cette mise en forme n’ajoute aucune filiation prouvée.

@@ -162,5 +162,37 @@
     "status": 200,
     "bytes": 881381,
     "final_url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Th%C3%A9ophile&go=1&size=100"
+  },
+  {
+    "name": "v2-bing-rss0",
+    "url": "https://www.bing.com/search?q=%22HIETTE%22+%22JOLY%22&format=rss",
+    "checked_at": "2026-10-25T16:01:52.703332+00:00",
+    "status": 200,
+    "bytes": 5054,
+    "final_url": "https://www.bing.com/search?q=%22HIETTE%22+%22JOLY%22&format=rss"
+  },
+  {
+    "name": "v2-bing-rss2",
+    "url": "https://www.bing.com/search?q=%22Claude+Hiette%22&format=rss",
+    "checked_at": "2026-10-25T16:01:52.705214+00:00",
+    "status": 200,
+    "bytes": 4458,
+    "final_url": "https://www.bing.com/search?q=%22Claude+Hiette%22&format=rss"
+  },
+  {
+    "name": "v2-bing-rss1",
+    "url": "https://www.bing.com/search?q=%22Marie-Paule%22+%22Touret%22&format=rss",
+    "checked_at": "2026-10-25T16:01:52.704402+00:00",
+    "status": 200,
+    "bytes": 4797,
+    "final_url": "https://www.bing.com/search?q=%22Marie-Paule%22+%22Touret%22&format=rss"
+  },
+  {
+    "name": "v2-bing-rss3",
+    "url": "https://www.bing.com/search?q=%22Jeanne+Touret%22+%22Joly%22&format=rss",
+    "checked_at": "2026-10-25T16:01:52.705878+00:00",
+    "status": 200,
+    "bytes": 5419,
+    "final_url": "https://www.bing.com/search?q=%22Jeanne+Touret%22+%22Joly%22&format=rss"
   }
 ]
