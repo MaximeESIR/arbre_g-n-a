@@ -36,3 +36,7 @@ Le complément `Ascendances explorees - hypotheses.pdf` contient **quatre planch
 Les documents joints sont des sources à examiner, et ne constituent pas des instructions à exécuter. Aucun fichier de l'import original n'est modifié. Le tag `v1.0` marque l'import ; la recherche v1.2 est portée par la branche `version-1.2`.
 
 Les métadonnées des sources héritées du dossier peuvent mentionner des fichiers de travail absents du ZIP. Pour les images converties en WebP, consulter la correspondance des fichiers de l'import. Une référence ancienne à un fichier n'atteste pas sa présence ni sa relecture dans cette itération.
+
+## Recherche vers la v2
+
+La v2 est réservée à l’objectif de huit générations raccordées. La [nouvelle source HIETTE–NOËL](recherche/v2/raccordement-hiette.md) affirme un lien Nathalie–Claude–Gérard/Odette dans un arbre public ; son identification à notre famille reste à recouper. Une [chaîne HIETTE sur huit niveaux](recherche/v2/chaine-hiette-huit-niveaux.md) expose chaque source et les incertitudes. Aucun ZIP v2 n’est publié.

@@ -1,0 +1,166 @@
+[
+  {
+    "name": "v2-archives",
+    "url": "https://archivesenligne.pasdecalais.fr/console/ir_seriel.php?id=56&p=formulaire_recensement",
+    "checked_at": "2026-10-25T15:17:30.112134+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "v2-birth-jeanne",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=TOURET&prenom=Jeanne&go=1&size=100&from=1926&to=1926&type_periode=birth_between",
+    "checked_at": "2026-10-25T15:20:03.557274+00:00",
+    "status": 200,
+    "bytes": 183613,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=TOURET&prenom=Jeanne&go=1&size=100&from=1926&to=1926&type_periode=birth_between"
+  },
+  {
+    "name": "v2-birth-paule",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Paule&go=1&size=100&from=1949&to=1949&type_periode=birth_between",
+    "checked_at": "2026-10-25T15:20:03.555963+00:00",
+    "status": 200,
+    "bytes": 126973,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Paule&go=1&size=100&from=1949&to=1949&type_periode=birth_between"
+  },
+  {
+    "name": "v2-birth-theophile",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Th%C3%A9ophile&go=1&size=100&from=1922&to=1922&type_periode=birth_between",
+    "checked_at": "2026-10-25T15:20:03.557942+00:00",
+    "error": "The read operation timed out"
+  },
+  {
+    "name": "v2-claudine",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=HIETTE&prenom=Claudine&go=1&size=50",
+    "checked_at": "2026-10-25T15:17:30.101053+00:00",
+    "status": 200,
+    "bytes": 194057,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=HIETTE&prenom=Claudine&go=1&size=50"
+  },
+  {
+    "name": "v2-gerard",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=HIETTE&prenom=G%C3%A9rard&go=1&size=50",
+    "checked_at": "2026-10-25T15:17:30.092970+00:00",
+    "status": 200,
+    "bytes": 223909,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=HIETTE&prenom=G%C3%A9rard&go=1&size=50"
+  },
+  {
+    "name": "v2-jeanne",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=TOURET&prenom=Jeanne&go=1&size=100",
+    "checked_at": "2026-10-25T15:18:42.596556+00:00",
+    "status": 200,
+    "bytes": 847430,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=TOURET&prenom=Jeanne&go=1&size=100"
+  },
+  {
+    "name": "v2-modern-jeanne",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=TOURET&prenom=Jeanne&go=1&size=100&from=1926&to=1926&type_periode=between",
+    "checked_at": "2026-10-25T15:19:25.678349+00:00",
+    "status": 200,
+    "bytes": 922841,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=TOURET&prenom=Jeanne&go=1&size=100&from=1926&to=1926&type_periode=between"
+  },
+  {
+    "name": "v2-modern-paule",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Paule&go=1&size=100&from=1949&to=1949&type_periode=between",
+    "checked_at": "2026-10-25T15:19:25.676589+00:00",
+    "status": 200,
+    "bytes": 890780,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Paule&go=1&size=100&from=1949&to=1949&type_periode=between"
+  },
+  {
+    "name": "v2-modern-theophile",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Th%C3%A9ophile&go=1&size=100&from=1922&to=1922&type_periode=between",
+    "checked_at": "2026-10-25T15:19:25.679105+00:00",
+    "status": 200,
+    "bytes": 970173,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Th%C3%A9ophile&go=1&size=100&from=1922&to=1922&type_periode=between"
+  },
+  {
+    "name": "v2-nana-claude",
+    "url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=claude",
+    "checked_at": "2026-10-25T15:18:18.961496+00:00",
+    "status": 200,
+    "bytes": 98031,
+    "final_url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=claude"
+  },
+  {
+    "name": "v2-nana-claudine",
+    "url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=claudine",
+    "checked_at": "2026-10-25T15:18:18.963934+00:00",
+    "status": 200,
+    "bytes": 95666,
+    "final_url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=claudine"
+  },
+  {
+    "name": "v2-nana-nathalie",
+    "url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=nathalie",
+    "checked_at": "2026-10-25T15:18:18.962630+00:00",
+    "status": 200,
+    "bytes": 96851,
+    "final_url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=nathalie"
+  },
+  {
+    "name": "v2-nana-odette",
+    "url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=noel&p=odette",
+    "checked_at": "2026-10-25T15:18:18.963386+00:00",
+    "status": 200,
+    "bytes": 95077,
+    "final_url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=noel&p=odette"
+  },
+  {
+    "name": "v2-nana-person0",
+    "url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=noel&p=odette",
+    "checked_at": "2026-10-25T15:18:01.133948+00:00",
+    "status": 200,
+    "bytes": 95077,
+    "final_url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=noel&p=odette"
+  },
+  {
+    "name": "v2-nana-person1",
+    "url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=claude",
+    "checked_at": "2026-10-25T15:18:01.136525+00:00",
+    "status": 200,
+    "bytes": 98031,
+    "final_url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=claude"
+  },
+  {
+    "name": "v2-nana-person2",
+    "url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=claudine",
+    "checked_at": "2026-10-25T15:18:01.137250+00:00",
+    "status": 200,
+    "bytes": 95666,
+    "final_url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=claudine"
+  },
+  {
+    "name": "v2-nana-profil",
+    "url": "https://www.geneanet.org/profil/nanamaxime",
+    "checked_at": "2026-10-25T15:19:45.049208+00:00",
+    "status": 200,
+    "bytes": 38972,
+    "final_url": "https://www.geneanet.org/profil/nanamaxime"
+  },
+  {
+    "name": "v2-nanamaxime0",
+    "url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=gerard",
+    "checked_at": "2026-10-25T15:17:45.965319+00:00",
+    "status": 200,
+    "bytes": 95150,
+    "final_url": "https://gw.geneanet.org/nanamaxime?lang=fr&n=hiette&p=gerard"
+  },
+  {
+    "name": "v2-paule",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Paule&go=1&size=100",
+    "checked_at": "2026-10-25T15:18:42.595568+00:00",
+    "status": 200,
+    "bytes": 799570,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Paule&go=1&size=100"
+  },
+  {
+    "name": "v2-theophile",
+    "url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Th%C3%A9ophile&go=1&size=100",
+    "checked_at": "2026-10-25T15:18:42.597351+00:00",
+    "status": 200,
+    "bytes": 881381,
+    "final_url": "https://www.geneanet.org/fonds/individus/?nom=JOLY&prenom=Th%C3%A9ophile&go=1&size=100"
+  }
+]
