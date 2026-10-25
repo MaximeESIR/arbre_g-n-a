@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-25",
+  "scope": "Première itération maternelle après import v1.0",
+  "sources_consultees": [
+    "ZIP fourni : 55 fichiers, dont JSON, GEDCOM et journal maternel historique",
+    "Témoignage actuel de Maxime et confirmation de naissance de Marie-Paule au 30 janvier 1949"
+  ],
+  "ajouts": [
+    {
+      "sosa": 6,
+      "name": "Claude HIETTE",
+      "status": "Déclaration familiale M04"
+    },
+    {
+      "sosa": 15,
+      "name": "Jeanne TOURET",
+      "status": "Déclaration familiale M04"
+    }
+  ],
+  "corrections": [
+    {
+      "sosa": 7,
+      "name": "Marie-Paule JOLY",
+      "birth": "30 JAN 1949",
+      "status": "Date confirmée par Maxime ; lieu possible Saint-Martin-d’Hardinghem, non prouvé"
+    }
+  ],
+  "piste": {
+    "source": "M02 du ZIP, index secondaire non relu en ligne",
+    "name": "Claude Armand Gérard HIETTE",
+    "birth": "6 JAN 1940",
+    "birth_place": "Quesques",
+    "death": "11 JAN 2001",
+    "death_place": "Vaudringhem",
+    "death_act": "1",
+    "status": "Candidat concordant ; acte à obtenir, parents inconnus"
+  },
+  "network_checks": [
+    {
+      "url": "https://www.google.com/search?q=%22Claude+Hiette%22+Quesques",
+      "result": "Tunnel connection failed: 403 Forbidden",
+      "meaning": "Accès refusé par le proxy ; aucun résultat généalogique obtenu"
+    },
+    {
+      "url": "https://deces.matchid.io/",
+      "result": "Tunnel connection failed: 403 Forbidden",
+      "meaning": "Accès refusé par le proxy ; aucun résultat généalogique obtenu"
+    },
+    {
+      "url": "https://archivesenligne.pasdecalais.fr/",
+      "result": "Tunnel connection failed: 403 Forbidden",
+      "meaning": "Accès refusé par le proxy ; aucun résultat généalogique obtenu"
+    },
+    {
+      "url": "https://www.geneanet.org/fonds/individus/?nom=HIETTE&prenom=Claude",
+      "result": "Tunnel connection failed: 403 Forbidden",
+      "meaning": "Accès refusé par le proxy ; aucun résultat généalogique obtenu"
+    }
+  ],
+  "configuration": "Domaines de recherche enregistrés dans le brouillon ; application au runtime et publication non établies.",
+  "limits": [
+    "Aucun nouvel acte original consulté",
+    "Aucun parent de Claude identifié",
+    "Père de Marie-Paule inconnu",
+    "Parents et conjoint de Jeanne inconnus",
+    "Ne pas rattacher Frédéric HIETTE par simple patronyme"
+  ],
+  "next_action": "Vérifier le décès du candidat Claude à Vaudringhem, puis rechercher la naissance à Quesques et le mariage HIETTE–JOLY."
+}
