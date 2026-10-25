@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-25",
+  "central_data_modified": false,
+  "corrections": [
+    {
+      "person_sosa": 45,
+      "field": "given",
+      "old": "Sideline Catherine",
+      "new": "Fidéline Catherine",
+      "evidence": ["S18", "S19"],
+      "reading": "S18 : mère Fidéline Catherine Ledoux. S19 : Fi-déline Catherine Ledoux, prénom séparé sur deux lignes. Le mariage identifié par le relevé Saint-Omer1852 nomme également Fidéline.",
+      "crop": "/workspace/genealogie-blaret/paternel-reprise2/S19-filiation-crop.jpg",
+      "confidence": "Lecture claire sur l'acte du mariage du fils."
+    },
+    {
+      "person_sosa": 68,
+      "field": "death.date",
+      "old": "11 FEB 1864",
+      "new": "11 FEB 1866",
+      "evidence": ["S22"],
+      "reading": "Alexandre Joseph Libessart décédé à Pihem le onze février l'an mil huit cent soixante six.",
+      "crop": "/workspace/genealogie-blaret/paternel-reprise2/S22-Alexandre-deces.jpg",
+      "confidence": "Année six lisible en agrandissement. Date citée dans le mariage du fils, décès propre non consulté."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "person_sosa": 46,
+      "field": "death.date",
+      "current": "7 JAN 1883",
+      "proposed": null,
+      "reading": "Le mariage de la fille S19 cite le sept janvier mil huit cent quatre vingt ... ; le dernier mot n'est pas déchiffré avec assez de certitude sur cette copie par cet agent. Des arbres proposent1896, mais la photographie seule doit décider. Ne pas substituer1896 sur seule autorité des arbres.",
+      "crop": "/workspace/genealogie-blaret/paternel-reprise2/S19-filiation-crop.jpg",
+      "suggestion": "Faire une relecture indépendante, ou laisser date complète indéterminée jusqu'au décès original ; conserver le jour7janvier dans la note."
+    }
+  ]
+}

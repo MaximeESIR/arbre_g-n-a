@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-25",
+  "new_verified_ancestors": [],
+  "new_verified_family_links": [],
+  "counts_new_public_tree_pages": {
+    "pages.json": 165,
+    "pages-2.json": 68,
+    "pages-3.json": 51
+  },
+  "primary_audit": "audit.json",
+  "unattached_primary_documents": [
+    {
+      "file": "30206650.jpg",
+      "url": "https://gw.geneanet.org/blepretre2?lang=fr&n=dufay&p=marc+aimable",
+      "reference": "AD62 5 MIR 902/3 Wizernes an II–1894 vue740/1608",
+      "reading": "Mariage 4frimairean12 : Marc Joseph Aimable Dufay,25ans,néàWizernes20juillet1778,charpentier,filsdeMarcJosephDufayetfeueMarieCatherineDuplouy ; Catherine Joseph Denekre,25ans,néeWizernes23juin1779,filleNicolasJosephDenekreetfeueJeanneJacquelineMarieRobitaille.",
+      "crop": "marc-candidate-mariage-crop.jpg",
+      "status": "Acte photographique lu mais couple non encore raccordé aux ascendants de Maxime. Ne pas compter ces personnes."
+    },
+    {
+      "file": "30206634.jpg",
+      "reference": "AD62 5 MIR 902/2 Wizernes1738–1872, imprimévue446/1672, malgré titre média594",
+      "status": "Photographie de page1778 contenant acteDufay. Donnéesexactesàrelireavecmeilleurerésolution ; prévisualisationnon suffisantepourtranscriptioncomplète."
+    },
+    {
+      "file": "30206622.jpg",
+      "reference": "AD62 5 MIR403/1Hallines1623–1852vue1263/1694",
+      "status": "Photographie de décèsDufay. Parents etdatesàrelireenmeilleurerésolution. Horsarbreenl’absencedupont."
+    }
+  ],
+  "frontiers": [
+    {
+      "branch": "LIBESSART–MORENVAL",
+      "target": "Mariage26novembre1828Pihem",
+      "precise_reference": "Pihem1737–1859,vues919–920,acte8 selonrobert1951",
+      "new_evidence": "Relevé collaboratif33176/335confirmejourcouple ; pasphotoattachée. 34fichesAlexandre et11AgnesconsultéesaucunecopiepourraccordG8. S22corrigepèreD1866.",
+      "possible_parents_unverified": "ArthurJosephLibessart×JeanneLouiseLecat ; mèreAgnesnaitAudincthun27fev1803selonarbres,nonajoutée."
+    },
+    {
+      "branch": "DEGARDIN–LEDOUX",
+      "target": "Mariage4février1852Saint-Omer,acte23",
+      "precise_reference": "5MIR765/50,vue977/1351,arkb2f87a1fc7736eb0e11f5f9a3d7da114",
+      "new_evidence": "Relevé1046/5035confirmeledatemariagecouple. FidélineprénomcorrigéparS19. FichesFidélineCatherine8sansphoto ; recherchesimagesarchivesnesortentpasSaintOmer1828/1852.",
+      "other_target": "N Louis28sept1827Lumbres5MIR534/2vue607acte16 ; N Fidéline10avril1828Racquinghem5MIR684/2vue48acte4 (citationssecondaires) ; parentsnonajoutés."
+    },
+    {
+      "branch": "DUFAY–FARDOUX",
+      "target": "Mariage17septembre1866Wizernes",
+      "new_evidence": "Relevé60916/662056et114962confirmentdatecouple sansimage. 3photosMarcAimabletrouvéesmaisraccordAuguste→Aimable→Marcmanquant. RecherchesOmbelineLEJEUNEetLEJOSNE,vraievariation,aucunenouvellephoto.",
+      "bridge_needed": "PhotographieM1866ouN/DpropresAugusteJosephépouxHubertine. ParentsAimableDUFAYetSophieOmbelineLEJOSNErestentcandidats."
+    },
+    {
+      "branch": "BLARET–GOU",
+      "target": "Mariage30novembre1824Wavrans",
+      "new_evidence": "Recherchesarchivesnom/prénom/communeetglobalavecimage : aucunactephotographiquepertinentLibre pourFrançoisouÉléonore. Sourcesdéjàdéfiniesdansjournal."
+    }
+  ],
+  "alternative_access": {
+    "familysearch": "familysearch-access.json : deux essaiscataloguePihem/Wizernes403",
+    "municipal_saint_omer": "Collections numérisées annoncées : manuscrits, incunables, presse XIXe, délibérations. Archivesétatcivilconservéesphysiquementmaisaucunaccèsnumériquedirectidentifié.",
+    "wizernes": "PageEtatcivilmairieoffredemanded’actes,aucunregistreenligne. Aucunmessage/demandetransmis.",
+    "official_outage": "Forum23oct2026confirmeblocageglobal ; nouveausiteéditorialprécisepasdemigrationArchivesenligne. Nouvelleurlnonidentifiéeetancienvisualiseurindisponible."
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "archive": "dossier-complet-maxime-blaret-3472278327d3420780ef0c3e949b8d0c.zip",
+  "archive_sha256": "96be7a661f42237aae5bc34fed5e684815640fcc2d963cd61bf439b7817ab863",
+  "files": [
+    {
+      "path": "Arbre genealogique de Maxime Blaret.pdf",
+      "bytes": 73158,
+      "sha256": "43f36879031158aa86dc5005d6f33825ea147e391894b1ea045bd00dc5acd809"
+    },
+    {
+      "path": "Journal de recherche.pdf",
+      "bytes": 69638,
+      "sha256": "ff277bc64e0653eea2e0e5406834ba1594f7cfe9445cf6506a6bbb8ad78ec67b"
+    },
+    {
+      "path": "Notices et catalogue des sources.pdf",
+      "bytes": 126601,
+      "sha256": "b632fe292fe8fb31f43b6a06877a4759f2294967d1e3cc10452efa3b996063ff"
+    },
+    {
+      "path": "Maxime Blaret.ged",
+      "bytes": 52986,
+      "sha256": "c41fb3bf5afa090387904777ce9aae70cac67cdb39faae2a76549c7439e07847"
+    },
+    {
+      "path": "Donnees genealogiques.json",
+      "bytes": 88347,
+      "sha256": "9ad824448cc85c02915be3b0b84a69a79637205cc10e8b1b9367ab6c761d8f00"
+    },
+    {
+      "path": "Sources et pistes.json",
+      "bytes": 23387,
+      "sha256": "edce0d198d71c69e43f1104ffc7bf02dd2b809e09c75289f91d97fef02e75d30"
+    },
+    {
+      "path": "Recherche/paternel-reprise2 - rapport-reprise2.json",
+      "bytes": 3942,
+      "sha256": "2d356ac303d55c05be7873a1969ecb12d671714d7182eaae03e36139995f0cca"
+    },
+    {
+      "path": "Recherche/paternel-reprise2 - audit.json",
+      "bytes": 1816,
+      "sha256": "c2f8d3b3be41647180bcd51fa911a104bb15e9e8c863f1405f174a03f9848c81"
+    },
+    {
+      "path": "Recherche/maternel-reprise2 - journal-reprise2.json",
+      "bytes": 7129,
+      "sha256": "f367371a28a02945ebea00d8aff2250a70fa5fa1dd44282d4a0909d73dcb59c3"
+    },
+    {
+      "path": "Pistes non raccordees/30206634.webp",
+      "bytes": 165146,
+      "sha256": "a78895a261f504f6a6c03ac42fd9497d9dd716e660275ff13e24ba44148a77fa"
+    },
+    {
+      "path": "Pistes non raccordees/30206650.webp",
+      "bytes": 152796,
+      "sha256": "5f6b8b2375c3c181148a99e6404c6298dc0dcb74ff5e72d6cefc90305d9fb021"
+    },
+    {
+      "path": "Pistes non raccordees/30206622.webp",
+      "bytes": 204326,
+      "sha256": "a74739ff447e770287f837cb01094577bd70fbc24952d3b36ffeb60b24dafeb7"
+    },
+    {
+      "path": "Preuves/S02-faire-part-original.pdf",
+      "bytes": 309747,
+      "sha256": "cb9092794dcd2c3516bb2796a81692da18d37c7e1b94ea3a6bc594367d356e0a"
+    },
+    {
+      "path": "Preuves/S02-roger-blaret-faire-part.webp",
+      "bytes": 130720,
+      "sha256": "67149d79f52be1a6e25f9b5b96ece20a003c382f7965d85978bc6db757a81046"
+    },
+    {
+      "path": "Preuves/S04-vue-02.webp",
+      "bytes": 134158,
+      "sha256": "1c30f5c2d76bebf84944c39960e891e9194cb2e14c22b99bdd0993d128ff8898"
+    },
+    {
+      "path": "Preuves/S05-vue-02.webp",
+      "bytes": 143160,
+      "sha256": "469611057cee94e06867ffce3dd29cd45c3eb7600932d47d287c37935ce78a0a"
+    },
+    {
+      "path": "Preuves/S06-vue-49.webp",
+      "bytes": 252886,
+      "sha256": "ae499e52356f60f8a7628e9b64f69a62edc21fff9eae8e431e1cbd1c14e0e071"
+    },
+    {
+      "path": "Preuves/S06-vue-50.webp",
+      "bytes": 283538,
+      "sha256": "fd01a3c910c315625513f7ea665c2406a9fd4fc2184eadcfb6e257a8d5d3e833"
+    },
+    {
+      "path": "Preuves/S07-vue-240.webp",
+      "bytes": 207682,
+      "sha256": "d0b9a34ceb98a45b0f13e6d623e0111a0965b62a1ccec05735c05ca16ccf282e"
+    },
+    {
+      "path": "Preuves/S08-vue-207.webp",
+      "bytes": 453634,
+      "sha256": "c3032b52d78a2e68f530e17c84de23f046661370f0f924037c1fbf3a71ed7664"
+    },
+    {
+      "path": "Preuves/S08-vue-208.webp",
+      "bytes": 480816,
+      "sha256": "8ebb3c119c7d534ed277d8a783e54688e1d529c737bff11545e71bafbff4b123"
+    },
+    {
+      "path": "Preuves/S09-vue-130.webp",
+      "bytes": 345426,
+      "sha256": "6cf83e7c9f2d588a54e60529d3053a02b1269cb65875125128f83f144dd56705"
+    },
+    {
+      "path": "Preuves/S10-vue-1497.webp",
+      "bytes": 292798,
+      "sha256": "e6dced5cad5e5e82787c205ef8fee71bede08c602a3bc7fbc9c6cdc1848f7183"
+    },
+    {
+      "path": "Preuves/S11-vue-1537.webp",
+      "bytes": 310724,
+      "sha256": "b8128c406a09ab7049e243dd0d0108d6a2a876a225c8d7ff489e28d22a45eaad"
+    },
+    {
+      "path": "Preuves/S12-vue-180.webp",
+      "bytes": 388674,
+      "sha256": "b30a42834d39f421756fa97161b75eb5c34ceb5320df80fe4dce41ffe8a24ed2"
+    },
+    {
+      "path": "Preuves/S13-vue-15.webp",
+      "bytes": 187302,
+      "sha256": "a447a72526f652d141eead7d7b6cc8f849f451e80cf03b7bd18b0e4caeb0c646"
+    },
+    {
+      "path": "Preuves/S13-vue-16.webp",
+      "bytes": 203938,
+      "sha256": "3a4ef303312dfd7479e3e6d46742c8b74d67b02615097d9a03e3768d097ccc6c"
+    },
+    {
+      "path": "Preuves/S14-vue-45.webp",
+      "bytes": 347450,
+      "sha256": "c3079ad6521c2b8ee407788e5c392b2771834373175fa0a47cce1c292a7e37e7"
+    },
+    {
+      "path": "Preuves/S15-vue-29.webp",
+      "bytes": 300180,
+      "sha256": "6697a395b5ead1120c8146cdb1e6ad34a04b73d177163ab39dfdbb0d6b96c57c"
+    },
+    {
+      "path": "Preuves/S16-vue-974.webp",
+      "bytes": 267274,
+      "sha256": "36659a5a1e746c15df19d6a8ecb6bee096afaeeb6129502a3b764058fcc134ab"
+    },
+    {
+      "path": "Preuves/S17-vue-1489.webp",
+      "bytes": 299662,
+      "sha256": "8da1f9333c8ec733fa905b3334754bbb74345e9b5f438d0ee50722b1b4fc5189"
+    },
+    {
+      "path": "Preuves/S17-vue-1490.webp",
+      "bytes": 276322,
+      "sha256": "a5a678d2fc82b71715a554b16a547c36c1a9c7c39a35708b06b5b8f233343e9b"
+    },
+    {
+      "path": "Preuves/S18-vue-19.webp",
+      "bytes": 296724,
+      "sha256": "e6697f94d4091110b1c888345105b886913a0a46e3cc3783674ab24a1508e1f4"
+    },
+    {
+      "path": "Preuves/S19-vue-255.webp",
+      "bytes": 209456,
+      "sha256": "3ff7e2b5976e6bb682a2702426738bf1ade66e7f6eaa56b5618b5fb13bf80f19"
+    },
+    {
+      "path": "Preuves/S19-vue-256.webp",
+      "bytes": 211864,
+      "sha256": "242d9f9e155ce7473d01996049ce89faf24495002f4dc1a77a77d0ca19987cb3"
+    },
+    {
+      "path": "Preuves/S20-releve-secondaire.pdf",
+      "bytes": 312463,
+      "sha256": "7550f90ef74592b7d80f517320c4deff96b9a4a0ef26969bd84b80ac1ee4b7e7"
+    },
+    {
+      "path": "Preuves/S21-vue-568.webp",
+      "bytes": 281576,
+      "sha256": "149687674aa1f0675eb431255e7b13269e61dbe35dc0203e99a8acca981ac6e4"
+    },
+    {
+      "path": "Preuves/S22-vue-674.webp",
+      "bytes": 262852,
+      "sha256": "ee94f5f107a682e436370032142c5997a5bd19924c7246c27a76991e5a293edd"
+    },
+    {
+      "path": "Preuves/S23-vue-627.webp",
+      "bytes": 275600,
+      "sha256": "4595bc5b2e42fdd41597f6801c2fc3a4897373697ea8ce69233fbc3fb261224c"
+    },
+    {
+      "path": "Preuves/S23-vue-628.webp",
+      "bytes": 291276,
+      "sha256": "16cbb12316fd4a7e89b33a40d4f27c88cea6c69c2c7a8507d0d533c2547672a7"
+    },
+    {
+      "path": "Preuves/S24-93237870.webp",
+      "bytes": 194472,
+      "sha256": "ef85d5ee7c7e4386e613e3877311e5f7510272eb0eac451e8e52983b6bf4b588"
+    },
+    {
+      "path": "Preuves/S25-charles-delvart-0.webp",
+      "bytes": 35662,
+      "sha256": "0820958daa1df73aec143998dd54c8fc8f106d1bff8645e1e9067f818d68c385"
+    },
+    {
+      "path": "Preuves/S26-93226267.webp",
+      "bytes": 38968,
+      "sha256": "5d0ef53ef21f4155ce44037ef1f9938f6185fbc95f37bc938c8cedbb837eb0a4"
+    },
+    {
+      "path": "Preuves/S27-93231944.webp",
+      "bytes": 62576,
+      "sha256": "a46fe6a8ae6dcebf1743db4391941b2ec46d0fe6d45f9fd72218067a8aa20d85"
+    },
+    {
+      "path": "Preuves/S28-93235478.webp",
+      "bytes": 97690,
+      "sha256": "59a7b8fc54eb887729ae3c742817dc189fcb3dea7eee59b1fab2aa29d3b90cc5"
+    },
+    {
+      "path": "Preuves/S29-93233283.webp",
+      "bytes": 47288,
+      "sha256": "a6273dfc3e8daefc3b066d7f198dca3e46ba05705a0c476f2ab145933f09a226"
+    },
+    {
+      "path": "Preuves/S30-93226872.webp",
+      "bytes": 23860,
+      "sha256": "0cdefda66c618de91f2c45b306e2ea6dbf323e989b826929c2099d7e735ca1a0"
+    },
+    {
+      "path": "Preuves/S31-93226235.webp",
+      "bytes": 31660,
+      "sha256": "c18950e90bded2fbbcfec358cf1af13a1ea6b2e6a5bc5765d9da3959aefb280e"
+    },
+    {
+      "path": "Preuves/S32-23973494.webp",
+      "bytes": 49228,
+      "sha256": "7ca53bb4ad82cc5986d20b0445c42c7546d9c8f14519bc9f6725be92ee04fe9e"
+    },
+    {
+      "path": "Preuves/S33-52686076.webp",
+      "bytes": 100088,
+      "sha256": "3b8ed54beb1d5921a0267d704dc500b5e3e2a19d16d7d642cc58d8d04c32e295"
+    },
+    {
+      "path": "Preuves/S34-henri-naissance.webp",
+      "bytes": 155040,
+      "sha256": "f602016b552090c5a4e3f5a10b09daf5762c25cbce3b8851964ba1011e05738c"
+    },
+    {
+      "path": "Preuves/S35-henri-mariage.webp",
+      "bytes": 122876,
+      "sha256": "200196730d7986dfdadd39f6f91a4d62e3f296b2e2f845131fd33b70864feee9"
+    },
+    {
+      "path": "Preuves/S36-constant-naissance-raismes.webp",
+      "bytes": 457452,
+      "sha256": "72622a77ef7537ac1d1809260967327916a564cb693e7a7c7bbf7f744b6fc1cb"
+    },
+    {
+      "path": "LIRE-MOI.txt",
+      "bytes": 726,
+      "sha256": "9882e9ac7fb8744e9987ddc89a792999082b0c8f392eba51da1632d681ca3ac6"
+    },
+    {
+      "path": "Correspondance des fichiers.json",
+      "bytes": 4604,
+      "sha256": "3c6292c9bbdbb735bfeb53b6e0f96250e996c8d243f7bf0892ef748eedc75009"
+    }
+  ]
+}

@@ -1,0 +1,1379 @@
+0 HEAD
+1 SOUR RECHERCHE_BLARET
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG French
+1 DATE 25 OCT 2026
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME Recherche pour Maxime BLARET
+0 @I1@ INDI
+1 NAME Maxime Philippe Erick /BLARET/
+1 SEX M
+1 _SOSA 1
+1 BIRT
+2 DATE 27 AUG 2001
+2 PLAC Blendecques, Pas-de-Calais, France
+2 NOTE Information familiale
+2 SOUR @S01@
+1 FAMC @F1@
+1 SOUR @S01@
+1 SOUR @S02@
+0 @I2@ INDI
+1 NAME Philippe /BLARET/
+1 SEX M
+1 _SOSA 2
+1 FAMC @F2@
+1 FAMS @F1@
+1 NOTE Date et lieu de naissance non documentés. Père de Maxime, fils de Roger et Micheline :
+2 CONT information de Maxime, cohérente avec le faire-part de Roger.
+1 SOUR @S01@
+1 SOUR @S02@
+0 @I3@ INDI
+1 NAME Nathalie /HIETTE/
+1 SEX F
+1 _SOSA 3
+1 BIRT
+2 DATE 19 NOV 1969
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Déclaration familiale de Maxime ; acte non consulté
+2 SOUR @M01@
+1 FAMC @F3@
+1 FAMS @F1@
+1 NOTE Mère de Maxime ; nom d’usage BLARET. A vécu à « Wavran » selon Maxime. Branche maternelle hors
+2 CONT du périmètre de cette recherche.
+1 SOUR @S01@
+1 SOUR @S02@
+1 SOUR @M01@
+0 @I4@ INDI
+1 NAME Roger Marceau Émile /BLARET/
+1 SEX M
+1 _SOSA 4
+1 BIRT
+2 DATE 18 JUL 1931
+2 PLAC Remilly-Wirquin, Pas-de-Calais, France
+2 NOTE Index recoupé par recensement
+2 SOUR @S03@
+2 SOUR @S04@
+1 DEAT
+2 DATE 5 SEP 2026
+2 PLAC Arques, Pas-de-Calais, France
+2 NOTE Faire-part
+2 SOUR @S02@
+1 FAMC @F4@
+1 FAMS @F2@
+1 NOTE Filiation Justin–Fernande établie par le recensement de 1936 ; acte de naissance non consulté.
+2 CONT Ancien agent d’État à l’hôpital militaire. Obsèques et inhumation à Elnes le 9 septembre 2026.
+1 SOUR @S01@
+1 SOUR @S02@
+1 SOUR @S03@
+1 SOUR @S04@
+0 @I5@ INDI
+1 NAME Micheline /DELVART/
+1 SEX F
+1 _SOSA 5
+1 BIRT
+2 DATE 1935
+2 NOTE Année donnée par recensement
+2 SOUR @S05@
+1 FAMC @F5@
+1 FAMS @F2@
+1 NOTE Filiation Ernest–Germaine établie par le recensement de 1946 et confirmée par Maxime. Date
+2 CONT complète et lieu de naissance non documentés.
+1 SOUR @S01@
+1 SOUR @S02@
+1 SOUR @S05@
+0 @I7@ INDI
+1 NAME Marie-Paule /HIETTE-JOLY/
+1 SEX F
+1 _SOSA 7
+1 FAMS @F3@
+1 NOTE Nom transmis par Maxime. Joly comme nom de naissance reste à confirmer ; aucun acte consulté
+2 CONT pour cette personne.
+1 SOUR @M01@
+0 @I8@ INDI
+1 NAME Justin François Joseph /BLARET/
+1 SEX M
+1 _SOSA 8
+1 BIRT
+2 DATE 9 MAY 1898
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S06@
+2 SOUR @S07@
+1 DEAT
+2 DATE 3 APR 1973
+2 PLAC Saint-Venant, Pas-de-Calais, France
+2 NOTE Mention marginale
+2 SOUR @S06@
+1 FAMC @F8@
+1 FAMS @F4@
+1 NOTE Né LIBESSART ; reconnu et légitimé par le mariage de ses parents le 6 octobre 1900. Second
+2 CONT mariage mentionné le 16 février 1952 à Saint-Omer avec Ernestine PÉCRO. Papetier au mariage de
+2 CONT 1920 ; poudrier, avec l’État indiqué comme employeur, au recensement de 1936.
+1 NOTE Variante documentée : Justin François Joseph LIBESSART
+1 SOUR @S04@
+1 SOUR @S06@
+1 SOUR @S07@
+1 SOUR @S09@
+0 @I9@ INDI
+1 NAME Fernande Joséphine /CHEVALIER/
+1 SEX F
+1 _SOSA 9
+1 BIRT
+2 DATE 10 JUL 1900
+2 PLAC Bruay-en-Artois, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S07@
+2 SOUR @S08@
+1 DEAT
+2 DATE 12 JAN 1950
+2 PLAC Esquerdes, Pas-de-Calais, France
+2 NOTE Mention marginale. Correction de lecture du millésime après agrandissement de la mention :
+3 CONT 1950, et non 1940.
+2 SOUR @S08@
+1 FAMC @F9@
+1 FAMS @F4@
+1 SOUR @S04@
+1 SOUR @S07@
+1 SOUR @S08@
+0 @I10@ INDI
+1 NAME Ernest Donat Charles /DELVART/
+1 SEX M
+1 _SOSA 10
+1 BIRT
+2 DATE 26 FEB 1910
+2 PLAC Esquerdes, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S13@
+1 DEAT
+2 DATE 22 SEP 1986
+2 PLAC Helfaut, Pas-de-Calais, France
+2 NOTE Mention marginale
+2 SOUR @S13@
+1 FAMC @F10@
+1 FAMS @F5@
+1 NOTE Briquetier au recensement de 1946 [S05].
+1 SOUR @S05@
+1 SOUR @S13@
+1 SOUR @S14@
+0 @I11@ INDI
+1 NAME Germaine Marie /DEGARDIN/
+1 SEX F
+1 _SOSA 11
+1 BIRT
+2 DATE 20 FEB 1910
+2 PLAC Lens, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S14@
+1 DEAT
+2 DATE 5 DEC 1975
+2 PLAC Elnes, Pas-de-Calais, France
+2 NOTE Mention marginale
+2 SOUR @S14@
+1 FAMC @F11@
+1 FAMS @F5@
+1 SOUR @S05@
+1 SOUR @S13@
+1 SOUR @S14@
+0 @I16@ INDI
+1 NAME Amédée François Joseph /BLARET/
+1 SEX M
+1 _SOSA 16
+1 BIRT
+2 DATE 27 MAR 1869
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S09@
+2 SOUR @S10@
+1 DEAT
+2 DATE 25 NOV 1945
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Mention marginale
+2 SOUR @S10@
+1 FAMC @F16@
+1 FAMS @F8@
+1 SOUR @S06@
+1 SOUR @S07@
+1 SOUR @S09@
+1 SOUR @S10@
+0 @I17@ INDI
+1 NAME Maria Julia /LIBESSART/
+1 SEX F
+1 _SOSA 17
+1 BIRT
+2 DATE 16 DEC 1873
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S09@
+2 SOUR @S11@
+1 DEAT
+2 DATE 6 NOV 1956
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Mention marginale
+2 SOUR @S11@
+1 FAMC @F17@
+1 FAMS @F8@
+1 NOTE Maria Julia dans son acte de naissance et son mariage ; Marie Julie dans l’acte de naissance de
+2 CONT Justin. Sa signature au mariage porte Libessart Maria. LIBESART est une variante graphique
+2 CONT rencontrée dans le corps des actes.
+1 NOTE Variante documentée : Marie Julie LIBESSART
+1 NOTE Variante documentée : Maria Julia LIBESART
+1 SOUR @S06@
+1 SOUR @S07@
+1 SOUR @S09@
+1 SOUR @S11@
+0 @I18@ INDI
+1 NAME Fernand Joseph /CHEVALIER/
+1 SEX M
+1 _SOSA 18
+1 BIRT
+2 DATE 26 JUN 1874
+2 PLAC Bruay-en-Artois, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S12@
+1 FAMC @F18@
+1 FAMS @F9@
+1 NOTE Ouvrier mineur au mariage de 1899 [S12].
+1 SOUR @S07@
+1 SOUR @S08@
+1 SOUR @S12@
+0 @I19@ INDI
+1 NAME Mathilde Marie /LEBEL/
+1 SEX F
+1 _SOSA 19
+1 BIRT
+2 DATE 7 MAY 1877
+2 PLAC Bruay-en-Artois, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S12@
+1 FAMC @F19@
+1 FAMS @F9@
+1 NOTE Servante au mariage de 1899 [S12].
+1 SOUR @S07@
+1 SOUR @S08@
+1 SOUR @S12@
+0 @I20@ INDI
+1 NAME Ernest Joseph /DELVART/
+1 SEX M
+1 _SOSA 20
+1 BIRT
+2 DATE 7 NOV 1861
+2 PLAC Esquerdes, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S15@
+2 SOUR @S16@
+1 FAMC @F20@
+1 FAMS @F10@
+1 NOTE 1861 dans la naissance et le mariage ; le recensement de 1911 indique 1862. Les actes d’état
+2 CONT civil priment. Cultivateur dans la naissance de son fils en 1910 [S13].
+1 SOUR @S13@
+1 SOUR @S15@
+1 SOUR @S16@
+0 @I21@ INDI
+1 NAME Louise Estelle /DELVART/
+1 SEX F
+1 _SOSA 21
+1 BIRT
+2 DATE 9 FEB 1868
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S15@
+2 SOUR @S17@
+1 FAMC @F21@
+1 FAMS @F10@
+1 NOTE Le corps de la naissance et le mariage donnent Louise Estelle. L’intitulé en marge de la
+2 CONT naissance ajoute Euphémie ; cette forme est conservée en variante, sans modifier les prénoms du
+2 CONT corps de l’acte.
+1 NOTE Variante documentée : Louise Estelle Euphémie DELVART (intitulé marginal de S17)
+1 SOUR @S13@
+1 SOUR @S15@
+1 SOUR @S17@
+0 @I22@ INDI
+1 NAME Julien Jules /DEGARDIN/
+1 SEX M
+1 _SOSA 22
+1 BIRT
+2 DATE 30 NOV 1873
+2 PLAC Wizernes, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S18@
+2 SOUR @S19@
+1 FAMC @F22@
+1 FAMS @F11@
+1 NOTE Jules Julien dans la naissance de sa fille Germaine ; Julien Jules dans sa propre naissance et
+2 CONT son mariage. Papetier au mariage de 1897 [S19] ; ouvrier mineur dans la naissance de Germaine
+2 CONT en 1910 [S14].
+1 NOTE Variante documentée : Jules Julien DEGARDIN
+1 SOUR @S14@
+1 SOUR @S18@
+1 SOUR @S19@
+0 @I23@ INDI
+1 NAME Marie Louise /DUFAY/
+1 SEX F
+1 _SOSA 23
+1 BIRT
+2 DATE 10 MAY 1875
+2 PLAC Wizernes, Pas-de-Calais, France
+2 NOTE Acte original
+2 SOUR @S19@
+1 FAMC @F23@
+1 FAMS @F11@
+1 NOTE Papetière au mariage de 1897 [S19].
+1 SOUR @S14@
+1 SOUR @S19@
+0 @I32@ INDI
+1 NAME Florent Joseph /BLARET/
+1 SEX M
+1 _SOSA 32
+1 BIRT
+2 DATE 30 JUL 1825
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original (date de naissance citée au mariage)
+2 SOUR @S21@
+1 DEAT
+2 DATE 16 APR 1893
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Date citée dans un acte de mariage ; acte de décès non consulté. Lecture du mariage d’Amédée,
+3 CONT 1900. Le relevé de décès indique le 6 avril 1893 : divergence de jour à résoudre dans l’acte de
+3 CONT décès.
+2 SOUR @S09@
+1 FAMC @F32@
+1 FAMS @F16@
+1 NOTE Veuf de Stéphanie HALIPRE lors du mariage avec Émilie LEROUX, le 16 février 1858. Les deux
+2 CONT unions sont distinctes ; Émilie est la mère d’Amédée. Papetier au mariage de 1858 [S21].
+2 CONT Relecture du 22 octobre 2026 : le mariage de son fils indique « quatre vingt treize », donc
+2 CONT 1893 ; l’ancienne année 1883 était une erreur de transcription. Le jour 16 cité dans cet acte
+2 CONT diverge du 6 dans le relevé secondaire. Le relevé mentionne aussi un Florent Joseph mort le 10
+2 CONT mai 1826 avec les mêmes noms de parents : naissance et homonymie à vérifier, sans fusionner ces
+2 CONT entrées.
+1 SOUR @S09@
+1 SOUR @S10@
+1 SOUR @S20@
+1 SOUR @S21@
+0 @I33@ INDI
+1 NAME Émilie /LEROUX/
+1 SEX F
+1 _SOSA 33
+1 BIRT
+2 DATE 19 NOV 1834
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original (date de naissance citée au mariage)
+2 SOUR @S21@
+1 FAMC @F33@
+1 FAMS @F16@
+1 NOTE Variante documentée : Émélie LEROUX
+1 SOUR @S09@
+1 SOUR @S10@
+1 SOUR @S20@
+1 SOUR @S21@
+0 @I34@ INDI
+1 NAME Émile Amédée Joseph /LIBESSART/
+1 SEX M
+1 _SOSA 34
+1 BIRT
+2 DATE 21 OCT 1844
+2 PLAC Pihem, Pas-de-Calais, France
+2 NOTE Acte original (date de naissance citée au mariage)
+2 SOUR @S22@
+1 FAMC @F34@
+1 FAMS @F17@
+1 NOTE Prénoms complets et naissance établis dans le mariage original de 1871. Les signatures du
+2 CONT mariage original de 1871 et de la naissance de sa fille en 1873 portent LIBESSART ; la graphie
+2 CONT LIBESART apparaît dans le corps des actes. Le relevé secondaire donne également LIBESSART.
+2 CONT Piste proposée par Maxime pour remonter au-delà de la génération 6 : rechercher aussi SIBESSART
+2 CONT et SIBESART. Une éventuelle transformation de ces noms en LIBESSART reste une hypothèse à
+2 CONT démontrer ; ces pistes ne sont pas enregistrées comme variantes établies. Domestique domicilié
+2 CONT à Esquerdes lors de son mariage de 1871. [S22]
+1 NOTE Variante documentée : Émile Amédée Joseph LIBESART
+1 SOUR @S06@
+1 SOUR @S09@
+1 SOUR @S11@
+1 SOUR @S20@
+1 SOUR @S22@
+0 @I35@ INDI
+1 NAME Octavie Philomène /ALLOUCHERY/
+1 SEX F
+1 _SOSA 35
+1 BIRT
+2 DATE 9 AUG 1853
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original (date de naissance citée au mariage)
+2 SOUR @S22@
+1 FAMC @F35@
+1 FAMS @F17@
+1 NOTE Prénoms complets et naissance établis dans le mariage original de 1871. ALLOUCHERIE est une
+2 CONT variante dans le relevé secondaire. Papetière domiciliée à Chauchoy, Wavrans, lors de son
+2 CONT mariage de 1871. [S22]
+1 NOTE Variante documentée : Octavie Philomène ALLOUCHERIE
+1 SOUR @S09@
+1 SOUR @S11@
+1 SOUR @S20@
+1 SOUR @S22@
+0 @I36@ INDI
+1 NAME Constant /CHEVALIER/
+1 SEX M
+1 _SOSA 36
+1 DEAT
+2 DATE 13 FEB 1894
+2 PLAC Bruay-en-Artois, Pas-de-Calais, France
+2 NOTE Décès cité dans le mariage du fils. Citation relue en agrandissement sur S12 : février et non
+3 CONT mars.
+2 SOUR @S12@
+1 FAMS @F18@
+1 NOTE Mineur dans les copies collatérales S34–S35. La naissance retrouvée à Raismes est une piste non
+2 CONT raccordée S36 : sa date et ses parents restent hors de la notice personnelle.
+1 SOUR @S12@
+1 SOUR @S34@
+1 SOUR @S35@
+0 @I37@ INDI
+1 NAME Aurélie /FÉVRIER/
+1 SEX F
+1 _SOSA 37
+1 FAMS @F18@
+1 NOTE Présente au mariage de son fils le 9 septembre 1899 ; domiciliée à Bruay.
+1 SOUR @S12@
+0 @I38@ INDI
+1 NAME Marcellin /LEBEL/
+1 SEX M
+1 _SOSA 38
+1 FAMS @F19@
+1 NOTE Déclaré absent : acte de notoriété du 26 juillet 1895, juge de paix de Houdain, cité au mariage
+2 CONT de sa fille en 1899. Aucune date de décès établie.
+1 SOUR @S12@
+0 @I39@ INDI
+1 NAME Juliette /PETIT/
+1 SEX F
+1 _SOSA 39
+1 DEAT
+2 DATE 1 NOV 1888
+2 PLAC Bruay-en-Artois, Pas-de-Calais, France
+2 NOTE Décès cité dans le mariage de la fille
+2 SOUR @S12@
+1 FAMS @F19@
+1 NOTE Correction de lecture : le mariage de sa fille porte Petit, et non Bœuf. Agrandissement
+2 CONT conservé.
+1 SOUR @S12@
+0 @I40@ INDI
+1 NAME Charles Louis /DELVART/
+1 SEX M
+1 _SOSA 40
+1 FAMS @F20@
+1 NOTE Âgé de 33 ans dans l’acte du 8 novembre 1861 ; ouvrier, mais la spécialité manuscrite reste à
+2 CONT confirmer. L’ancienne lecture « chaussetier » n’est plus considérée comme établie. Cultivateur
+2 CONT au mariage de son fils en 1887 [S15]. Date et lieu de naissance non établis.
+1 SOUR @S15@
+1 SOUR @S16@
+0 @I41@ INDI
+1 NAME Florine Joseph /CAROULLE/
+1 SEX F
+1 _SOSA 41
+1 DEAT
+2 DATE 21 JUL 1867
+2 PLAC Esquerdes, Pas-de-Calais, France
+2 NOTE Décès cité dans le mariage du fils
+2 SOUR @S15@
+1 FAMC @F41@
+1 FAMS @F20@
+1 NOTE Âgée de 29 ans dans l’acte du 8 novembre 1861. Les actes écrivent « Joseph » pour son second
+2 CONT prénom. Date et lieu de naissance non établis.
+1 SOUR @S15@
+1 SOUR @S16@
+0 @I42@ INDI
+1 NAME Donat /DELVART/
+1 SEX M
+1 _SOSA 42
+1 BIRT
+2 DATE 22 NOV 1833
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original (date de naissance citée au mariage)
+2 SOUR @S23@
+1 FAMC @F42@
+1 FAMS @F21@
+1 NOTE Garde champêtre en 1887. Manouvrier au mariage de 1865 [S23].
+1 SOUR @S15@
+1 SOUR @S17@
+1 SOUR @S20@
+1 SOUR @S23@
+0 @I43@ INDI
+1 NAME Euphémie /COTRELLE/
+1 SEX F
+1 _SOSA 43
+1 BIRT
+2 DATE 17 DEC 1838
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Acte original (date de naissance citée au mariage)
+2 SOUR @S23@
+1 FAMC @F43@
+1 FAMS @F21@
+1 NOTE Couturière au mariage de 1865 [S23].
+1 SOUR @S15@
+1 SOUR @S17@
+1 SOUR @S20@
+1 SOUR @S23@
+0 @I44@ INDI
+1 NAME Louis Joseph /DEGARDIN/
+1 SEX M
+1 _SOSA 44
+1 FAMS @F22@
+1 NOTE Âgé de 46 ans à la déclaration de naissance de Julien en décembre 1873 ; papetier. Date et lieu
+2 CONT de naissance non établis.
+1 SOUR @S18@
+1 SOUR @S19@
+0 @I45@ INDI
+1 NAME Fidéline Catherine /LEDOUX/
+1 SEX F
+1 _SOSA 45
+1 FAMS @F22@
+1 NOTE Le prénom est coupé Fi-déline dans S19. Ancienne transcription Sideline corrigée après
+2 CONT agrandissement.
+1 SOUR @S18@
+1 SOUR @S19@
+0 @I46@ INDI
+1 NAME Auguste Joseph /DUFAY/
+1 SEX M
+1 _SOSA 46
+1 FAMS @F23@
+1 NOTE Décédé à Wizernes avant le mariage de sa fille en 1897. S19 cite le 7 janvier, mais l’année est
+2 CONT incertaine sur la copie ; ancienne année 1883 retirée. Acte de décès à rechercher pour
+2 CONT trancher.
+1 SOUR @S19@
+0 @I47@ INDI
+1 NAME Hubertine /FARDOUX/
+1 SEX F
+1 _SOSA 47
+1 FAMS @F23@
+1 NOTE Âgée de 60 ans au mariage de sa fille le 20 septembre 1897 ; signe Hubertine Fardoux. Date et
+2 CONT lieu de naissance non établis.
+1 SOUR @S19@
+0 @I64@ INDI
+1 NAME François Joseph /BLARET/
+1 SEX M
+1 _SOSA 64
+1 FAMS @F32@
+1 NOTE Père de Florent Joseph BLARET, nommé au mariage du 16 février 1858. Papetier, domicilié à
+2 CONT Wavrans, présent et consentant. Naissance et mariage personnel non encore vérifiés sur
+2 CONT original.
+1 SOUR @S21@
+0 @I65@ INDI
+1 NAME Éléonore Marie /GOU/
+1 SEX F
+1 _SOSA 65
+1 FAMS @F32@
+1 NOTE Mère de Florent, nommée au mariage de 1858 ; ménagère à Wavrans, présente et consentante. Le
+2 CONT patronyme fait l’objet d’une correction manuscrite. Le relevé secondaire donne Marie Éléonore
+2 CONT Joseph ; cette forme complète attend le mariage original de 1824.
+1 SOUR @S21@
+0 @I66@ INDI
+1 NAME Célestin /LEROUX/
+1 SEX M
+1 _SOSA 66
+1 FAMS @F33@
+1 NOTE Père d’Émilie, nommé au mariage de 1858 ; papetier à Wavrans, présent et consentant. Le prénom
+2 CONT supplémentaire Félix donné par le relevé secondaire reste à vérifier.
+1 SOUR @S21@
+0 @I67@ INDI
+1 NAME Joséphine /COTRELLE/
+1 SEX F
+1 _SOSA 67
+1 FAMS @F33@
+1 NOTE Mère d’Émilie LEROUX, nommée au mariage de 1858 ; ménagère à Wavrans, présente et consentante.
+2 CONT Le rapprochement avec Marie Berthe Joséphine COTREL du relevé de décès est une piste à
+2 CONT contrôler.
+1 SOUR @S21@
+0 @I68@ INDI
+1 NAME Alexandre Joseph /LIBESSART/
+1 SEX M
+1 _SOSA 68
+1 DEAT
+2 DATE 11 FEB 1866
+2 PLAC Pihem, Pas-de-Calais, France
+2 NOTE Date citée dans un acte de mariage ; acte de décès non consulté. Le mariage S22 porte
+3 CONT soixante-six. Ancienne lecture 1864 corrigée.
+2 SOUR @S22@
+1 FAMS @F34@
+1 NOTE Père d’Émile Amédée Joseph LIBESSART, nommé au mariage du 28 novembre 1871 ; décédé avant cette
+2 CONT union. La variante LIBESART apparaît dans les actes de cette famille. Aucun rattachement à un
+2 CONT SIBESART ou SIBESSART n’est établi.
+1 SOUR @S22@
+0 @I69@ INDI
+1 NAME Agnès /MORENVAL/
+1 SEX F
+1 _SOSA 69
+1 FAMS @F34@
+1 NOTE Mère d’Émile, ménagère à Pihem, présente et consentante au mariage de 1871. Le relevé du
+2 CONT mariage de 1828 donne Agnès Joseph ; prénom supplémentaire en attente de vérification.
+1 SOUR @S22@
+0 @I70@ INDI
+1 NAME Jean Marie /ALLOUCHERY/
+1 SEX M
+1 _SOSA 70
+1 FAMS @F35@
+1 NOTE Père d’Octavie, nommé au mariage de 1871. Jean Marie et Augustine BERNARD sont dits ménagers,
+2 CONT domiciliés à Chauchoy, Wavrans, présents et consentants. Le prénom Célestin du relevé attend
+2 CONT vérification.
+1 SOUR @S22@
+0 @I71@ INDI
+1 NAME Marie Augustine Josèphe /BERNARD/
+1 SEX F
+1 _SOSA 71
+1 BIRT
+2 DATE 7 APR 1816
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Copie d’acte consultée
+2 SOUR @S32@
+1 DEAT
+2 DATE 27 SEP 1878
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Copie d’acte consultée
+2 SOUR @S33@
+1 FAMC @F71@
+1 FAMS @F35@
+1 NOTE Nommée Augustine au mariage de sa fille Octavie. Prénoms complets et parents lus dans sa
+2 CONT naissance et son décès. Le relevé donnait la naissance le 6 avril, corrigée au 7 par l’acte.
+1 SOUR @S22@
+1 SOUR @S32@
+1 SOUR @S33@
+0 @I82@ INDI
+1 NAME Zéphirine /CAROULLE/
+1 SEX M
+1 _SOSA 82
+1 FAMS @F41@
+1 NOTE Qualifié explicitement d’aïeul maternel d’Ernest Joseph DELVART dans sa naissance déclarée le 8
+2 CONT novembre 1861. Cela établit sa paternité envers Florine Joseph CAROULLE. Âgé de 53 ans,
+2 CONT fabricant de formes, domicilié à Esquerdes, signataire. Aucune année de naissance calculée. Le
+2 CONT prénom est transcrit selon cet acte ; à recouper avec son propre état civil. Son épouse n’est
+2 CONT pas identifiée.
+1 SOUR @S16@
+0 @I84@ INDI
+1 NAME Charles Louis /DELVART/
+1 SEX M
+1 _SOSA 84
+1 BIRT
+2 DATE 28 MAR 1801
+2 PLAC Dohem, Pas-de-Calais, France
+2 NOTE Date de naissance citée au mariage. Conversion du 7 germinal an IX ; copie de naissance aussi
+3 CONT repérée mais peu lisible.
+2 SOUR @S24@
+1 DEAT
+2 DATE 23 SEP 1857
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Copie d’acte consultée
+2 SOUR @S25@
+1 FAMC @F84@
+1 FAMS @F42@
+1 NOTE Père de Donat DELVART, nommé au mariage de 1865. À ne pas confondre avec Charles Louis DELVART,
+2 CONT père d’Ernest (Sosa 40), qui appartient à la génération suivante. Aucun lien entre ces deux
+2 CONT hommes n’est établi. Tisserand au mariage de 1831, manouvrier au décès.
+1 SOUR @S23@
+1 SOUR @S24@
+1 SOUR @S25@
+0 @I85@ INDI
+1 NAME Honorine Joseph /DELBARE/
+1 SEX F
+1 _SOSA 85
+1 BIRT
+2 DATE 14 NOV 1805
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Date citée au mariage. Conversion du 23 brumaire an XIV.
+2 SOUR @S24@
+1 DEAT
+2 DATE 21 MAY 1892
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Copie d’acte consultée
+2 SOUR @S26@
+1 FAMC @F85@
+1 FAMS @F42@
+1 NOTE Ménagère à Allonghem ; mère de Donat. Orthographe Delbarre au mariage, Delbare au décès.
+1 NOTE Variante documentée : Honorine Joseph DELBARRE
+1 SOUR @S23@
+1 SOUR @S24@
+1 SOUR @S26@
+0 @I86@ INDI
+1 NAME Augustin /COTRELLE/
+1 SEX M
+1 _SOSA 86
+1 DEAT
+2 DATE 20 APR 1857
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Copie d’acte consultée
+2 SOUR @S30@
+1 FAMS @F43@
+1 NOTE Marié à Émilie Hermetz ; manouvrier, âgé de 41 ans au décès. Le décès original confirme le 20
+2 CONT avril, non le 28. Parents encore non prouvés.
+1 SOUR @S23@
+1 SOUR @S30@
+0 @I87@ INDI
+1 NAME Émilie /HERMETZ/
+1 SEX F
+1 _SOSA 87
+1 FAMC @F87@
+1 FAMS @F43@
+1 NOTE Cabaretière au mariage d’Euphémie, rentière au décès. Née à Pihem d’après le décès ; date de
+2 CONT naissance non encore établie. Les prénoms supplémentaires Rosalie ou Léonie divergent selon les
+2 CONT sources secondaires et ne sont pas retenus.
+1 SOUR @S23@
+1 SOUR @S31@
+0 @I142@ INDI
+1 NAME Jacques Joseph /BERNARD/
+1 SEX M
+1 _SOSA 142
+1 FAMS @F71@
+1 SOUR @S32@
+1 SOUR @S33@
+0 @I143@ INDI
+1 NAME Marie Josèphe /LECAT/
+1 SEX F
+1 _SOSA 143
+1 FAMS @F71@
+1 SOUR @S32@
+1 SOUR @S33@
+0 @I168@ INDI
+1 NAME Philippe Albert /DELVART/
+1 SEX M
+1 _SOSA 168
+1 FAMS @F84@
+1 SOUR @S24@
+0 @I169@ INDI
+1 NAME Marie Marguerite /POCHOL/
+1 SEX F
+1 _SOSA 169
+1 FAMS @F84@
+1 SOUR @S24@
+0 @I170@ INDI
+1 NAME Philippe Joseph /DELBARE/
+1 SEX M
+1 _SOSA 170
+1 FAMS @F85@
+1 NOTE Manouvrier à Allonghem en 1813. Dates de naissance et décès proposées par les arbres publics
+2 CONT non reprises sans contrôle. Le décès S29 suggère ses parents mais le raccordement à ce fils
+2 CONT reste à confirmer : ceux-ci ne sont pas ajoutés.
+1 SOUR @S24@
+1 SOUR @S27@
+1 SOUR @S28@
+1 SOUR @S29@
+0 @I171@ INDI
+1 NAME Marie Anne Catherine /CARON/
+1 SEX F
+1 _SOSA 171
+1 DEAT
+2 DATE 22 FEB 1813
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Copie d’acte consultée
+2 SOUR @S27@
+1 FAMC @F171@
+1 FAMS @F85@
+1 SOUR @S24@
+1 SOUR @S27@
+0 @I174@ INDI
+1 NAME Louis /HERMETZ/
+1 SEX M
+1 _SOSA 174
+1 FAMS @F87@
+1 SOUR @S31@
+0 @I175@ INDI
+1 NAME Rosalie /DUQUENOY/
+1 SEX F
+1 _SOSA 175
+1 FAMS @F87@
+1 SOUR @S31@
+0 @I342@ INDI
+1 NAME Philippe /CARON/
+1 SEX M
+1 _SOSA 342
+1 FAMS @F171@
+1 SOUR @S27@
+0 @I343@ INDI
+1 NAME Marie Anne /PERSONNE/
+1 SEX F
+1 _SOSA 343
+1 DEAT
+2 DATE 16 MAR 1801
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 NOTE Copie d’acte consultée. 25 ventôse an IX.
+2 SOUR @S28@
+1 FAMC @F343@
+1 FAMS @F171@
+1 NOTE Le document porte Marie Anne, alors que la fiche déposante indique Anne Thérèse. Seule la
+2 CONT lecture du document est retenue.
+1 SOUR @S27@
+1 SOUR @S28@
+0 @I686@ INDI
+1 NAME Pierre /PERSONNE/
+1 SEX M
+1 _SOSA 686
+1 FAMS @F343@
+1 SOUR @S28@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 NOTE Filiation déclarée par Maxime. Aucun acte de naissance de Maxime ni de mariage de ses parents
+2 CONT consulté. Mariage des parents à Lumbres selon Maxime ; date non communiquée (M01).
+1 SOUR @S01@
+1 SOUR @S02@
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I2@
+1 NOTE Filiation déclarée par Maxime ; cohérente avec les descendants nommés dans le faire-part de
+2 CONT Roger. Roger et Micheline sont époux, date du mariage non documentée.
+1 SOUR @S01@
+1 SOUR @S02@
+0 @F4@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I4@
+1 MARR
+2 DATE 30 OCT 1920
+2 PLAC Bruay-en-Artois, Pas-de-Calais, France
+2 SOUR @S04@
+2 SOUR @S07@
+1 NOTE La filiation de Roger repose sur le recensement de 1936 ; le mariage des parents est consulté.
+1 SOUR @S04@
+1 SOUR @S07@
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I5@
+1 MARR
+2 DATE 8 JUL 1933
+2 PLAC Wizernes, Pas-de-Calais, France
+2 SOUR @S05@
+2 SOUR @S13@
+2 SOUR @S14@
+1 NOTE Filiation de Micheline : recensement de 1946 et confirmation familiale. Date de mariage :
+2 CONT mentions concordantes sur les deux actes de naissance.
+1 SOUR @S05@
+1 SOUR @S13@
+1 SOUR @S14@
+0 @F8@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 CHIL @I8@
+1 MARR
+2 DATE 6 OCT 1900
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 SOUR @S06@
+2 SOUR @S09@
+1 NOTE Justin né LIBESSART en 1898 est reconnu et légitimé dans le mariage de ses parents.
+1 SOUR @S06@
+1 SOUR @S09@
+0 @F9@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I9@
+1 MARR
+2 DATE 9 SEP 1899
+2 PLAC Bruay-en-Artois, Pas-de-Calais, France
+2 SOUR @S07@
+2 SOUR @S08@
+2 SOUR @S12@
+1 SOUR @S07@
+1 SOUR @S08@
+1 SOUR @S12@
+0 @F10@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I10@
+1 MARR
+2 DATE 9 JUL 1887
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 SOUR @S13@
+2 SOUR @S15@
+1 SOUR @S13@
+1 SOUR @S15@
+0 @F11@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I11@
+1 MARR
+2 DATE 20 SEP 1897
+2 PLAC Wizernes, Pas-de-Calais, France
+2 SOUR @S14@
+2 SOUR @S19@
+1 SOUR @S14@
+1 SOUR @S19@
+0 @F16@ FAM
+1 HUSB @I32@
+1 WIFE @I33@
+1 CHIL @I16@
+1 MARR
+2 DATE 16 FEB 1858
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 SOUR @S21@
+1 SOUR @S09@
+1 SOUR @S10@
+1 SOUR @S20@
+1 SOUR @S21@
+0 @F17@ FAM
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I17@
+1 MARR
+2 DATE 28 NOV 1871
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 SOUR @S22@
+1 SOUR @S09@
+1 SOUR @S11@
+1 SOUR @S20@
+1 SOUR @S22@
+0 @F18@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I18@
+1 SOUR @S12@
+0 @F19@ FAM
+1 HUSB @I38@
+1 WIFE @I39@
+1 CHIL @I19@
+1 SOUR @S12@
+0 @F20@ FAM
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I20@
+1 SOUR @S15@
+1 SOUR @S16@
+0 @F21@ FAM
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I21@
+1 MARR
+2 DATE 19 APR 1865
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 SOUR @S23@
+1 SOUR @S15@
+1 SOUR @S17@
+1 SOUR @S20@
+1 SOUR @S23@
+0 @F22@ FAM
+1 HUSB @I44@
+1 WIFE @I45@
+1 CHIL @I22@
+1 SOUR @S18@
+1 SOUR @S19@
+0 @F23@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I23@
+1 SOUR @S19@
+0 @F32@ FAM
+1 HUSB @I64@
+1 WIFE @I65@
+1 CHIL @I32@
+1 NOTE Filiation lue dans le mariage original de l’enfant ; actes personnels des parents non encore
+2 CONT consultés.
+1 SOUR @S21@
+0 @F33@ FAM
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I33@
+1 NOTE Filiation lue dans le mariage original de l’enfant ; actes personnels des parents non encore
+2 CONT consultés.
+1 SOUR @S21@
+0 @F34@ FAM
+1 HUSB @I68@
+1 WIFE @I69@
+1 CHIL @I34@
+1 NOTE Filiation lue dans le mariage original de l’enfant ; actes personnels des parents non encore
+2 CONT consultés.
+1 SOUR @S22@
+0 @F35@ FAM
+1 HUSB @I70@
+1 WIFE @I71@
+1 CHIL @I35@
+1 NOTE Filiation lue dans le mariage original de l’enfant ; actes personnels des parents non encore
+2 CONT consultés.
+1 SOUR @S22@
+0 @F42@ FAM
+1 HUSB @I84@
+1 WIFE @I85@
+1 CHIL @I42@
+1 MARR
+2 DATE 20 JUL 1831
+2 PLAC Wavrans-sur-l’Aa, Pas-de-Calais, France
+2 SOUR @S24@
+1 NOTE Filiation lue dans le mariage original de l’enfant ; actes personnels des parents non encore
+2 CONT consultés.
+1 SOUR @S23@
+0 @F43@ FAM
+1 HUSB @I86@
+1 WIFE @I87@
+1 CHIL @I43@
+1 NOTE Filiation lue dans le mariage original de l’enfant ; actes personnels des parents non encore
+2 CONT consultés.
+1 SOUR @S23@
+0 @F41@ FAM
+1 HUSB @I82@
+1 CHIL @I41@
+1 NOTE Un seul parent identifié : Zéphirine CAROULLE est explicitement l’aïeul maternel d’Ernest, fils
+2 CONT de Florine. Épouse inconnue ; aucune mère créée.
+1 SOUR @S16@
+0 @F84@ FAM
+1 HUSB @I168@
+1 WIFE @I169@
+1 CHIL @I84@
+1 NOTE Parents explicitement nommés dans le mariage de leur fils.
+1 SOUR @S24@
+0 @F85@ FAM
+1 HUSB @I170@
+1 WIFE @I171@
+1 CHIL @I85@
+1 NOTE Parents nommés dans le mariage et le décès de leur fille.
+1 SOUR @S24@
+1 SOUR @S26@
+0 @F171@ FAM
+1 HUSB @I342@
+1 WIFE @I343@
+1 CHIL @I171@
+1 NOTE Parents nommés dans le décès de leur fille ; son époux déclare le décès.
+1 SOUR @S27@
+0 @F343@ FAM
+1 HUSB @I686@
+1 CHIL @I343@
+1 NOTE Père lisible ; mère prénommée Thérèse, patronyme à vérifier, non ajoutée comme identité
+2 CONT établie.
+1 SOUR @S28@
+0 @F87@ FAM
+1 HUSB @I174@
+1 WIFE @I175@
+1 CHIL @I87@
+1 NOTE Parents nommés dans le décès ; raccordement par époux Augustin et gendre Donat.
+1 SOUR @S31@
+1 SOUR @S23@
+0 @F71@ FAM
+1 HUSB @I142@
+1 WIFE @I143@
+1 CHIL @I71@
+1 NOTE Parents nommés dans la naissance et le décès. Raccordement à Augustine par époux Jean Marie
+2 CONT Allouchery. Le prénom Jeanne donné ailleurs à la mère attend vérification.
+1 SOUR @S32@
+1 SOUR @S33@
+1 SOUR @S22@
+0 @F3@ FAM
+1 WIFE @I7@
+1 CHIL @I3@
+1 NOTE Lien mère-fille déclaré par Maxime, à documenter par acte. Père non identifié.
+1 SOUR @M01@
+0 @S01@ SOUR
+1 TITL Informations et confirmations de Maxime
+1 NOTE Conversation, confirmations de Roger, Micheline et des parents Ernest–Germaine ; 11 octobre
+2 CONT 2026.
+1 NOTE État civil de Maxime ; parents Philippe BLARET et Nathalie HIETTE ; grands-parents paternels
+2 CONT Roger BLARET et Micheline DELVART. Ernest et Germaine confirmés par Maxime.
+0 @S02@ SOUR
+1 TITL Faire-part de Roger BLARET
+1 NOTE Pompes funèbres Hervé Bonniez, faire-part des obsèques du 9 septembre 2026.
+1 NOTE Roger est décédé à Arques le 5 septembre 2026, à 95 ans. Micheline BLARET-DELVART est nommée
+2 CONT comme son épouse. Philippe et Nathalie BLARET-HIETTE, puis Maxime et Cindy, figurent parmi les
+2 CONT descendants.
+1 WWW https://www.pompes-funebres-herve-bonniez.fr/wp-content/uploads/3141/Scanscan4088.pdf
+0 @S03@ SOUR
+1 TITL Index de décès : Roger Marceau Émile BLARET
+1 NOTE MesOrigines, notice déclarant reprendre le fichier des décès INSEE ; copie de l’acte non
+2 CONT consultée.
+1 NOTE Naissance indiquée : 18 juillet 1931, Remilly-Wirquin. La commune et l’année concordent avec le
+2 CONT recensement de 1936 ; l’identité est confirmée par Maxime.
+1 WWW https://mesorigines.fr/deces/3f0e816c0c5f783c29f047441be84a03
+0 @S04@ SOUR
+1 TITL Roger dans le foyer Justin–Fernande, 1936
+1 NOTE AD62, Esquerdes, M 4398, vue 2, ménage 8, individus 28–37.
+1 NOTE Justin BLARET, 1898 Wavrans, chef, poudrier d’État ; Fernande, 1900 Bruay, épouse ; Roger, 1931
+2 CONT Remilly, fils, parmi leurs enfants.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/recensement.html?id=395138027
+0 @S05@ SOUR
+1 TITL Micheline dans le foyer Ernest–Germaine, 1946
+1 NOTE AD62, Elnes, 2 MILNR 910/8, vue 2, ménage 1, individus 1–4.
+1 NOTE Ernest DELVART, 1910, chef, briquetier ; Germaine DELVART-DEGARDIN, 1910, épouse ; Micheline
+2 CONT DELVART, 1935, fille ; Liliane, 1944, fille. Aucun lieu de naissance n’est donné.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/recensement.html?id=395131788
+0 @S06@ SOUR
+1 TITL Naissance de Justin François Joseph LIBESSART
+1 NOTE AD62, Wavrans-sur-l’Aa, 3 E 882/17, naissance n°14, 10 mai 1898, vues 49–50.
+1 NOTE Justin est né le 9 mai 1898, de Marie Julie LIBESSART. Émile LIBESSART, son grand-père, déclare
+2 CONT la naissance. Une mention renvoie à sa reconnaissance et légitimation par le mariage de ses
+2 CONT parents le 6 octobre 1900 ; une autre à son décès le 3 avril 1973 à Saint-Venant. Mention
+2 CONT marginale relue en agrandissement : remariage à Saint-Omer le 16 février 1952 avec Ernestine
+2 CONT Pécro. La lecture antérieure Constantine Péron / décembre était erronée.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394975722
+0 @S07@ SOUR
+1 TITL Mariage Justin BLARET – Fernande CHEVALIER
+1 NOTE AD62, Bruay-en-Artois, 3 E 178/27, mariage n°478, 30 octobre 1920, vue 240.
+1 NOTE Justin François Joseph BLARET, né à Wavrans le 9 mai 1898, fils d’Amédée François Joseph BLARET
+2 CONT et Maria Julia LIBESSART ; Fernande Joséphine CHEVALIER, née à Bruay le 10 juillet 1900, fille
+2 CONT de Fernand Joseph CHEVALIER et Mathilde Marie LEBEL.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394835290
+0 @S08@ SOUR
+1 TITL Naissance de Fernande Joséphine CHEVALIER
+1 NOTE AD62, Bruay-en-Artois, 3 E 178/66, naissance n°317, 12 juillet 1900, vues 207–208.
+1 NOTE Naissance le 10 juillet 1900, fille de Fernand CHEVALIER et Mathilde LEBEL. Mention de décès le
+2 CONT 12 janvier 1950 à Esquerdes.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394834557
+0 @S09@ SOUR
+1 TITL Mariage Amédée BLARET – Maria Julia LIBESSART
+1 NOTE AD62, Wavrans-sur-l’Aa, 3 E 882/11, mariage n°8, 6 octobre 1900, vue 130.
+1 NOTE Amédée François Joseph BLARET, né le 27 mars 1869 à Wavrans, fils de Florent Joseph BLARET
+2 CONT (décédé le 16 avril 1893 à Wavrans) et Émélie LEROUX ; Maria Julia LIBESSART, née le 16
+2 CONT décembre 1873 à Wavrans, fille d’Émile LIBESSART et Octavie ALLOUCHERY. Les époux reconnaissent
+2 CONT et légitiment Justin, né le 9 mai 1898. Le relevé secondaire donne le 6 avril 1893 ; l’acte de
+2 CONT décès reste nécessaire pour trancher le jour.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394975737
+0 @S10@ SOUR
+1 TITL Naissance d’Amédée François Joseph BLARET
+1 NOTE AD62, Wavrans-sur-l’Aa, 5 MIR 882/1, naissance n°11, 27 mars 1869, vue 1497.
+1 NOTE Fils de Florent Joseph BLARET et Émilie LEROUX. La mention marginale indique le décès à Wavrans
+2 CONT le 25 novembre 1945.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=393592239
+0 @S11@ SOUR
+1 TITL Naissance de Maria Julia LIBESSART
+1 NOTE AD62, Wavrans-sur-l’Aa, 5 MIR 882/1, naissance n°34, 16 décembre 1873, vue 1537.
+1 NOTE Fille d’Émile LIBESSART et Octavie ALLOUCHERY. Mention du mariage le 6 octobre 1900 et du décès
+2 CONT le 6 novembre 1956 à Wavrans. Les prénoms sont Maria Julia dans cette naissance et au mariage,
+2 CONT Marie Julie dans l’acte de naissance de Justin. La table annuelle classe le nom entre Lefebvre
+2 CONT et Marolle, dans les noms en L ; la signature du père porte Libessart.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=393592239
+0 @S12@ SOUR
+1 TITL Mariage Fernand CHEVALIER – Mathilde LEBEL
+1 NOTE AD62, Bruay-en-Artois, 3 E 178/17, mariage n°66, 9 septembre 1899, vue 180.
+1 NOTE Fernand Joseph CHEVALIER, né le 26 juin 1874 à Bruay, fils de Constant CHEVALIER (décédé le 13
+2 CONT février 1894 à Bruay) et Aurélie FÉVRIER ; Mathilde Marie LEBEL, née le 7 mai 1877 à Bruay,
+2 CONT fille de Marcellin LEBEL, déclaré absent par acte de notoriété du 26 juillet 1895 à Houdain, et
+2 CONT Juliette PETIT, décédée le 1er novembre 1888 à Bruay. L’absence de Marcellin ne constitue pas
+2 CONT une preuve de décès.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394835140
+0 @S13@ SOUR
+1 TITL Naissance d’Ernest Donat Charles DELVART
+1 NOTE AD62, Esquerdes, 3 E 309/26, naissance n°6, 27 février 1910, vues 15–16.
+1 NOTE Né le 26 février 1910, fils d’Ernest DELVART et Louise DELVART. Mentions : mariage avec
+2 CONT Germaine Marie DEGARDIN, le 8 juillet 1933 à Wizernes ; décès le 22 septembre 1986 à Helfaut.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394861624
+0 @S14@ SOUR
+1 TITL Naissance de Germaine Marie DEGARDIN
+1 NOTE AD62, Lens, 3 E 498/126, naissance n°146, 21 février 1910, vue 45.
+1 NOTE Née le 20 février 1910, fille de Jules Julien DEGARDIN, né à Wizernes, et Marie Louise DUFAY.
+2 CONT Mentions : mariage avec Ernest Donat Charles DELVART, le 8 juillet 1933 à Wizernes ; décès le 5
+2 CONT décembre 1975 à Elnes.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394898142
+0 @S15@ SOUR
+1 TITL Mariage Ernest DELVART – Louise Estelle DELVART
+1 NOTE AD62, Wavrans-sur-l’Aa, 3 E 882/11, mariage n°8, 9 juillet 1887, vue 29.
+1 NOTE Ernest Joseph DELVART, né le 7 novembre 1861 à Esquerdes, fils de Charles Louis DELVART et
+2 CONT Florine Joseph CAROULLE, décédée le 21 juillet 1867 à Esquerdes ; Louise Estelle DELVART, née
+2 CONT le 9 février 1868 à Wavrans, fille de Donat DELVART et Euphémie COTRELLE. Les deux époux
+2 CONT portent bien le même nom de naissance.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394975737
+0 @S16@ SOUR
+1 TITL Naissance d’Ernest Joseph DELVART
+1 NOTE AD62, Esquerdes, 5 MIR 309/2, naissance n°17, 8 novembre 1861, vue 974.
+1 NOTE Né le 7 novembre 1861 ; père Charles Louis DELVART, 33 ans, ouvrier, spécialité manuscrite à
+2 CONT confirmer (l’ancienne lecture « chaussetier » est retirée comme métier établi) ; mère Florine
+2 CONT Joseph CAROULLE, 29 ans. Le témoin Zéphirine CAROULLE, 53 ans, est qualifié d’aïeul maternel.
+2 CONT Cet acte tranche le prénom Florine et l’année 1861, malgré 1862 dans le recensement de 1911.
+2 CONT Zéphirine CAROULLE est fabricant de formes et signe ; sa qualité d’aïeul maternel établit le
+2 CONT père de Florine.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=393547442
+0 @S17@ SOUR
+1 TITL Naissance de Louise Estelle DELVART
+1 NOTE AD62, Wavrans-sur-l’Aa, 5 MIR 882/1, naissance n°5, 10 février 1868, vues 1489–1490.
+1 NOTE Née la veille de la déclaration, donc le 9 février 1868 ; père Donat DELVART ; mère Euphémie
+2 CONT COTRELLE. Ce prénom et ce nom sont recoupés avec le mariage de 1887. Le corps de l’acte donne
+2 CONT Louise Estelle ; l’intitulé en marge ajoute Euphémie.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=393592239
+0 @S18@ SOUR
+1 TITL Naissance de Julien Jules DEGARDIN
+1 NOTE AD62, Wizernes, 5 MIR 902/3, naissance n°54, 1er décembre 1873, vue 19.
+1 NOTE Né le 30 novembre 1873 ; père Louis Joseph DEGARDIN, 46 ans, papetier ; mère Fidéline Catherine
+2 CONT LEDOUX, 45 ans. Le 1er décembre est la date de déclaration, non la date de naissance.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=393593660
+0 @S19@ SOUR
+1 TITL Mariage Julien Jules DEGARDIN – Marie Louise DUFAY
+1 NOTE AD62, Wizernes, 3 E 902/16, mariage n°23, 20 septembre 1897, vues 255–256.
+1 NOTE Julien Jules DEGARDIN, né le 30 novembre 1873 à Wizernes, fils de Louis Joseph DEGARDIN et
+2 CONT Fidéline Catherine LEDOUX ; Marie Louise DUFAY, née le 10 mai 1875 à Wizernes, fille d’Auguste
+2 CONT Joseph DUFAY, décédé le 7 janvier, année à vérifier (ancienne lecture 1883 retirée) à Wizernes,
+2 CONT et Hubertine FARDOUX, 60 ans. Le père de Germaine est nommé Jules Julien dans son acte de 1910
+2 CONT : ordre des prénoms inversé.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=394978809
+0 @S20@ SOUR
+1 TITL Relevé des mariages de Wavrans-sur-l’Aa, 1693–1913
+1 NOTE Ancêtres d’Artois, transcription publiée ; les actes originaux restent prioritaires.
+1 NOTE Donne des dates précises pour Florent BLARET, Émilie LEROUX, Émile Amédée Joseph LIBESSART,
+2 CONT Octavie Philomène ALLOUCHERIE, Donat DELVART et Euphémie COTRELLE. Le relevé donne LIBESSART,
+2 CONT corroboré par les signatures dans les actes ; LIBESART se rencontre aussi dans le corps des
+2 CONT actes. ALLOUCHERIE/ALLOUCHERY varie entre les documents. Certaines dates de mariages récents
+2 CONT sont converties en nombres dans le relevé ; elles ne sont pas utilisées comme dates.
+1 WWW http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_aa_mariages_1693_1913.pdf
+0 @S21@ SOUR
+1 TITL Mariage Florent BLARET – Émilie LEROUX
+1 NOTE AD62, Wavrans-sur-l’Aa, 5 MIR 882/2, mariage n°3, 16 février 1858, vue 568.
+1 NOTE Florent Joseph BLARET, né le 30 juillet 1825 à Wavrans, veuf de Stéphanie HALIPRE ; Émilie
+2 CONT LEROUX, née le 19 novembre 1834 à Wavrans. Cet acte confirme les dates trouvées dans le relevé.
+2 CONT Parents du marié : François Joseph BLARET et Éléonore Marie GOU ; parents de la mariée :
+2 CONT Célestin LEROUX et Joséphine COTRELLE. Les deux pères sont papetiers et les mères ménagères. Le
+2 CONT décès de la première épouse Stéphanie HALIPRE y est cité le 24 décembre 1854 ; le relevé donne
+2 CONT le 23 : à contrôler.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=393592280
+0 @S22@ SOUR
+1 TITL Mariage Émile LIBESSART – Octavie ALLOUCHERY
+1 NOTE AD62, Wavrans-sur-l’Aa, 5 MIR 882/2, mariage n°8, 28 novembre 1871, vue 674.
+1 NOTE Émile Amédée Joseph LIBESSART, né le 21 octobre 1844 à Pihem ; Octavie Philomène ALLOUCHERY,
+2 CONT née le 9 août 1853 à Wavrans. Les prénoms complets sont donc établis dans l’acte original, sans
+2 CONT dépendre du relevé. Les signatures portent Libessart ; la graphie Libesart se rencontre dans le
+2 CONT corps des actes de cette famille. Parents d’Émile : Alexandre Joseph LIBESSART, mort à Pihem le
+2 CONT 11 février 1866, et Agnès MORENVAL, ménagère à Pihem. Parents d’Octavie : Jean Marie ALLOUCHERY
+2 CONT et Augustine BERNARD, ménagers à Chauchoy. Émile est domestique et Octavie papetière.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=393592280
+0 @S23@ SOUR
+1 TITL Mariage Donat DELVART – Euphémie COTRELLE
+1 NOTE AD62, Wavrans-sur-l’Aa, 5 MIR 882/2, mariage n°5, 19 avril 1865, vues 627–628.
+1 NOTE Donat DELVART, né le 22 novembre 1833 à Wavrans ; Euphémie COTRELLE, née le 17 décembre 1838 à
+2 CONT Wavrans. Les époux signent. Le nom COTRELLE est également donné par le relevé et la naissance
+2 CONT de leur fille Louise. Parents de Donat : Charles Louis DELVART, mort à Wavrans le 23 septembre
+2 CONT 1857, et Honorine DELBARE, ménagère. Parents d’Euphémie : Augustin COTRELLE, défunt, et Émilie
+2 CONT HERMETZ, cabaretière. Le décès d’Augustin semble être cité le 28 avril 1857 ; le relevé donne
+2 CONT le 20 : date exacte à résoudre.
+1 WWW https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civil.html?id=393592280
+0 @S24@ SOUR
+1 TITL Mariage Charles Louis DELVART – Honorine Joseph DELBARRE
+1 NOTE Wavrans, mariage n°7, 20 juillet 1831. Copie en deux fragments publiée sur Geneanet, média
+2 CONT 93237870.
+1 NOTE Charles Louis Delvart, tisserand domicilié à Dohem, fils légitime de Philippe Albert et de feue
+2 CONT Marie Marguerite Pochol ; Honorine Joseph Delbarre, ménagère à Allonghem, Wavrans, fille
+2 CONT légitime de Philippe Joseph et de feue Marie Anne Catherine Caron. Le mariage cite la naissance
+2 CONT du marié le 7 germinal an IX à Dohem et celle de la mariée le 23 brumaire an XIV à Wavrans. Le
+2 CONT décès de Marie Anne Catherine Caron y est cité le 22 février 1813. Raccordement avec S23 : même
+2 CONT couple, même commune, décès de Charles Louis confirmé par S25.
+1 WWW https://gw.geneanet.org/bebecuwe?lang=fr&n=delbare&p=honorine+josephine
+0 @S25@ SOUR
+1 TITL Décès Charles Louis DELVART
+1 NOTE Wavrans, décès n°10, déclaré le 23 septembre 1857. Copie Geneanet 93226472.
+1 NOTE Charles Louis Delvart, 56 ans, manouvrier, marié à Honorine Delbare, meurt le 23 septembre à
+2 CONT neuf heures du matin. Donat Delvart, cultivateur âgé de 23 ans, figure parmi les déclarants. La
+2 CONT date et le couple concordent avec S23. Les parents du défunt ne sont pas nommés.
+1 WWW https://gw.geneanet.org/bebecuwe?lang=fr&n=delvart&oc=1&p=charles+louis
+0 @S26@ SOUR
+1 TITL Décès Honorine DELBARE
+1 NOTE Wavrans, décès n°11, 21 mai 1892. Copie Geneanet 93226267.
+1 NOTE Honorine Delbare, 86 ans, née et domiciliée à Allonghem, Wavrans, veuve de Charles Louis
+2 CONT Delvart, fille des feus Philippe Delbare et Catherine Caron. Décédée le jour de la déclaration
+2 CONT à trois heures du matin. Donat Delvart, 59 ans, garde champêtre, fils de la défunte, déclare le
+2 CONT décès.
+1 WWW https://gw.geneanet.org/bebecuwe?lang=fr&n=delbare&p=honorine+josephine
+0 @S27@ SOUR
+1 TITL Décès Marie Anne Catherine CARON
+1 NOTE Wavrans, décès n°7, 22 février 1813. Copie Geneanet 93231944.
+1 NOTE Marie Anne Catherine Caron, âgée de 40 ans, ménagère, épouse de Philippe Joseph Delbarre, fille
+2 CONT de feu Philippe et de feue Marie Anne Personne. Son époux, 51 ans, manouvrier à Allonghem,
+2 CONT déclare le décès. Cette date est aussi citée au mariage de leur fille Honorine (S24).
+1 WWW https://gw.geneanet.org/bebecuwe?lang=fr&n=caron&p=marie+annecatherine+josephine
+0 @S28@ SOUR
+1 TITL Décès Marie Anne PERSONNE
+1 NOTE Wavrans, décès du 25 ventôse an IX (16 mars 1801). Copie Geneanet 93235478.
+1 NOTE L’acte porte Marie Anne Personne, âgée de 70 ans, veuve de Philippe Caron, cordonnier, et fille
+2 CONT légitime de feu Pierre Personne et de Thérèse dont le patronyme reste incertain sur cette
+2 CONT reproduction. Philippe Delbare, son beau-fils, fait la déclaration avec François Marie Verdure,
+2 CONT autre beau-fils. La fiche du déposant nomme Anne Thérèse : ce prénom est écarté au profit de
+2 CONT celui de l’acte. Le rapprochement repose sur le conjoint Philippe Caron, le gendre Philippe
+2 CONT Delbare et le décès antérieur à celui de leur fille (S27).
+1 WWW https://gw.geneanet.org/bebecuwe?lang=fr&n=personne&p=anne+therese
+0 @S29@ SOUR
+1 TITL Décès Marie Catherine DELCROIX
+1 NOTE Wavrans, acte n°11, déclaré le 10 juillet 1810, décès indiqué le 17 décembre du mois passé :
+2 CONT incohérence interne à résoudre. Copie Geneanet 93233283.
+1 NOTE Philippe Joseph Delbare, 49 ans, ménager domicilié à Wavrans, et Louis Joseph Delbare, 34 ans,
+2 CONT à Cléty, sont explicitement les fils légitimes de Marie Catherine Delcroix, veuve de Jacques
+2 CONT François Delbare. Les parents de la défunte sont nommés mais leur lecture reste incertaine sur
+2 CONT cette copie ; ils ne sont pas ajoutés. La date du décès ne peut être fixée : en-tête lu juillet
+2 CONT 1810, corps décembre du mois passé, fiche Geneanet 17 décembre 1810. La parenté entre cette
+2 CONT défunte et ses déclarants est lisible, mais leur rattachement à notre Philippe Joseph doit
+2 CONT encore être confirmé : ces deux parents candidats sont exclus de l’arbre. La date reste vide.
+2 CONT Raccordement de Philippe Joseph par nom, domicile, âge cohérent avec S27 et parenté avec son
+2 CONT épouse via S28 ; acte personnel de Philippe encore souhaitable.
+1 WWW https://gw.geneanet.org/bebecuwe?lang=fr&n=delcroix&p=marie+catherine
+0 @S30@ SOUR
+1 TITL Décès Augustin COTRELLE
+1 NOTE Wavrans, décès n°5, déclaré le 23 avril 1857, mort le 20 avril. Copie Geneanet 93226872.
+1 NOTE Augustin Cotrelle, 41 ans, manouvrier, marié à Émilie Hermetz, cabaretière, est décédé le 20
+2 CONT avril à onze heures du matin. Ses parents ne sont pas nommés. La copie tranche la divergence
+2 CONT 20/28 avril en faveur du 20. La date de déclaration est distincte de celle du décès.
+1 WWW https://gw.geneanet.org/bebecuwe?lang=fr&n=cotrelle&p=augustin
+0 @S31@ SOUR
+1 TITL Décès Émilie HERMETZ — fragment
+1 NOTE Wavrans, acte n°20 ; en-tête daté absent de la copie. Copie Geneanet 93226235.
+1 NOTE Émilie Hermetz, 73 ans, rentière, née à Pihem, demeurant à Allonghem, Wavrans, veuve d’Augustin
+2 CONT Cotrel, fille des feus Louis Hermetz et Rosalie Duquenoy. Donat Delvart, 54 ans, garde
+2 CONT champêtre, est déclaré beau-fils. Le couple et le gendre raccordent cette défunte à la mère
+2 CONT d’Euphémie dans S23. La date 28 novembre 1887 proposée par un relevé reste à contrôler sur une
+2 CONT vue avec en-tête.
+1 WWW https://gw.geneanet.org/bebecuwe?lang=fr&n=hermetz&p=emilie+leonie
+0 @S32@ SOUR
+1 TITL Naissance Marie Augustine Josèphe BERNARD
+1 NOTE Wavrans, naissance n°6, 7 avril 1816. Copie publique Geneanet, dépôt dessaint, média 23973494.
+1 NOTE Marie Augustine Josèphe Bernard, née le matin même, le 7 avril 1816 à sept heures, fille de
+2 CONT Jacques Joseph Bernard, cultivateur, 52 ans, et de Marie Josèphe Lecat son épouse. Le titre du
+2 CONT média et le texte de l’acte concordent sur le 7 avril ; le relevé secondaire donnait le 6.
+1 WWW https://gw.geneanet.org/dessaint?lang=fr&n=bernard&p=marie+augustine+josephe
+0 @S33@ SOUR
+1 TITL Décès Marie Augustine Josèphe BERNARD
+1 NOTE Wavrans, décès n°19, déclaré le 28 septembre 1878, mort le 27. Copie publique Geneanet, dépôt
+2 CONT dessaint, média 52686076.
+1 NOTE Marie Augustine Josèphe Bernard, 62 ans, née et domiciliée à Wavrans, épouse de Jean Marie
+2 CONT Allouchery, fille des feus Jacques Joseph Bernard et Marie Josèphe Lecat, décédée le 27
+2 CONT septembre 1878 à onze heures du soir. Déclarants : son époux, 70 ans, et son fils Isidore
+2 CONT Allouchery, 34 ans. Le conjoint raccorde cette personne à la mère d’Octavie dans S22.
+1 WWW https://gw.geneanet.org/dessaint?lang=fr&n=bernard&p=marie+augustine+josephe
+0 @M01@ SOUR
+1 TITL Informations familiales transmises par Maxime sur sa mère
+1 NOTE Conversation du 25 octobre 2026 ; informations fournies par Maxime BLARET.
+1 NOTE Nathalie HIETTE, née le 19 novembre 1969 à Wavrans-sur-l’Aa, mariée à Philippe BLARET à
+2 CONT Lumbres. Sa mère est nommée Marie-Paule Hiette-Joly. Le père de Nathalie est déclaré décédé,
+2 CONT prénom inconnu. La mention approximative de Saint-Venant est un indice de recherche, sans
+2 CONT attribution médicale ni filiation déduite.
+0 @M02@ SOUR
+1 TITL Index HIETTE dérivé du fichier INSEE
+1 NOTE Acte-deces.fr, liste de 27 entrées consultée le 25 octobre 2026
+1 NOTE La liste comporte notamment Frédéric Claude Jean Hiette, né le 9 décembre 1971 à Wavrans, mort
+2 CONT le 28 juillet 2015 à Lumbres, acte 14 ; Claude Armand Gérard Hiette, né le 6 janvier 1940 à
+2 CONT Quesques, mort le 11 janvier 2001 à Vaudringhem, acte 1. Aucun lien familial de ces hommes à
+2 CONT Nathalie ou Marie-Paule n’est fourni. Ils restent hors arbre. Aucun décès de la liste sous
+2 CONT HIETTE n’est localisé à Saint-Venant ; ceci ne prouve pas l’absence d’un séjour ailleurs ni
+2 CONT l’exhaustivité de l’index.
+1 WWW https://www.acte-deces.fr/recherche-deces-famille-hiette
+0 @M03@ SOUR
+1 TITL Notice Frédéric HIETTE, Libra Memoria
+1 NOTE Notice du 28 juillet 2015, explicitement issue du fichier INSEE
+1 NOTE Notice 1971–2015, 43 ans, Lumbres/Wavrans. Aucun conjoint, parent, frère ou sœur n’est nommé.
+2 CONT Ce n’est pas un faire-part familial et cela ne raccorde pas Frédéric à Nathalie.
+1 WWW https://www.libramemoria.com/defunts/hiette-frederic/1d72f14827034e5ba6d7981646dffa4f
+0 @S34@ SOUR
+1 TITL Naissance Henri Louis Joseph CHEVALIER — source collatérale
+1 NOTE Ranchicourt, registre des naissances 1862. Photographie publiée par Geneanet mdesfachelles,
+2 CONT document 56047191.
+1 NOTE Parents du nouveau-né : Constant Chevalier, mineur, et Aurélie Février, son épouse, à
+2 CONT Ranchicourt. Le couple est celui nommé au mariage de Fernand en S12. Cette copie ne fournit pas
+2 CONT la filiation ni le lieu de naissance de Constant. Henri n’est pas ajouté à l’ascendance
+2 CONT directe.
+1 WWW https://gw.geneanet.org/mdesfachelles?lang=fr&n=chevalier&p=henri+louis+joseph
+0 @S35@ SOUR
+1 TITL Mariage Henri CHEVALIER — fragment de source collatérale
+1 NOTE Bruay, mariage n°28 du 28 mai 1887, début de l’acte. Photo Geneanet mdesfachelles, document
+2 CONT 56052644.
+1 NOTE Henri Louis Joseph Chevalier, né à Ranchicourt selon l’acte présenté, est fils de Constant
+2 CONT Chevalier, 52 ans, ouvrier mineur, et d’Aurélie Février. Le fragment ne suffit pas à raccorder
+2 CONT Constant à l’enfant de Raismes. Il est conservé comme source collatérale, hors ascendance
+2 CONT directe.
+1 WWW https://gw.geneanet.org/mdesfachelles?lang=fr&n=chevalier&p=henri+louis+joseph
+0 @S36@ SOUR
+1 TITL Naissance Constant CHEVALIER à Raismes — candidat non raccordé
+1 NOTE Archives départementales du Nord, Raismes NMD 1820–1840, 5 Mi 053 R 044, naissance n°124,
+2 CONT déclaration du 5 octobre 1834, image d742b0b4-e29f-4b36-b8fd-c98c26e092e6.
+1 NOTE Constant Chevalier est né la veille de la déclaration, le 4 octobre 1834 à cinq heures du soir.
+2 CONT Parents : Jacques Joseph Chevalier, ouvrier mineur, 32 ans, et Bélanie Dulieu, 31 ans. La
+2 CONT correspondance à notre Constant, marié à Aurélie Février, n’est pas encore établie par un acte
+2 CONT comportant les deux identités. Ni cette naissance ni ces parents ne sont ajoutés aux personnes
+2 CONT de l’arbre. Le mariage de Ranchicourt en 1860 ou le décès de Bruay en 1894 restent les pièces
+2 CONT de raccordement à lire.
+1 WWW https://archivesdepartementales.lenord.fr/ark:/33518/tbwv8pj5nk9z/d742b0b4-e29f-4b36-b8fd-c98c26e092e6
+0 TRLR

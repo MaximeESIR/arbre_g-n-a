@@ -1,0 +1,296 @@
+{
+  "leads": [
+    {
+      "generation": "7 vers 8",
+      "subject": "François Joseph BLARET et Éléonore Marie GOU (64–65)",
+      "target_act": "Mariage, Wavrans, 30 novembre 1824",
+      "secondary_reading": "Le relevé donne François Joseph, né le 8 août 1797 à Campagne-lès-Wardrecques, fils d’Alexis Joseph BLARET et Célestine CARON ; Marie Éléonore Joseph GOU, née le 25 juin 1792 à Wavrans, fille de Jean Joseph GOU et Marie Joseph DELAMOTE.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_aa_mariages_1693_1913.pdf",
+      "page": 7,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Lire le mariage original, puis la naissance de François et celles des enfants Florent ; résoudre le décès homonyme de 1826."
+    },
+    {
+      "generation": "7 vers 8",
+      "subject": "Célestin LEROUX (66)",
+      "target_act": "Décès, Wavrans, 24 avril 1884",
+      "secondary_reading": "Célestin Félix LEROUX, époux de Marie Berthe Joséphine COTREL ; parents indiqués Jean Baptiste LEROUX et Jeanne Marguerite CREPIN.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_as_deces_1693_1913.pdf",
+      "page": 71,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Vérifier l’identité avec le père d’Émilie, puis chercher son mariage ; ne pas ajouter Félix sans ce contrôle."
+    },
+    {
+      "generation": "7 vers 8",
+      "subject": "Joséphine COTRELLE (67)",
+      "target_act": "Décès, Wavrans, 25 mai 1865",
+      "secondary_reading": "Marie Berthe Joséphine COTREL, épouse de Célestin Félix LEROUX ; parents indiqués Antoine François COTREL et Marie Augustine Joseph FROPOT.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_as_deces_1693_1913.pdf",
+      "page": 26,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "La forme complète des prénoms diffère de l’acte de 1858. Rapprochement à établir par le décès et le mariage, avant toute fusion avec une autre branche."
+    },
+    {
+      "generation": "7 vers 8",
+      "subject": "Alexandre Joseph LIBESSART et Agnès MORENVAL (68–69)",
+      "target_act": "Mariage, Pihem, 26 novembre 1828",
+      "secondary_reading": "Le couple apparaît dans la table des mariages ; aucune filiation n’est fournie dans ce relevé.",
+      "url": "http://ancetresdartois.com/listes/pihem_files/pihem_mariages_1738_1913.pdf",
+      "page": 13,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Lire l’acte original pour identifier les quatre parents. Les autres LIBESSART de Pihem ne sont pas rattachés par le seul patronyme."
+    },
+    {
+      "generation": "7 vers 8",
+      "subject": "Jean Marie ALLOUCHERY (70)",
+      "target_act": "Mariage, Wavrans, 18 juillet 1829, puis remariage du 22 juin 1836",
+      "secondary_reading": "Jean Marie Célestin ALLOUCHERY, né le 13 mars 1808 à Cléty, fils de Marc Joseph ALLOUCHERY et Marie Joseph MEQUINION. Première épouse Marie Sophie BARROIS ; seconde épouse Marie Augustine Joseph BERNARD.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_aa_mariages_1693_1913.pdf",
+      "page": 2,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Contrôler les deux mariages pour établir que l’époux de BERNARD et le père d’Octavie sont le même homme."
+    },
+    {
+      "generation": "7 vers 8",
+      "subject": "Augustin COTRELLE et Émilie HERMETZ (86–87)",
+      "target_act": "Mariage, Wavrans, 8 mai 1838",
+      "secondary_reading": "Augustin Joseph, né le 14 avril 1816 à Wavrans, fils d’Antoine François COTREL et Marie Augustine Joseph FROPOT ; Émilie Rosalie, née le 19 novembre 1814 à Pihem, fille de Louis HERMETZ et Marie Rosalie DUQUENOY.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_aa_mariages_1693_1913.pdf",
+      "page": 13,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Parents d’Émilie désormais lus dans S31. Reste à lire le mariage pour les parents d’Augustin ; ne pas rattacher Antoine Cotrel et Marie Fropot sans ce raccordement."
+    },
+    {
+      "generation": "8 vers 9",
+      "subject": "Antoine François COTREL et Marie Augustine Joseph FROPOT",
+      "target_act": "Mariage, Wavrans, 23 novembre 1803",
+      "secondary_reading": "Antoine François serait né le 16 août 1758 à Wavrans, de Jean Philippe Joseph COTTREZ et Marie Rosalie BECQUET ; son épouse serait née le 31 octobre 1779 à Remilly-Wirquin, d’Antoine Joseph FROPOT et Marie Isabelle GODART.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_aa_mariages_1693_1913.pdf",
+      "page": 13,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Filiation à contrôler seulement après validation du mariage de 1838 ou du décès de Joséphine en 1865."
+    },
+    {
+      "generation": "8 vers 9",
+      "subject": "Jacques Joseph BERNARD et Marie Jeanne Joseph LECAT",
+      "target_act": "Mariage, Wavrans, 2 juillet 1804",
+      "secondary_reading": "Jacques Joseph serait né le 29 mai 1761 à Wavrans, de Pierre BERNARD et Jeanne Philippine DEVIN ; son épouse serait née le 15 mars 1775 à Pihem, de Louis François Xavier LECAT et Marie Jeanne Alexis BROQUET.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_aa_mariages_1693_1913.pdf",
+      "page": 5,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Les S32–S33 nomment Marie Josèphe Lecat. Vérifier le mariage et les variantes de prénoms avant de rattacher le couple du relevé."
+    },
+    {
+      "generation": "8 vers 9",
+      "subject": "Jean Joseph GOU et Marie Joseph DELAMOTE",
+      "target_act": "Mariage, Wavrans, 28 novembre 1775",
+      "secondary_reading": "Parents indiqués pour l’époux : Liévin GOU et Marie Isabelle Dominique BIAUSQUE ; pour l’épouse : Alexandre DELAMOTTE et Marie Jeanne COTRELLE.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_aa_mariages_1693_1913.pdf",
+      "page": 27,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Lire d’abord le mariage BLARET–GOU de 1824. Les années approximatives du relevé ne deviennent pas des dates établies."
+    },
+    {
+      "generation": "9 vers 10",
+      "subject": "Antoine Joseph FROPOT et Marie Isabelle GODART",
+      "target_act": "Mariage, Wavrans, 28 juillet 1767 ; contrat cité CM 5/1767",
+      "secondary_reading": "Parents indiqués pour Antoine : Philippe Joseph FROPOT et Marie Jeanne DUBOIS ; pour Marie Isabelle : Philippe Eloy GODART et Isabelle Françoise Marie BRICHE. Naissances indiquées : 13 février 1739 et 1er septembre 1735 à Wavrans.",
+      "url": "http://ancetresdartois.com/listes/wavranssuraa_files/wavrans_sur_aa_mariages_1693_1913.pdf",
+      "page": 25,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Chaîne entière à valider auparavant. La mention CM est un repère de relevé, pas une cote d’archives complète vérifiée."
+    },
+    {
+      "generation": "9 vers 10",
+      "subject": "Louis François Xavier LECAT et Marie Jeanne Alexis BROCQUET",
+      "target_act": "Mariage, Pihem, 22 juillet 1767",
+      "secondary_reading": "Parents indiqués : Jean Philippe LECAT et Marie Jacqueline CUVELIER ; Charles BROCQUET et Anne Jeanne COUVREUR.",
+      "url": "http://ancetresdartois.com/listes/pihem_files/pihem_mariages_1636_1820.pdf",
+      "page": 17,
+      "status": "Piste issue d’un relevé secondaire ; original non consulté ; hors arbre et GEDCOM",
+      "condition": "Contrôler d’abord les liens BERNARD–LECAT des générations précédentes. Relevé de Jean Luc CHEVALIER, d’après Bernard CHOVAUX et compléments ; original indispensable."
+    }
+  ],
+  "frontiers": [
+    [
+      "BLARET–GOU / LEROUX–COTRELLE",
+      "Parents de génération 7 lus dans S21. Mariage de 1824 et décès de 1865/1884 repérés en relevés ; images AD62 inaccessibles."
+    ],
+    [
+      "LIBESSART–MORENVAL",
+      "Parents de génération 7 lus dans S22. Mariage de 1828 localisé ; le relevé ne nomme pas les parents. SIBESART et SIBESSART recherchés dans les relevés consultés, sans occurrence probante pour cette branche."
+    ],
+    [
+      "ALLOUCHERY–BERNARD",
+      "Naissance et décès d’Augustine consultés (S32–S33) : ses parents Jacques Joseph Bernard et Marie Josèphe Lecat sont ajoutés en génération 8. Le mariage 1804 et les variantes de prénoms doivent être vérifiés avant de rattacher leurs parents. Pour Jean Marie Allouchery, le mariage de 1836 reste nécessaire."
+    ],
+    [
+      "CHEVALIER–FÉVRIER / LEBEL–PETIT",
+      "Le décès de Constant est cité le 13 février 1894 dans S12. Deux copies collatérales Henri Chevalier sont lues (S34–S35). Un Constant né à Raismes le 4 octobre 1834 de Jacques Joseph Chevalier et Bélanie Dulieu est retrouvé sur le site du Nord (S36) ; le lien d’identité avec notre Constant reste à établir, donc ces deux parents sont exclus. Lire en priorité le mariage Chevalier–Février repéré le 22 août 1860 à Ranchicourt, 5 MIR 693/3, vue 850, ou le décès de 1894."
+    ],
+    [
+      "DELVART–CAROULLE",
+      "Un grand-parent supplémentaire explicite : Zéphirine CAROULLE (S16). Chercher décès Florine CAROULLE, Esquerdes, 21 juillet 1867 (5 MIR 309/3) et mariage de ses parents. La table des mariages Esquerdes 1853–1862, vue 1381, ne donne pas le couple Charles Louis–Florine sous DELVART ; cela ne prouve pas une absence hors période ou hors commune."
+    ],
+    [
+      "DELVART–DELBARE / COTRELLE–HERMETZ",
+      "Mariage Delvart–Delbare de 1831 consulté (S24) : quatre parents ajoutés. Branche Caron–Personne prolongée jusqu’à Pierre Personne en génération 10 (S27–S28). Branche Delbare : Jacques François Delbare et Marie Catherine Delcroix sont des candidats hors arbre ; leur fils doit être raccordé à Philippe Joseph par un acte personnel. Émilie Hermetz : Louis Hermetz et Rosalie Duquenoy ajoutés en génération 8 (S31). Le mariage Cotrelle–Hermetz 1838 reste manquant : les parents attribués à Augustin dans des arbres ne sont pas ajoutés."
+    ],
+    [
+      "DEGARDIN–LEDOUX / DUFAY–FARDOUX",
+      "Toujours à la génération 6. Chercher les mariages des couples et le décès Auguste DUFAY du 7 janvier, année à vérifier à Wizernes. La table publiée Wizernes 1688–1829 ne permet pas d’identifier les quatre parents avec certitude ; aucun candidat ajouté à partir d’un âge ou d’un nom semblable."
+    ],
+    [
+      "HIETTE–JOLY — branche maternelle",
+      "Nathalie, sa naissance le 19 novembre 1969 et sa mère Marie-Paule Hiette-Joly reposent sur les informations de Maxime (M01). Père non identifié. Une copie intégrale de la naissance de Nathalie, ou son mariage à Lumbres, permettrait de connaître les parents ; les registres récents ne sont pas librement consultables avec filiation. Aucun homonyme n’est ajouté à partir de son seul nom ou d’un décès près de Saint-Venant. Reprise maternelle : recherches natives Bée et Bonniez, archives Geneanet et variantes, 37 recueils administratifs téléchargés ; 236 pages examinées par OCR. Ces recueils ne sont pas des bulletins d’état civil et ne constituent pas un résultat négatif sur toutes les familles. Bibliothèque Calaméo du P’tit Wavranais localisée, mais liste des publications en erreur 503. Aucun père identifié."
+    ],
+    [
+      "Pierre PERSONNE — passage de génération 10 à 11",
+      "Le relevé de décès de Wavrans donne le 25 mai 1773 et les parents Jean Personne et Marie Antoinette Delattre. Acte cible : 5 MIR 882/1. Ces deux candidats restent exclus sans lecture de l’acte et rapprochement de son conjoint. La date du mariage avec Jeanne Thérèse Vastrade diverge entre les arbres publiés ; elle n’est pas fixée."
+    ]
+  ],
+  "stories": [
+    [
+      "Des papetiers dans plusieurs générations",
+      "François Joseph BLARET et Célestin LEROUX sont papetiers au mariage de leurs enfants en 1858. Florent est lui-même papetier dans cet acte. Amédée BLARET est ouvrier papetier dans son mariage de 1900. Octavie ALLOUCHERY est papetière en 1871. Ces métiers montrent une présence familiale répétée dans cette activité ; aucun employeur précis n’est établi par ces actes.",
+      "S21, S09, S22"
+    ],
+    [
+      "Une cabaretière dans la branche de Micheline",
+      "En 1865, Émilie HERMETZ est qualifiée de cabaretière à Wavrans. Elle assiste au mariage de sa fille Euphémie COTRELLE avec Donat DELVART. Le nom et l’adresse du cabaret ne sont pas donnés.",
+      "S23"
+    ],
+    [
+      "Un témoin qui ouvre une génération",
+      "Zéphirine CAROULLE, fabricant de formes, 53 ans, signe la naissance de son petit-fils Ernest en 1861. La qualification d’aïeul maternel établit qu’il est le père de Florine. Le type de formes fabriquées n’est pas précisé : aucune industrie particulière ne lui est attribuée.",
+      "S16"
+    ],
+    [
+      "Domestique et papetière",
+      "Émile Amédée Joseph LIBESSART, domestique demeurant à Esquerdes, épouse Octavie Philomène ALLOUCHERY, papetière à Chauchoy, en 1871. Son père Alexandre est déjà décédé.",
+      "S22"
+    ],
+    [
+      "La transmission du nom BLARET",
+      "Justin est né LIBESSART en 1898. Le mariage d’Amédée BLARET et Maria Julia LIBESSART, en 1900, reconnaît et légitime l’enfant. C’est une filiation civile documentée ; ces actes ne constituent pas une preuve génétique.",
+      "S06, S09"
+    ],
+    [
+      "Un père absent, pas déclaré mort",
+      "En 1899, le mariage de Mathilde Marie LEBEL cite un acte de notoriété du 26 juillet 1895 à Houdain concernant l’absence de son père Marcellin. Aucun motif de départ ni récit de disparition n’est établi.",
+      "S12"
+    ],
+    [
+      "Charles Louis DELVART, tisserand",
+      "Au mariage de 1831, Charles Louis est tisserand à Dohem. Au décès de 1857, il est manouvrier.",
+      "S24, S25"
+    ],
+    [
+      "Donat, garde champêtre",
+      "Le décès de sa mère Honorine en 1892 le décrit comme garde champêtre et le nomme explicitement comme son fils.",
+      "S26"
+    ],
+    [
+      "Philippe CARON, cordonnier",
+      "Sa veuve Marie Anne Personne est identifiée dans son décès de 1801. L’acte donne à son mari défunt le métier de cordonnier.",
+      "S28"
+    ],
+    [
+      "Émilie HERMETZ, de cabaretière à rentière",
+      "Elle est cabaretière au mariage de sa fille Euphémie et rentière dans son propre décès. Ce changement de qualification ne suffit pas à décrire sa fortune.",
+      "S23, S31"
+    ],
+    [
+      "Les CHEVALIER et le travail des mines",
+      "Les copies concernant Henri Chevalier décrivent son père Constant comme ouvrier mineur. La naissance de Raismes décrit aussi un père mineur, mais le rapprochement entre ces deux personnes n’est pas suffisamment établi pour en tirer une continuité familiale.",
+      "S34, S35, S36"
+    ]
+  ],
+  "corrections": [
+    [
+      "Florent Joseph BLARET",
+      "Le mariage de son fils (S09) est relu 16 avril 1893 : l’ancienne transcription 1883 est corrigée. Le relevé de décès, page 11, donne 6 avril 1893. Le jour reste à trancher dans le décès original."
+    ],
+    [
+      "Naissance de Florent",
+      "Le mariage de 1858 (S21) cite 30 juillet 1825 ; le relevé de décès mentionne un Florent Joseph mort en mai 1826 avec les mêmes noms de parents. Cette contradiction impose la lecture des naissances et décès originaux. L’entrée de 1826 n’est pas fusionnée avec l’ancêtre."
+    ],
+    [
+      "Stéphanie HALIPRE",
+      "Le mariage de Florent en 1858 cite le décès de sa première épouse au 24 décembre 1854 ; le relevé donne le 23. Elle n’est pas une ancêtre directe de cette branche. Date à vérifier avant ajout."
+    ],
+    [
+      "LIBESSART et les prénoms complets",
+      "LIBESSART / LIBESART restent les graphies documentées. SIBESART / SIBESSART restent des pistes. Les prénoms supplémentaires trouvés seulement dans des relevés ne remplacent pas les formes lues dans les originaux."
+    ],
+    [
+      "Parenté entre branches",
+      "Un relevé suggère que Joséphine COTRELLE, épouse LEROUX, et Augustin COTRELLE auraient les mêmes parents. Le rapprochement des identités et les actes correspondants manquent : aucun ancêtre commun ni degré de parenté n’est déclaré établi."
+    ],
+    [
+      "Fernande CHEVALIER — erreur corrigée",
+      "La mention marginale de S08, agrandie, porte 12 janvier 1950 à Esquerdes, et non 1940. L’ancienne transcription était erronée."
+    ],
+    [
+      "Justin BLARET — remariage corrigé",
+      "S06, vue 50, porte 16 février 1952 à Saint-Omer avec Ernestine Pécro. Les anciennes lectures décembre / Constantine Péron sont supprimées."
+    ],
+    [
+      "Juliette PETIT — patronyme corrigé",
+      "S12 porte Juliette Petit, et non Bœuf. L’agrandissement est conservé. Aucune ascendance Bœuf ne doit être poursuivie sur cette ancienne lecture."
+    ],
+    [
+      "Augustin COTRELLE — divergence résolue",
+      "S30, copie du décès : mort le 20 avril 1857, déclaré le 23. La date 28 suggérée par la lecture du mariage de sa fille est abandonnée. Ses parents ne sont pas nommés dans ce décès."
+    ],
+    [
+      "Marie Augustine Josèphe BERNARD",
+      "S32 indique une naissance le 7 avril 1816, le jour de la déclaration ; le relevé donnait le 6. Ses parents sont Jacques Joseph Bernard et Marie Josèphe Lecat. Le prénom Jeanne attribué à cette dernière par un relevé de mariage n’est pas automatiquement substitué."
+    ],
+    [
+      "Marie Anne PERSONNE",
+      "S28 porte Marie Anne, veuve Philippe Caron, et non Anne Thérèse comme la fiche du déposant. Son père Pierre Personne est lisible ; le patronyme de sa mère Thérèse reste à contrôler."
+    ],
+    [
+      "Marie Catherine DELCROIX",
+      "La copie S29 comporte une incohérence entre date d’en-tête et date du décès. Aucun décès exact n’est saisi. La filiation de ses deux fils est lisible ; ses propres parents sont laissés en attente en raison de la lecture incertaine."
+    ],
+    [
+      "Constant CHEVALIER — mois corrigé",
+      "L’agrandissement de S12 porte le treize février 1894, et non le 13 mars. Le décès original n’a toujours pas été consulté."
+    ],
+    [
+      "Fidéline Catherine LEDOUX",
+      "S19 coupe le prénom en Fi-déline sur deux lignes. Sideline était une erreur de transcription."
+    ],
+    [
+      "Alexandre LIBESSART — année corrigée",
+      "S22 cite le décès le 11 février 1866 : soixante-six est lisible. L’ancienne lecture 1864 est corrigée."
+    ],
+    [
+      "Auguste Joseph DUFAY — année retirée",
+      "Le décès cité dans S19 est le 7 janvier, mais l’année reste à trancher. L’ancienne année 1883 n’est pas suffisamment soutenue et disparaît du champ date."
+    ]
+  ],
+  "context": [
+    {
+      "title": "L’industrie papetière de la vallée de l’Aa",
+      "author": "Louis Gaillard",
+      "date": "1963",
+      "url": "https://www.persee.fr/doc/htn_0018-439x_1963_num_2_1_1131",
+      "description": "Article dans Hommes et Terres du Nord, 1963/2, pages 147–152. Contexte régional : développement des papeteries de la vallée, dont Wavrans. Ne prouve pas l’emploi d’un ancêtre dans une usine donnée."
+    },
+    {
+      "title": "Poudrerie d’Esquerdes vers 1990",
+      "author": "F Lamiot",
+      "date": "vers 1990 selon la notice",
+      "url": "https://commons.wikimedia.org/wiki/File:Poudrerie_d%27esquerdes_vers_1990.jpg",
+      "license": "CC BY-SA 2.0 France",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+      "description": "Photo d’un bâtiment de la poudrerie après abandon. Illustration du lieu : le recensement de 1936 qualifie Justin de poudrier d’État, sans identifier son atelier. La photo ne représente aucun ancêtre et n’est pas contemporaine de son activité. Notice consultée ; téléchargement local de l’image refusé (HTTP 403), donc lien conservé, sans fausse copie jointe."
+    }
+  ],
+  "access": "Le site départemental et sa visionneuse restent en erreur HTTP 500/503 lors des essais du 22 octobre 2026. La recherche a été poursuivie sur les arbres publics Geneanet, en recherchant les photographies des actes eux-mêmes. Dix nouvelles sources photographiques S24–S33 ont été consultées, conservées et reliées aux personnes. Les pages généalogiques servent de pistes ; leurs assertions seules ne valident pas une filiation. Cette limite est une limite d’accès aux preuves, pas une déclaration d’épuisement des archives historiques. Nouvel essai le 25 octobre : visionneuse 503 et portail 401 ; recherches complémentaires ciblées à Wavrans, Cléty, Pihem et sur Vastrade sans nouvelle copie permettant de franchir les points d’arrêt. Le catalogue Geneanet du Pas-de-Calais a également été vérifié : Hallines présente des relevés INED et des recensements, Acquin un relevé privé. Ils n’apportent pas les copies d’actes nécessaires au raccordement. Pour la mère de Maxime, les index HIETTE et la notice automatique consultée ne nomment pas les parents ou la fratrie (M02–M03) : aucun père n’est identifié. Reprise approfondie : recherches des archives Geneanet séparément des arbres, filtres de photographies, catalogue et API publique des Archives du Nord. La naissance d’un Constant Chevalier à Raismes est consultée (S36), mais le raccordement reste manquant. Les dossiers de mineurs ANMT sont signalés comme autre piste ; leur portail renvoie une vérification anti-robot, non franchie. La page officielle pasdecalais.fr annonce un retour du site des archives à partir de mi-novembre ; cela établit une indisponibilité du service, pas la fin des recherches historiques.",
+  "method": "Chaque rattachement nouveau est accompagné de la transcription utile et de la copie consultée. Les rapprochements utilisent conjoint, enfant, commune et, si nécessaire, âge et témoins. La source S29 suggère les parents de Philippe Joseph par concordance du nom, domicile et âge, mais son acte personnel reste à rechercher : ces deux candidats sont exclus de l’arbre. Les parents illisibles, les patronymes incertains et les ascendances sans raccordement documenté sont exclus.",
+  "portrait_status": "Aucun portrait personnel identifié avec certitude dans les recherches effectuées."
+}

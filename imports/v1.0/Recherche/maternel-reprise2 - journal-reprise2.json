@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-25",
+  "purpose": "Identifier le père de Nathalie et l’identité civile de Marie-Paule HIETTE-JOLY avant toute extension ascendante.",
+  "queries_web": [
+    "\"BLARET\" \"HIETTE\"",
+    "\"HIETTE\" \"JOLY\" famille",
+    "\"Nathalie\" \"HIETTE\" Lumbres",
+    "\"Marie-Paule\" \"HIETTE\" \"JOLY\"",
+    "\"Hiette\" \"Lumbres\" bulletin",
+    "\"Hiette\" \"Wavrans\" bulletin",
+    "\"Hiette\" \"Joly\" \"mariage\"",
+    "\"Nathalie Hiette\"",
+    "Wavrans sur l Aa site officiel bulletin municipal",
+    "Lumbres bulletin municipal archives PDF",
+    "\"BLARET\" \"Nathalie\" \"mariage\"",
+    "\"BLARET\" \"HIETTE\" mariage Lumbres",
+    "\"P’tit Wavranais\"",
+    "\"ptit wavranais\" calameo",
+    "\"petit wavranais\" bulletin",
+    "\"calameo\" \"Wavrans-sur-l’Aa\""
+  ],
+  "checks": [
+    {
+      "subject": "Pompes funèbres Bée, recherche publique native",
+      "urls": [
+        "https://pf-bee.fr/?s=Hiette",
+        "https://pf-bee.fr/?s=Joly",
+        "https://pf-bee.fr/?s=Blaret"
+      ],
+      "result": "Hiette et Blaret ne donnent aucun avis. Joly donne Lucile Roussel née Joly ; faire-part photographique téléchargé et lu, décès le 22 janvier 2026, enfants Jean-Louis et Florence. Aucun lien à Marie-Paule/Nathalie.",
+      "document": "https://pf-bee.fr/wp-content/uploads/2026/01/20260123171512351_0001.pdf",
+      "local": [
+        "lucile-joly.pdf",
+        "lucile-joly.png",
+        "bee-hiette.txt",
+        "bee-joly.txt",
+        "bee-blaret.txt"
+      ]
+    },
+    {
+      "subject": "Pompes funèbres Hervé Bonniez, formulaire d’avis avec post_type=obituaries",
+      "urls": [
+        "https://www.pompes-funebres-herve-bonniez.fr/?s=Hiette&post_type=obituaries",
+        "https://www.pompes-funebres-herve-bonniez.fr/?s=Joly&post_type=obituaries",
+        "https://www.pompes-funebres-herve-bonniez.fr/?s=Blaret&post_type=obituaries"
+      ],
+      "result": "Hiette/Joly : aucun résultat. Blaret retrouve Roger, donc la recherche ciblée fonctionne. Aucun nouveau faire-part maternel.",
+      "local": [
+        "bonniez-custom-results.json"
+      ]
+    },
+    {
+      "subject": "Archives municipales de Lumbres, recueils administratifs BIA",
+      "url": "https://www.villedelumbres.fr/BIA-recueils-des-actes-administratifs",
+      "result": "37 PDF téléchargés, 2162 pages au total. La plupart sont scannés, presque sans texte. Le BIA86 juillet–septembre 2015 (42 pages) a été OCRisé intégralement ; six dernières pages des 32 autres PDF scannés ont été OCRisées (194 pages supplémentaires). Aucun hit HIETTE/BLARET/HIET/JOLY/Marie-Paule dans ces 236 pages OCRisées. Le reste n’est pas présenté comme lu. Ces BIA sont des arrêtés/délibérations, pas des registres d’état civil.",
+      "local": [
+        "pdf-results.json",
+        "ocr-bia2015-results.json",
+        "ocr-ends-results.json"
+      ],
+      "limits": "Tesseract eng disponible, langue française absente ; un résultat négatif OCR n’est pas une preuve d’absence d’un nom."
+    },
+    {
+      "subject": "Recherche interne municipale Lumbres",
+      "urls": [
+        "https://www.villedelumbres.fr/spip.php?page=recherche&recherche=Hiette",
+        "https://www.villedelumbres.fr/spip.php?page=recherche&recherche=Blaret",
+        "https://www.villedelumbres.fr/spip.php?page=recherche&recherche=bulletin"
+      ],
+      "result": "Aucun article familial HIETTE ou BLARET. La recherche bulletin renvoie des rubriques Jeunesse/Culture. Le lien historique /Bulletin-municipal aboutit à un article de servitudes industrielles, pas à un bulletin ; aucune lecture de ce bulletin n’est revendiquée."
+    },
+    {
+      "subject": "P’tit Wavranais, bibliothèque publique Calaméo embarquée",
+      "urls": [
+        "https://wavranssurlaa.com/vie-quotidienne/ptit-wavranais",
+        "https://v.calameo.com/library/?type=account&id=5358035&rows=4&sortBy=latestPublished&theme=wood",
+        "https://www.calameo.com/accounts/5358035",
+        "https://d.calameo.com/pinwheel/library/get?type=account&id=5358035&page=0&step=100&order=0&way=desc"
+      ],
+      "result": "Page municipale et coquille de bibliothèque accessibles. Le compte Calaméo et le service public de liste des livres répondent 503. Aucun identifiant de bulletin n’a été récupéré ; les bulletins eux-mêmes n’ont donc pas été lus.",
+      "local": [
+        "wavrans-bulletin.html",
+        "wavrans-library.html",
+        "calameo-library.js",
+        "wavrans-books.json"
+      ]
+    },
+    {
+      "subject": "Geneanet archives distinctes des arbres",
+      "urls": [
+        "https://www.geneanet.org/fonds/individus/archives/?go=1&size=100&nom=hiette",
+        "https://www.geneanet.org/fonds/individus/archives/?go=1&size=100&nom=hiette&prenom=Nathalie",
+        "https://www.geneanet.org/fonds/individus/archives/?go=1&size=100&nom=joly&prenom=Marie+Paule&place__0__=Wavrans",
+        "https://www.geneanet.org/fonds/individus/archives/?go=1&size=100&nom=joly&prenom=Marie+Paule&place__0__=Lumbres"
+      ],
+      "result": "La recherche HIETTE trouve des actes anciens ; aucune entrée moderne Nathalie/Marie-Paule répondant aux critères et établissant le raccordement.",
+      "local": [
+        "gn-archives-results.json"
+      ]
+    },
+    {
+      "subject": "Véritables bulletins municipaux de Lumbres, distincts des BIA",
+      "urls": [
+        "https://www.calameo.com/books/007287802c67027f30f30",
+        "https://www.calameo.com/books/0072878020410d0133a92",
+        "https://www.calameo.com/books/007287802e8f722c1e89e",
+        "https://www.calameo.com/accounts/7287802",
+        "https://v.calameo.com/?bkcode=007287802e8f722c1e89e",
+        "https://d.calameo.com/pinwheel/viewer/book/get?bkcode=007287802e8f722c1e89e"
+      ],
+      "result": "Bulletins 2022, 2023 et 2024–25 identifiés, éditeur DTalleuGraph. Le compte de l’éditeur est accessible, mais les pages de livres répondent503 ; le lecteur public renvoie200 avec titre et coquille seulement. Son service de données natif public, identifié dans loader.js, répond503. Aucun PDF complet ni pages intérieures récupérés. Aucun résultat négatif sur leur état civil ou noces n’est revendiqué. Les recherches de miroirs PDF municipaux/éditeur n’ont donné que des délibérations et des bulletins d’autres communes, non substitués aux documents recherchés.",
+      "local": [
+        "lumbres-calameo-results.json",
+        "lumbres-calameo-api.json",
+        "lumbres-viewer2024.html",
+        "calameo-loader.js"
+      ]
+    }
+  ],
+  "status": "Aucun père identifié ; aucune nouvelle filiation civile prouvée. Les informations familiales M01 restent distinctes des résultats de recherche.",
+  "precise_bridge_needed": "Une pièce nommant le père et la mère de Nathalie : naissance du 19 novembre 1969 à Wavrans avec filiation, mariage avec Philippe BLARET à Lumbres, livret de famille ou faire-part familial équivalent. Tant que ce raccordement manque, les nombreuses lignées HIETTE/JOLY des archives anciennes ne peuvent pas être rattachées."
+}
