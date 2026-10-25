@@ -1,0 +1,50 @@
+{
+  "version": "1.2",
+  "date": "2026-10-25",
+  "objectif": "Remonter les deux branches de Nathalie HIETTE et produire le ZIP v1.2 sur Git",
+  "statut": "État de recherche livré ; ascendance maternelle incomplète, raccordements manquants",
+  "apports": [
+    "Lecture visuelle et transcription M05 : naissance de Nathalie et filiation Claude Armand Gérard HIETTE–Marie-Paule JOLY",
+    "Dates et lieux des parents lus dans cet extrait ; professions à la naissance de Nathalie",
+    "Relecture du décès de Claude dans l’index secondaire INSEE M06",
+    "Relevé du mariage Gérard HIETTE–Odette NOEL, référence 5 MIR 678/3, vue 7/10",
+    "Dossiers de candidats JOLY–TOURET et HIETTE–NOEL, séparés de l’arbre raccordé"
+  ],
+  "requêtes_documentées": 78,
+  "limites_recherche": [
+    "Les parents de Claude ne sont pas nommés dans les documents obtenus",
+    "Le père de Marie-Paule reste inconnu ; sa mère Jeanne TOURET est déclarée par Maxime",
+    "Les candidats ne sont pas rattachés sur la seule similitude des noms ou communes",
+    "AD62 : erreurs 503 sur état civil, recensement et ARK, 401 sur portail",
+    "Faire-part Bée, Bonniez, Libra Memoria, Dans Nos Cœurs : refus proxy lors des essais",
+    "Google : réponses sans résultats exploitables puis 429 ; Bing : résultats hors sujet, non exploités",
+    "Certificat du proxy dans Chromium : ajout refusé par la vérification automatique ; aucun changement de confiance TLS effectué ; consultations poursuivies par HTTPS vérifié avec Python",
+    "Filtre conjoint et filtre images Geneanet indiqués comme Premium et ignorés ; aucune conclusion ne les suppose appliqués",
+    "Catalogues contributifs Geneanet examinés pour les trois communes : pas de registre moderne utile dans les pages consultées"
+  ],
+  "sources_ajoutées": [
+    "M05",
+    "M06",
+    "M07",
+    "M08",
+    "M09",
+    "M10",
+    "M11"
+  ],
+  "checks": [
+    "55 fichiers originaux vérifiés par SHA-256",
+    "Personnes, familles et sources historiques hors périmètre préservées",
+    "60 personnes, 31 familles, références et événements JSON/GEDCOM contrôlés",
+    "PDF contrôlés par extraction de texte et première page visualisée",
+    "ZIP testé par CRC et manifeste SHA-256 de chaque fichier"
+  ],
+  "actions_non_effectuées": [
+    "Aucun contact avec une mairie ou un propriétaire d’arbre",
+    "Aucun accès aux personnes masquées ni contournement de connexion ou de contenu Premium"
+  ],
+  "prochaines_pieces": [
+    "Claude : naissance à Quesques le 6 janvier 1940",
+    "Claude : décès à Vaudringhem le 11 janvier 2001, acte 1",
+    "Marie-Paule : naissance à Saint-Martin-d’Hardinghem le 30 janvier 1949"
+  ]
+}

@@ -16,12 +16,18 @@ original = json.loads((root / 'imports/v1.0/Donnees genealogiques.json').read_te
 for person in original['people']:
     if person['sosa'] not in (3, 7):
         assert people[person['sosa']] == person, 'Personne hors périmètre modifiée'
-assert data['sources'][:-1] == original['sources'], 'Sources historiques modifiées'
+assert data['sources'][:len(original['sources'])] == original['sources'], 'Sources historiques modifiées'
+for family in original['families']:
+    if family['id'] != 'F3':
+        assert next(f for f in data['families'] if f['id'] == family['id']) == family, 'Famille hors périmètre modifiée'
 assert len(people) == len(data['people']) == data['counts']['total_people']
 sources = {s['id'] for s in data['sources']}
 assert len(sources) == len(data['sources'])
 for person in people.values():
     assert set(person['sources']) <= sources
+    for event in ['birth', 'death']:
+        if person.get(event): assert set(person[event].get('sources', [])) <= sources
+    for occupation in person.get('occupations', []): assert set(occupation['sources']) <= sources
 families = {f['id']: f for f in data['families']}
 assert len(families) == len(data['families'])
 for f in families.values():
@@ -50,5 +56,23 @@ for key, f in families.items():
     cb = re.search(r'^0 @I' + str(f['child']) + r'@ INDI\n(.*?)(?=^0 |\Z)', ged, re.M | re.S).group(1)
     assert f'1 FAMC @{key}@' in cb
 assert ged.rstrip().endswith('0 TRLR')
+for identifier in [3, 6, 7, 15]:
+    block = re.search(r'^0 @I' + str(identifier) + r'@ INDI\n(.*?)(?=^0 |\Z)', ged, re.M | re.S).group(1)
+    for event, tag in [('birth', 'BIRT'), ('death', 'DEAT')]:
+        e = people[identifier].get(event)
+        if e:
+            eb = re.search(r'^1 ' + tag + r'\n(.*?)(?=^1 |\Z)', block, re.M | re.S).group(1)
+            assert '2 DATE ' + e['date'] in eb
+            if e.get('place'): assert '2 PLAC ' + e['place'] in eb
+            for sid in e.get('sources', []): assert '2 SOUR @' + sid + '@' in eb
 print(f"OK : {len(manifest['files'])} fichiers originaux intacts ; {len(people)} personnes ; {len(families)} familles ; références JSON/GEDCOM concordantes.")
-print('Vérification documentaire uniquement : aucune nouvelle filiation certifiée par acte.')
+assert people[6]['given'] == 'Claude Armand Gérard'
+assert people[6]['birth']['place'] == 'Quesques, Pas-de-Calais, France'
+assert people[7]['birth']['place'] == "Saint-Martin-d'Hardinghem, Pas-de-Calais, France"
+assert 'M05' in families['F3']['sources']
+assert families['F7']['sources'] == ['M04'], 'Le lien Jeanne–Marie-Paule reste déclaratif'
+for sid in ['M05', 'M06', 'M07', 'M08', 'M09', 'M10', 'M11']:
+    assert sid in sources
+for source in data['sources'][len(original['sources']):]:
+    for name in source.get('files', []): assert (root / 'donnees' / name).is_file(), name
+print('M05 conservée comme transcription de photographie ; filiation de Nathalie documentée, générations antérieures non raccordées par acte.')

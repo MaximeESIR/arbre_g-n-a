@@ -1,52 +1,54 @@
-# Branche de Nathalie HIETTE — 25 octobre 2026
+# Branche de Nathalie HIETTE — v1.2, état de recherche
 
-## Arbre de travail
-
-Les numéros Sosa sont ceux de l'ascendance de Maxime. Tous les raccordements ci-dessous sont déclarés par Maxime ; aucun nouvel acte n'a été consulté dans cette itération.
+L'extrait photographié par Maxime (M05) documente la naissance de Nathalie et ses parents. L'ascendance antérieure n'est pas encore complète. Le dossier distingue les personnes raccordées et les [candidats non raccordés](pistes-v1.2.md).
 
 ```text
 Maxime BLARET (1)
 └── Nathalie HIETTE, épouse BLARET (3)
-    ├── Claude HIETTE (6)
+    née le 19 novembre 1969 à 04 h 35 à Wavrans-sur-l'Aa [M05]
+    ├── Claude Armand Gérard HIETTE (6) [père nommé dans M05]
+    │   né le 6 janvier 1940 à Quesques [M05]
+    │   décédé le 11 janvier 2001 à Vaudringhem [M04, M06, acte non lu]
+    │   ouvrier en pisciculture à la naissance de Nathalie [M05]
     │   ├── père non identifié (12)
     │   └── mère non identifiée (13)
-    └── Marie-Paule JOLY, nom d'usage HIETTE (7)
+    └── Marie-Paule JOLY (7) [mère nommée dans M05]
+        née le 30 janvier 1949 à Saint-Martin-d'Hardinghem [M05]
+        épouse de Claude, profession « Sans » à cette date [M05]
         ├── père non identifié (14)
-        └── Jeanne TOURET (15)
+        └── Jeanne TOURET (15) [déclaration de Maxime, M04]
             ├── père non identifié (30)
             └── mère non identifiée (31)
 ```
 
-| Personne | Information transmise | Statut |
-| --- | --- | --- |
-| Nathalie HIETTE | 19 novembre 1969, Wavrans-sur-l'Aa | Déclaration M01 du dossier v1.0 ; acte absent |
-| Claude HIETTE | 6 janvier 1940, « Quesque » | Nouvelle déclaration M04 ; graphie communale à confirmer, piste Quesques |
-| Décès de Claude HIETTE | 11 janvier 2001, « Vandringhem » | Précision de Maxime, M04 ; la notice M02 donne Vaudringhem, graphie à vérifier |
-| Marie-Paule JOLY | 30 janvier 1949, peut-être Saint-Martin-d'Hardinghem | Déclaration M04 ; année corrigée et confirmée par Maxime, lieu de naissance incertain |
-| Jeanne TOURET | Mère de Marie-Paule | Nouvelle déclaration M04 ; ni date, ni lieu, ni conjoint établis |
+Les numéros entre parenthèses sont les numéros Sosa depuis Maxime ; les personnes non identifiées ne sont pas créées comme personnes connues dans le GEDCOM.
 
-**Correction reçue :** Maxime a remplacé l'année initiale 1969 par « 3949 », puis confirmé explicitement **1949**. Le 30 janvier 1949 est donc retenu comme déclaration familiale dans le JSON et le GEDCOM ; les anciennes saisies restent dans l'historique des assertions. La commune visée est bien Saint-Martin-d'Hardinghem (Pas-de-Calais), mais la naissance dans cette commune reste seulement possible selon la demande initiale.
+## Ce qui est établi et ce qui reste à vérifier
 
-## Piste déjà présente dans le ZIP
+- **M05** nomme Claude Armand Gérard HIETTE et Marie-Paule JOLY, son épouse, comme parents de Nathalie, et donne leurs dates et lieux de naissance. La naissance propre de chaque parent n'a pas encore été lue. [Transcription et limites de la photographie](../preuves/M05-extrait-naissance-nathalie-transcription.md).
+- **M06**, index secondaire INSEE consulté de nouveau, donne le décès de Claude à **Vaudringhem**, le **11 janvier 2001**, acte **n° 1**. Les prénoms complets et la naissance concordent avec M05. La date est également confirmée par Maxime. La graphie « Vandringhem » transmise par Maxime reste conservée dans l'historique ; le lieu est normalisé d'après l'index, sans prétendre avoir lu le décès original.
+- **M04** est la seule source actuelle pour la filiation Marie-Paule–Jeanne TOURET. L'extrait de Nathalie ne donne pas ses grands-parents.
+- La correction de naissance de Marie-Paule au **30 janvier 1949** et son lieu de naissance sont désormais recoupés par M05. Les saisies antérieures « 1969 » et « 3949 » sont abandonnées, conservées seulement comme historique.
+- L'extrait dit « son épouse », sans date ni lieu de mariage. « Mention marginale Néant » est ce qui apparaît sur cet exemplaire, sans préjuger du registre actuel.
 
-La source **M02**, dans le JSON original, rapporte un index secondaire de décès : **Claude Armand Gérard HIETTE, né le 6 janvier 1940 à Quesques, décédé le 11 janvier 2001 à Vaudringhem, acte n° 1**. Le prénom et les dates de naissance et de décès concordent avec les déclarations de Maxime. Celui-ci précise le décès le 11 janvier 2001 à « Vandringhem » : cette date est maintenant ajoutée à la fiche comme déclaration familiale, avec le lieu littéral et la divergence de graphie signalée. L'identité civile complète, la commune et les filiations restent à vérifier par acte ; les prénoms supplémentaires ne sont pas attribués comme faits établis.
+## Résultats des recherches en ligne
 
-Référence rapportée dans l'import : https://www.acte-deces.fr/recherche-deces-famille-hiette. Cette page n'a pas été relue dans cette itération ; les copies HTML et texte mentionnées par M02 ne sont pas présentes dans les 55 fichiers du ZIP. Les autres notices du dossier ne suffisent pas à raccorder Frédéric HIETTE à cette famille.
+Les pages de recherche Geneanet et certaines fiches d'arbres sont accessibles. Les copies factuelles M06 à M11, leurs URL, les requêtes et les erreurs sont conservées. Les résultats des moteurs généralistes n'ont pas été utilisés pour attribuer des filiations : Google renvoie une coquille nécessitant JavaScript, puis une erreur 429 ; les réponses de Bing examinées sont sans rapport utile avec les identités demandées.
 
-Les nouveaux témoignages utilisent **M04**, pour préserver M01, M02 et M03 de l'import.
+Trois axes précis sont documentés dans [le dossier des pistes](pistes-v1.2.md) :
 
-## Ordre de recherche
+1. Gérard Etienne Gaston HIETTE et Odette NOËL, mariés à Quesques le 16 février 1938 ; table référencée **5 MIR 678/3, vue 7/10**, M07. **Aucun lien de parenté de ce couple à Claude n'est établi.**
+2. Jeanne Marthe Noémie TOURET, née le 15 avril 1926 à Saint-Martin-d'Hardinghem, morte le 22 octobre 2018 à Thiembronne. Parents attribués dans un arbre : Eugène TOURET et Céline BOUTON. **Son identification à la mère de Marie-Paule reste à prouver.**
+3. Théophile André François JOLY, né en 1922, mort en 2011, associé selon les arbres à une Jeanne TOURET ou BAURET. **Il n'est pas établi comme père de Marie-Paule.**
 
-1. **Claude HIETTE, naissance du 6 janvier 1940.** Vérifier le candidat de la notice M02, notamment l'acte de décès n° 1 du 11 janvier 2001 à Vaudringhem, susceptible de nommer ses parents. Confirmer la commune de Quesques, puis rechercher son acte de naissance avec filiation et ses mentions marginales. Une notice de décès INSEE seule ne donne pas ses parents. La naissance de 1940 n'est pas présumée disponible en ligne ; vérifier les fonds réellement accessibles et, à défaut, demander l'acte à la mairie.
-2. **Raccordement Nathalie–Claude–Marie-Paule.** Acte de naissance avec filiation de Nathalie, livret de famille, ou acte de mariage de Nathalie et Philippe BLARET à Lumbres (date inconnue). Demander les actes récents par le canal officiel, avec les justificatifs requis ; aucune demande n'a été envoyée.
-3. **Marie-Paule JOLY, née le 30 janvier 1949 selon Maxime.** Confirmer le lieu, puis lire sa naissance ou son mariage avec Claude. Cela doit identifier son père et l'identité complète de Jeanne TOURET.
-4. **Jeanne TOURET et son conjoint.** À partir de cette identification, rechercher leur mariage puis les actes de naissance des deux époux. Sans âge, lieu ou conjoint, un homonyme TOURET ne peut pas être raccordé.
-5. Remonter ensuite chaque couple par les mariages et les naissances, en conservant les cotes, vues, transcriptions et contradictions. Les arbres collaboratifs sont des pistes à vérifier dans les actes.
+Les générations anciennes de ces arbres ne sont pas ajoutées à l'ascendance de Maxime sans le raccordement manquant.
 
-## Accès aux sources
+## Points d'arrêt concrets
 
-Lors de cette itération, les requêtes vers Google, MatchID, les archives AD62 et Geneanet ont été refusées par le proxy (`403 Forbidden` à l'ouverture du tunnel). Aucun résultat de recherche ni absence de personne ne peut être déduit de ces refus.
+Les pages AD62 d'état civil, de recensement et l'ARK du mariage de 1938 renvoient **503** ; le portail testé renvoie **401**. Les catalogues contributifs Geneanet de Quesques, Saint-Martin-d'Hardinghem et Vaudringhem ont été parcourus : à Quesques, le résultat affiché est un testament de 1672 ; aucun registre moderne utile n'est proposé dans les trois pages examinées. Cela n'est pas un inventaire exhaustif des archives détenues par les mairies ou le département.
 
-Les domaines de recherche ont été ajoutés au brouillon de configuration de l'environnement ; l'enregistrement du brouillon ne les applique pas au runtime. L'utilisateur doit examiner et enregistrer les paramètres puis publier l'environnement. Les accès concernés devront ensuite être retestés avant de poursuivre la recherche.
+Les accès aux sites de faire-part Bée, Bonniez, Libra Memoria et Dans Nos Cœurs ont été refusés par le proxy lors des premiers essais. Les destinations nécessaires ont été enregistrées dans le brouillon de configuration ; un brouillon n'établit pas leur application. Aucun résultat négatif de généalogie n'est déduit de ces refus.
 
-La limite actuelle est donc **Jeanne TOURET, arrière-grand-mère maternelle de Maxime, sur témoignage familial**, et non une limite historique démontrée. Aucun ascendant plus ancien n'a été découvert ni confirmé dans cette itération.
+Les [pièces prioritaires et les formulations préparées](pieces-a-obtenir.md) sont la naissance de Claude (Quesques, 1940), son décès (Vaudringhem, 2001, n° 1), et la naissance de Marie-Paule (Saint-Martin-d'Hardinghem, 1949). Elles doivent nommer les parents pour permettre une remontée fiable. Aucune mairie ni aucun propriétaire d'arbre n'a été contacté.
+
+**Bilan :** 60 personnes dans le fichier complet, dont les 55 ascendants paternels préservés et 4 personnes dans la branche maternelle depuis Nathalie. La version 1.2 apporte des informations sourcées et des pistes vérifiables ; elle ne constitue pas un arbre maternel complet ni huit générations démontrées.

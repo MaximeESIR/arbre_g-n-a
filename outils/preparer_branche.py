@@ -1,4 +1,4 @@
-"""Régénère la première itération maternelle sans modifier l'import v1.0."""
+"""Régénère la branche maternelle v1.2 sans modifier l'import v1.0."""
 import collections
 import json
 import pathlib
@@ -49,8 +49,42 @@ data['assertions_maternelles'] = [
     dict(person=7, field='birth.date', value='30 JAN 3949', source='M04', status='Correction littérale reçue ; année future incohérente ; non retenue'),
     dict(person=7, field='birth.date', value='30 JAN 1949', source='M04', status='Correction confirmée par Maxime ; déclaration familiale, acte non consulté'),
     dict(person=7, field='birth.place', value="Saint-Martin-d'Hardinghem, Pas-de-Calais, France", source='M04', status='Commune visée confirmée ; naissance dans cette commune incertaine')]
-data['scope'] = 'Dossier v1.0 préservé ; première itération sur la branche de Nathalie HIETTE. Filiations maternelles ajoutées sur déclaration, sans acte.'
-data['research_status'] = '25 octobre 2026 : Claude HIETTE et Jeanne TOURET ajoutés sur déclaration familiale. Marie-Paule JOLY née le 30 janvier 1949 selon Maxime. Décès de Claude confirmé par Maxime au 11 janvier 2001 à « Vandringhem » ; la notice M02 du ZIP indique Vaudringhem pour Claude Armand Gérard HIETTE, né le même jour. Graphie communale et prénoms supplémentaires à vérifier. Aucun acte relu dans cette itération. Recherches externes bloquées par la politique réseau. Aucun ascendant plus ancien confirmé.'
+data['sources'].append(dict(id='M05', title='Extrait de naissance de Nathalie HIETTE, photographie fournie par Maxime',
+    reference='Commune de Wavrans-sur-l’Aa ; extrait photographié, date de délivrance et numéro non visibles ; lu dans la conversation du 25 octobre 2026.',
+    url='', files=['../preuves/M05-extrait-naissance-nathalie-transcription.md'], copies=[], kind='Photographie d’un extrait d’état civil ; transcription conservée',
+    reading="Nathalie HIETTE née le 19 novembre 1969 à 04 h 35 à Wavrans-sur-l’Aa. Père : Claude Armand Gérard HIETTE, né le 6 janvier 1940 à Quesques, ouvrier pisciculture. Mère : Marie-Paule JOLY, son épouse, née le 30 janvier 1949 à Saint-Martin-d’Hardinghem, profession Sans. Mention marginale : Néant. Aucun grand-parent nommé.",
+    verification=dict(date='2026-10-25', method='Lecture visuelle de la photographie jointe. Transcription locale ; fichier image non disponible dans les pièces téléchargées.')))
+act_quality = 'Extrait d’état civil photographié et lu (M05)'
+people[3]['birth'].update(sources=['M01', 'M05'], quality=act_quality, time='04:35')
+people[3]['sources'].append('M05')
+people[3]['note'] = "Mère de Maxime ; nom d'usage BLARET. Naissance et parents Claude Armand Gérard HIETTE et Marie-Paule JOLY nommés dans l'extrait photographié M05."
+people[6].update(given='Claude Armand Gérard', name='Claude Armand Gérard HIETTE',
+    sources=['M04', 'M05'], aliases=['Claude HIETTE'],
+    note="Père de Nathalie dans M05. Prénoms complets et naissance à Quesques documentés par l'extrait de naissance de sa fille. Décès le 11 janvier 2001 selon Maxime et l'index relu M06 ; Vaudringhem dans cet index, « Vandringhem » dans la déclaration. Aucun parent de Claude établi.")
+people[6]['birth'].update(place='Quesques, Pas-de-Calais, France', sources=['M04', 'M05'], quality=act_quality, note='Lieu et date lus dans la naissance de sa fille ; naissance personnelle non consultée.')
+people[6]['occupations'] = [dict(value='Ouvrier pisciculture', date='19 NOV 1969', sources=['M05'], quality=act_quality)]
+people[7]['birth'].update(place="Saint-Martin-d'Hardinghem, Pas-de-Calais, France", sources=['M04', 'M05'], quality=act_quality, note='Date et lieu lus dans la naissance de sa fille ; naissance personnelle non consultée.')
+people[7]['sources'].append('M05')
+people[7]['note'] = "Marie-Paule JOLY, épouse de Claude Armand Gérard HIETTE dans M05. Naissance le 30 janvier 1949 à Saint-Martin-d'Hardinghem documentée par cet extrait. Jeanne TOURET est sa mère selon Maxime, sans acte confirmant cette génération. Les anciennes saisies 1969 et 3949 sont abandonnées."
+people[7]['occupations'] = [dict(value='Sans', date='19 NOV 1969', sources=['M05'], quality=act_quality)]
+for f in data['families']:
+    if f['id'] == 'F3':
+        f['sources'].append('M05')
+        f['note'] = "Parents nommés dans M05 ; Marie-Paule est dite « son épouse ». Date et lieu du mariage inconnus."
+data['assertions_maternelles'].append(dict(person=7, field='birth.place', value="Saint-Martin-d'Hardinghem, Pas-de-Calais, France", source='M05', status='Lieu lu dans l’extrait de naissance de Nathalie ; incertitude précédente levée'))
+data['version'] = '1.2'
+data['sources'].extend(json.loads((ROOT / 'recherche/sources-v1.2.json').read_text()))
+people[6]['death'].update(place='Vaudringhem, Pas-de-Calais, France', sources=['M04', 'M06'],
+    quality='Déclaration familiale recoupée par un index secondaire INSEE',
+    note="Commune normalisée d’après M06 : Vaudringhem. Maxime avait écrit Vandringhem. Acte n° 1 selon l’index ; copie de décès non consultée.")
+people[6]['sources'].append('M06')
+data['research_leads'].extend([
+    dict(subject='Parents de Claude HIETTE', candidates='Gérard Etienne Gaston HIETTE et Odette NOËL', sources=['M07', 'M10'], status='Hors arbre ; aucun acte raccordant Claude à ce couple'),
+    dict(subject='Identité de Jeanne TOURET', candidates='Jeanne Marthe Noémie TOURET (1926–2018)', sources=['M08', 'M11'], status='Hors arbre ; identification à la mère de Marie-Paule non prouvée'),
+    dict(subject='Père de Marie-Paule JOLY', candidates='Théophile André François JOLY (1922–2011)', sources=['M09', 'M11'], status='Hors arbre ; aucun acte raccordant Marie-Paule ; divergence TOURET/BAURET')
+])
+data['scope'] = 'Dossier v1.0 préservé ; branche maternelle mise à jour avec l’extrait de naissance de Nathalie. Recherche des générations précédentes en cours.'
+data['research_status'] = '25 octobre 2026 : naissance de Nathalie et identité, dates et lieux de naissance de ses parents documentés par M05. Jeanne TOURET reste sur déclaration familiale. Index de décès HIETTE relu. Couples Gérard HIETTE–Odette NOËL et Théophile JOLY–Jeanne TOURET repérés mais non raccordés par un acte. Aucun parent supplémentaire établi à ce stade.'
 data['counts']['total_people'] = len(data['people'])
 data['counts']['maternal_ancestors'] = 4
 data['counts']['by_generation'] = dict(sorted(collections.Counter(str(p['generation']) for p in data['people']).items(), key=lambda x: int(x[0])))
@@ -64,61 +98,46 @@ def replace_record(identifier, text):
     ged, count = re.subn(pattern, lambda _: text.rstrip() + '\n', ged, flags=re.M | re.S)
     assert count == 1, identifier
 
-i3 = re.search(r'^0 @I3@ .*?(?=^0 |\Z)', ged, re.M | re.S).group()
-i3 = re.sub(r'^1 NOTE .*?(?=^1 |\Z)', '1 NOTE ' + people[3]['note'] + '\n', i3, flags=re.M | re.S)
-replace_record('I3', i3.rstrip() + '\n1 SOUR @M04@')
-replace_record('I7', '''0 @I7@ INDI
-1 NAME Marie-Paule /JOLY/
-1 SEX F
-1 _SOSA 7
-1 BIRT
-2 DATE 30 JAN 1949
-2 NOTE Date corrigée et confirmée par Maxime ; acte non consulté. Lieu possible : Saint-Martin-d'Hardinghem.
-2 SOUR @M04@
-1 FAMC @F7@
-1 FAMS @F3@
-1 NOTE ''' + people[7]['note'] + '''
-1 SOUR @M01@
-1 SOUR @M04@''')
-replace_record('F3', '''0 @F3@ FAM
-1 HUSB @I6@
-1 WIFE @I7@
-1 CHIL @I3@
-1 NOTE Parents déclarés par Maxime ; aucun acte consulté.
-1 SOUR @M01@
-1 SOUR @M04@''')
-new_records = '''0 @I6@ INDI
-1 NAME Claude /HIETTE/
-1 SEX M
-1 _SOSA 6
-1 BIRT
-2 DATE 6 JAN 1940
-2 PLAC Quesque [lieu déclaré ; piste Quesques à confirmer]
-2 NOTE Déclaration familiale ; acte non consulté.
-2 SOUR @M04@
-1 DEAT
-2 DATE 11 JAN 2001
-2 PLAC Vandringhem
-2 NOTE Graphie de Maxime ; la notice M02 indique Vaudringhem. Commune à vérifier dans l'acte.
-2 SOUR @M04@
-1 FAMS @F3@
-1 NOTE ''' + people[6]['note'] + '''
-1 SOUR @M04@
-0 @I15@ INDI
-1 NAME Jeanne /TOURET/
-1 SEX F
-1 _SOSA 15
-1 FAMS @F7@
-1 NOTE ''' + people[15]['note'] + '''
-1 SOUR @M04@
-0 @F7@ FAM
-1 WIFE @I15@
-1 CHIL @I7@
-1 NOTE Lien mère-fille déclaré par Maxime ; aucun acte consulté.
-1 SOUR @M04@
-0 @M04@ SOUR
-1 TITL Précisions familiales de Maxime sur la branche Nathalie, 25 octobre 2026
-1 NOTE ''' + data['sources'][-1]['reading'] + '\n'
+def individual_record(p):
+    identifier = p['sosa']
+    lines = [f"0 @I{identifier}@ INDI", f"1 NAME {p['given']} /{p['surname']}/", f"1 SEX {p['sex']}", f"1 _SOSA {identifier}"]
+    for event, tag in [('birth', 'BIRT'), ('death', 'DEAT')]:
+        e = p.get(event)
+        if e:
+            lines.append(f'1 {tag}')
+            if e.get('date'): lines.append('2 DATE ' + e['date'])
+            if e.get('time'): lines.append('3 TIME ' + e['time'])
+            if e.get('place'): lines.append('2 PLAC ' + e['place'])
+            lines.append(('2 NOTE ' + e.get('quality', '') + '. ' + e.get('note', '')).rstrip())
+            lines += ['2 SOUR @' + sid + '@' for sid in e.get('sources', [])]
+    for occupation in p.get('occupations', []):
+        lines += ['1 OCCU ' + occupation['value'], '2 DATE ' + occupation['date']]
+        lines += ['2 SOUR @' + sid + '@' for sid in occupation['sources']]
+    for f in data['families']:
+        if f['child'] == identifier: lines.append('1 FAMC @' + f['id'] + '@')
+        if identifier in (f['father'], f['mother']): lines.append('1 FAMS @' + f['id'] + '@')
+    lines.append('1 NOTE ' + p['note'])
+    lines += ['1 SOUR @' + sid + '@' for sid in p['sources']]
+    return '\n'.join(lines) + '\n'
+
+new_records = ''
+for identifier in [3, 6, 7, 15]:
+    record = individual_record(people[identifier])
+    if identifier in [3, 7]: replace_record('I' + str(identifier), record)
+    else: new_records += record
+for f in data['families']:
+    if f['id'] not in ('F3', 'F7'): continue
+    lines = ['0 @' + f['id'] + '@ FAM']
+    if f['father'] is not None: lines.append(f"1 HUSB @I{f['father']}@")
+    if f['mother'] is not None: lines.append(f"1 WIFE @I{f['mother']}@")
+    lines += [f"1 CHIL @I{f['child']}@", '1 NOTE ' + f['note']]
+    lines += ['1 SOUR @' + sid + '@' for sid in f['sources']]
+    record = '\n'.join(lines) + '\n'
+    if f['id'] == 'F3': replace_record('F3', record)
+    else: new_records += record
+for source in data['sources']:
+    if not re.fullmatch(r'M(?:0[4-9]|[1-9][0-9])', source['id']): continue
+    new_records += '0 @' + source['id'] + '@ SOUR\n1 TITL ' + source['title'] + '\n1 NOTE ' + source['reference'] + '\n1 NOTE ' + source['reading'] + '\n'
 ged = ged.replace('0 TRLR', new_records + '0 TRLR')
 # GEDCOM 5.5.1 : replier les notes longues en lignes CONT, sans modifier leur contenu.
 folded = []

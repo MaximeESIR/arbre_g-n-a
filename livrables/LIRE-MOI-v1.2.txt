@@ -1,0 +1,12 @@
+Dossier généalogique de Maxime BLARET — v1.2, état de recherche
+25 octobre 2026
+
+La branche maternelle est incomplète : ne pas présenter les candidats comme des ascendants établis.
+Lire les trois PDF v1.2, puis recherche/nathalie.md et recherche/pistes-v1.2.md.
+Les données courantes figurent dans donnees/arbre.json et donnees/arbre.ged.
+Les 55 fichiers de la v1.0 sont préservés dans imports/v1.0 ; leurs PDF sont historiques.
+Les preuves nouvelles et les extraits textuels de sources sont dans preuves/.
+M05 est une transcription de la photographie reçue ; son fichier binaire n'était pas accessible dans l'espace téléchargé et n'est pas inclus.
+Le journal d'accès est conservé dans recherche/acces-v1.2.json. Une erreur réseau n'est pas un résultat négatif de généalogie.
+Aucun message à une mairie ou à un propriétaire d'arbre n'a été envoyé.
+Le manifeste interne contrôle les empreintes du contenu, pas sa vérité généalogique.

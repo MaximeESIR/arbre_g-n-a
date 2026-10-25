@@ -1,7 +1,7 @@
 {
   "title": "Ascendances paternelle et maternelle de Maxime BLARET",
   "updated": "2026-10-25",
-  "scope": "Dossier v1.0 préservé ; première itération sur la branche de Nathalie HIETTE. Filiations maternelles ajoutées sur déclaration, sans acte.",
+  "scope": "Dossier v1.0 préservé ; branche maternelle mise à jour avec l’extrait de naissance de Nathalie. Recherche des générations précédentes en cours.",
   "people": [
     {
       "sosa": 1,
@@ -54,19 +54,22 @@
         "date": "19 NOV 1969",
         "place": "Wavrans-sur-l’Aa, Pas-de-Calais, France",
         "sources": [
-          "M01"
+          "M01",
+          "M05"
         ],
-        "quality": "Déclaration familiale de Maxime ; acte non consulté",
-        "note": ""
+        "quality": "Extrait d’état civil photographié et lu (M05)",
+        "note": "",
+        "time": "04:35"
       },
       "death": null,
       "sources": [
         "S01",
         "S02",
         "M01",
-        "M04"
+        "M04",
+        "M05"
       ],
-      "note": "Mère de Maxime ; nom d'usage BLARET. Parents Claude HIETTE et Marie-Paule JOLY déclarés par Maxime (M04), sans acte consulté.",
+      "note": "Mère de Maxime ; nom d'usage BLARET. Naissance et parents Claude Armand Gérard HIETTE et Marie-Paule JOLY nommés dans l'extrait photographié M05.",
       "aliases": []
     },
     {
@@ -131,34 +134,50 @@
     },
     {
       "sosa": 6,
-      "given": "Claude",
+      "given": "Claude Armand Gérard",
       "surname": "HIETTE",
-      "name": "Claude HIETTE",
+      "name": "Claude Armand Gérard HIETTE",
       "sex": "M",
       "generation": 3,
       "birth": {
         "date": "6 JAN 1940",
-        "place": "Quesque [lieu déclaré ; piste Quesques à confirmer]",
+        "place": "Quesques, Pas-de-Calais, France",
         "sources": [
-          "M04"
+          "M04",
+          "M05"
         ],
-        "quality": "Déclaration familiale de Maxime ; acte non consulté",
-        "note": "Graphie de la commune à vérifier."
+        "quality": "Extrait d’état civil photographié et lu (M05)",
+        "note": "Lieu et date lus dans la naissance de sa fille ; naissance personnelle non consultée."
       },
       "death": {
         "date": "11 JAN 2001",
-        "place": "Vandringhem",
+        "place": "Vaudringhem, Pas-de-Calais, France",
         "sources": [
-          "M04"
+          "M04",
+          "M06"
         ],
-        "quality": "Déclaration familiale de Maxime ; acte non consulté",
-        "note": "Graphie littérale transmise par Maxime. Vaudringhem dans la notice M02 du ZIP ; commune à vérifier dans l'acte de décès. Le numéro d'acte 1 provient uniquement de M02."
+        "quality": "Déclaration familiale recoupée par un index secondaire INSEE",
+        "note": "Commune normalisée d’après M06 : Vaudringhem. Maxime avait écrit Vandringhem. Acte n° 1 selon l’index ; copie de décès non consultée."
       },
       "sources": [
-        "M04"
+        "M04",
+        "M05",
+        "M06"
       ],
-      "note": "Père de Nathalie selon Maxime. Lieu de naissance transmis : « Quesque » ; piste Quesques à confirmer. Décès confirmé par Maxime le 11 janvier 2001 à « Vandringhem » ; la notice M02 indique Vaudringhem. Graphie du lieu à vérifier dans l'acte. Aucun parent identifié.",
-      "aliases": []
+      "note": "Père de Nathalie dans M05. Prénoms complets et naissance à Quesques documentés par l'extrait de naissance de sa fille. Décès le 11 janvier 2001 selon Maxime et l'index relu M06 ; Vaudringhem dans cet index, « Vandringhem » dans la déclaration. Aucun parent de Claude établi.",
+      "aliases": [
+        "Claude HIETTE"
+      ],
+      "occupations": [
+        {
+          "value": "Ouvrier pisciculture",
+          "date": "19 NOV 1969",
+          "sources": [
+            "M05"
+          ],
+          "quality": "Extrait d’état civil photographié et lu (M05)"
+        }
+      ]
     },
     {
       "sosa": 7,
@@ -169,21 +188,33 @@
       "generation": 3,
       "birth": {
         "date": "30 JAN 1949",
-        "place": "",
+        "place": "Saint-Martin-d'Hardinghem, Pas-de-Calais, France",
         "sources": [
-          "M04"
+          "M04",
+          "M05"
         ],
-        "quality": "Déclaration familiale de Maxime ; acte non consulté",
-        "note": "Date corrigée et confirmée par Maxime. Lieu possible : Saint-Martin-d'Hardinghem, Pas-de-Calais ; non retenu comme lieu certain."
+        "quality": "Extrait d’état civil photographié et lu (M05)",
+        "note": "Date et lieu lus dans la naissance de sa fille ; naissance personnelle non consultée."
       },
       "death": null,
       "sources": [
         "M01",
-        "M04"
+        "M04",
+        "M05"
       ],
-      "note": "JOLY comme nom de naissance déclaré par Maxime ; nom d'usage HIETTE. Mère : Jeanne TOURET, selon Maxime. Maxime a corrigé l'année initiale 1969, puis la coquille 3949, et confirmé le 30 janvier 1949. Saint-Martin-d'Hardinghem confirmé comme commune visée, mais lieu de naissance toujours incertain. Aucun acte consulté.",
+      "note": "Marie-Paule JOLY, épouse de Claude Armand Gérard HIETTE dans M05. Naissance le 30 janvier 1949 à Saint-Martin-d'Hardinghem documentée par cet extrait. Jeanne TOURET est sa mère selon Maxime, sans acte confirmant cette génération. Les anciennes saisies 1969 et 3949 sont abandonnées.",
       "aliases": [
         "Marie-Paule HIETTE-JOLY"
+      ],
+      "occupations": [
+        {
+          "value": "Sans",
+          "date": "19 NOV 1969",
+          "sources": [
+            "M05"
+          ],
+          "quality": "Extrait d’état civil photographié et lu (M05)"
+        }
       ]
     },
     {
@@ -1816,10 +1847,11 @@
       "mother": 7,
       "sources": [
         "M01",
-        "M04"
+        "M04",
+        "M05"
       ],
       "marriage": null,
-      "note": "Parents déclarés par Maxime (M04) ; aucun acte consulté."
+      "note": "Parents nommés dans M05 ; Marie-Paule est dite « son épouse ». Date et lieu du mariage inconnus."
     },
     {
       "id": "F7",
@@ -2543,6 +2575,130 @@
         "date": "2026-10-25",
         "method": "Transcription du témoignage ; aucune vérification indépendante."
       }
+    },
+    {
+      "id": "M05",
+      "title": "Extrait de naissance de Nathalie HIETTE, photographie fournie par Maxime",
+      "reference": "Commune de Wavrans-sur-l’Aa ; extrait photographié, date de délivrance et numéro non visibles ; lu dans la conversation du 25 octobre 2026.",
+      "url": "",
+      "files": [
+        "../preuves/M05-extrait-naissance-nathalie-transcription.md"
+      ],
+      "copies": [],
+      "kind": "Photographie d’un extrait d’état civil ; transcription conservée",
+      "reading": "Nathalie HIETTE née le 19 novembre 1969 à 04 h 35 à Wavrans-sur-l’Aa. Père : Claude Armand Gérard HIETTE, né le 6 janvier 1940 à Quesques, ouvrier pisciculture. Mère : Marie-Paule JOLY, son épouse, née le 30 janvier 1949 à Saint-Martin-d’Hardinghem, profession Sans. Mention marginale : Néant. Aucun grand-parent nommé.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture visuelle de la photographie jointe. Transcription locale ; fichier image non disponible dans les pièces téléchargées."
+      }
+    },
+    {
+      "id": "M06",
+      "title": "Index HIETTE issu du fichier des décès INSEE",
+      "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+      "url": "https://www.acte-deces.fr/recherche-deces-famille-hiette",
+      "files": [
+        "../preuves/recherche-v1.2/M06.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M06.txt"
+      ],
+      "kind": "Index secondaire de décès",
+      "reading": "Claude Armand Gérard HIETTE, né à Quesques le 6 janvier 1940, décédé à Vaudringhem le 11 janvier 2001, acte n° 1. Cette entrée concorde avec les prénoms et la naissance de M05 et la date de décès déclarée par Maxime. Les parents ne sont pas nommés.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+      }
+    },
+    {
+      "id": "M07",
+      "title": "Table de mariage Gérard HIETTE–Odette NOEL",
+      "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+      "url": "https://www.geneanet.org/releves-collaboratifs/view/119635/733",
+      "files": [
+        "../preuves/recherche-v1.2/M07.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M07.txt"
+      ],
+      "kind": "Relevé secondaire d’une table de mariage, CC-BY-NC-SA 2.0, gavrais56",
+      "reading": "Quesques, 16 février 1938 : Gérard Etienne Gaston HIETTE et Odette Marie NOEL. Référence publiée : AD62, 5 MIR 678/3, Quesques 1933–1942, vue 7/10. Aucun enfant ni parent nommé dans ce relevé ; image originale indisponible (503).",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+      }
+    },
+    {
+      "id": "M08",
+      "title": "Jeanne Marthe Noémie TOURET dans l’arbre grandrose1",
+      "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+      "url": "https://gw.geneanet.org/grandrose1?lang=fr&n=touret&p=jeanne+marthe+noemie",
+      "files": [
+        "../preuves/recherche-v1.2/M08.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M08.txt"
+      ],
+      "kind": "Arbre collaboratif, piste non raccordée",
+      "reading": "Née le 15 avril 1926 à Saint-Martin-d’Hardinghem, morte le 22 octobre 2018 à Thiembronne. Parents attribués : Eugène Achille Désiré TOURET et Céline Félicie Honorine BOUTON. Conjoint Albert Louis François DUBIEZ ; trois enfants masqués. Aucun lien visible avec Marie-Paule JOLY. Sources déclarées par le déposant : tables/recensement et INSEE, sans acte personnel relu ici.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+      }
+    },
+    {
+      "id": "M09",
+      "title": "Théophile André François JOLY dans l’arbre patou3374",
+      "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+      "url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&p=theophile+andre+francois",
+      "files": [
+        "../preuves/recherche-v1.2/M09.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M09.txt"
+      ],
+      "kind": "Arbre collaboratif, piste non raccordée",
+      "reading": "Né le 20 août 1922 à Thiembronne, mort le 26 novembre 2011 à Fruges. Mère attribuée : Berthe Françoise Hélène JOLY ; père inconnu. Épouse nommée Jeanne Marthe Noémie BAURET, séparation indiquée. L’index de recherche mentionne 6 juillet 1946 à Saint-Martin-d’Hardinghem pour le mariage ; ce détail n’est pas affiché dans la fiche lue. Aucun lien visible avec Marie-Paule JOLY. Naissance et reconnaissance maternelle du 23 septembre 1922 citées via deux ARK AD62 ; images non consultées.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+      }
+    },
+    {
+      "id": "M10",
+      "title": "Gérard Etienne Gaston HIETTE dans l’arbre maman1",
+      "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+      "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=gerard+etienne+gaston",
+      "files": [
+        "../preuves/recherche-v1.2/M10.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M10.txt"
+      ],
+      "kind": "Arbre collaboratif, piste non raccordée",
+      "reading": "Né le 30 novembre 1912 à Quesques, mort le 3 décembre 1989 à Vaudringhem. Parents attribués : Joseph Gaston Etienne HIETTE et Marie Philomène Ismérie TILLIER. Épouse Odette NOEL, mariage du 16 février 1938. Enfant visible : Claudine HIETTE. Aucun Claude Armand Gérard dans la descendance visible ; aucune filiation de Claude établie.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+      }
+    },
+    {
+      "id": "M11",
+      "title": "Couple Théophile JOLY–Jeanne TOURET dans l’arbre lourmi",
+      "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+      "url": "https://gw.geneanet.org/lourmi?lang=fr&n=joly&p=theophile+andre+francois",
+      "files": [
+        "../preuves/recherche-v1.2/M11.txt"
+      ],
+      "copies": [
+        "../preuves/recherche-v1.2/M11.txt"
+      ],
+      "kind": "Arbre collaboratif, piste non raccordée",
+      "reading": "Théophile André François JOLY, conjoint Jeanne Marthe Noémie TOURET. Une fille affichée : Jeanne Marie JOLY. Aucune date ni filiation ascendante pour le couple, aucun lien visible avec Marie-Paule JOLY. Le patronyme TOURET diffère du BAURET de M09 ; ne pas fusionner sans acte.",
+      "verification": {
+        "date": "2026-10-25",
+        "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+      }
     }
   ],
   "research_leads": [
@@ -2559,9 +2715,36 @@
       ],
       "status": "Hypothèse de recherche pour les générations antérieures, proposée par Maxime.",
       "note": "Tester les graphies avec L et avec S ; aucun changement de nom entre ces formes n’est encore démontré par les actes réunis."
+    },
+    {
+      "subject": "Parents de Claude HIETTE",
+      "candidates": "Gérard Etienne Gaston HIETTE et Odette NOËL",
+      "sources": [
+        "M07",
+        "M10"
+      ],
+      "status": "Hors arbre ; aucun acte raccordant Claude à ce couple"
+    },
+    {
+      "subject": "Identité de Jeanne TOURET",
+      "candidates": "Jeanne Marthe Noémie TOURET (1926–2018)",
+      "sources": [
+        "M08",
+        "M11"
+      ],
+      "status": "Hors arbre ; identification à la mère de Marie-Paule non prouvée"
+    },
+    {
+      "subject": "Père de Marie-Paule JOLY",
+      "candidates": "Théophile André François JOLY (1922–2011)",
+      "sources": [
+        "M09",
+        "M11"
+      ],
+      "status": "Hors arbre ; aucun acte raccordant Marie-Paule ; divergence TOURET/BAURET"
     }
   ],
-  "research_status": "25 octobre 2026 : Claude HIETTE et Jeanne TOURET ajoutés sur déclaration familiale. Marie-Paule JOLY née le 30 janvier 1949 selon Maxime. Décès de Claude confirmé par Maxime au 11 janvier 2001 à « Vandringhem » ; la notice M02 du ZIP indique Vaudringhem pour Claude Armand Gérard HIETTE, né le même jour. Graphie communale et prénoms supplémentaires à vérifier. Aucun acte relu dans cette itération. Recherches externes bloquées par la politique réseau. Aucun ascendant plus ancien confirmé.",
+  "research_status": "25 octobre 2026 : naissance de Nathalie et identité, dates et lieux de naissance de ses parents documentés par M05. Jeanne TOURET reste sur déclaration familiale. Index de décès HIETTE relu. Couples Gérard HIETTE–Odette NOËL et Théophile JOLY–Jeanne TOURET repérés mais non raccordés par un acte. Aucun parent supplémentaire établi à ce stade.",
   "counts": {
     "paternal_ancestors": 55,
     "total_people": 60,
@@ -2608,6 +2791,14 @@
       "value": "Saint-Martin-d'Hardinghem, Pas-de-Calais, France",
       "source": "M04",
       "status": "Commune visée confirmée ; naissance dans cette commune incertaine"
+    },
+    {
+      "person": 7,
+      "field": "birth.place",
+      "value": "Saint-Martin-d'Hardinghem, Pas-de-Calais, France",
+      "source": "M05",
+      "status": "Lieu lu dans l’extrait de naissance de Nathalie ; incertitude précédente levée"
     }
-  ]
+  ],
+  "version": "1.2"
 }

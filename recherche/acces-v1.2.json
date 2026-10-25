@@ -1,0 +1,584 @@
+[
+  {
+    "url": "https://archivesenligne.pasdecalais.fr/",
+    "checked_at": "2026-10-25T12:28:28.354570+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.acte-deces.fr/recherche-deces-famille-hiette",
+    "checked_at": "2026-10-25T12:28:28.355222+00:00",
+    "status": 200,
+    "bytes": 23989
+  },
+  {
+    "url": "https://www.geneanet.org/fonds/individus/?nom=HIETTE&prenom=Claude+Armand+Gerard",
+    "checked_at": "2026-10-25T12:28:28.356175+00:00",
+    "status": 200,
+    "bytes": 98926
+  },
+  {
+    "url": "https://www.google.com/search?q=%22Jeanne+Touret%22+%22Joly%22",
+    "checked_at": "2026-10-25T12:28:28.356638+00:00",
+    "status": 200,
+    "bytes": 92525
+  },
+  {
+    "url": "https://ancetresdartois.com/",
+    "checked_at": "2026-10-25T12:28:28.357166+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "ad62-civil",
+    "url": "https://archivesenligne.pasdecalais.fr/v2/ad62/etatcivil.html",
+    "checked_at": "2026-10-25T12:34:34.169494+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "ad62-marriage-ark",
+    "url": "https://archivesenligne.pasdecalais.fr/v2/ark:/64297/376e23fe29df6b1cf01278d72b68e4ee",
+    "checked_at": "2026-10-25T12:38:16.511414+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "ad62-portail",
+    "url": "https://www.archivespasdecalais.fr/",
+    "checked_at": "2026-10-25T12:32:23.976183+00:00",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "name": "ad62-recence",
+    "url": "https://archivesenligne.pasdecalais.fr/v2/ad62/recensement.html",
+    "checked_at": "2026-10-25T12:34:33.293188+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "name": "bing-claude",
+    "url": "https://www.bing.com/search?q=%22Claude+Armand%22+%22Hiette%22",
+    "checked_at": "2026-10-25T12:30:03.177056+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "bing-claudeexact",
+    "url": "https://www.bing.com/search?q=%22Claude%20Hiette%22&setlang=fr&cc=fr",
+    "checked_at": "2026-10-25T12:39:08.301755+00:00",
+    "status": 200,
+    "bytes": 126202,
+    "final_url": "https://www.bing.com/search?q=%22Claude%20Hiette%22&setlang=fr&cc=fr"
+  },
+  {
+    "name": "bing-jeanne",
+    "url": "https://www.bing.com/search?q=%22Jeanne%22+%22Touret%22+%22Joly%22",
+    "checked_at": "2026-10-25T12:37:41.389584+00:00",
+    "status": 200,
+    "bytes": 119593,
+    "final_url": "https://www.bing.com/search?q=%22Jeanne%22+%22Touret%22+%22Joly%22"
+  },
+  {
+    "name": "bing-jeanneexact",
+    "url": "https://www.bing.com/search?q=%22Jeanne%20Touret%22&setlang=fr&cc=fr",
+    "checked_at": "2026-10-25T12:39:08.307514+00:00",
+    "status": 200,
+    "bytes": 134463,
+    "final_url": "https://www.bing.com/search?q=%22Jeanne%20Touret%22&setlang=fr&cc=fr"
+  },
+  {
+    "name": "bing-nathalieexact",
+    "url": "https://www.bing.com/search?q=%22Hiette%22%20%22Joly%22&setlang=fr&cc=fr",
+    "checked_at": "2026-10-25T12:39:08.311098+00:00",
+    "status": 200,
+    "bytes": 124156,
+    "final_url": "https://www.bing.com/search?q=%22Hiette%22%20%22Joly%22&setlang=fr&cc=fr"
+  },
+  {
+    "name": "bing-theophileexact",
+    "url": "https://www.bing.com/search?q=%22Th%C3%A9ophile%20Joly%22&setlang=fr&cc=fr",
+    "checked_at": "2026-10-25T12:39:08.303563+00:00",
+    "status": 200,
+    "bytes": 124599,
+    "final_url": "https://www.bing.com/search?q=%22Th%C3%A9ophile%20Joly%22&setlang=fr&cc=fr"
+  },
+  {
+    "name": "dansnoscoeurs-search",
+    "url": "https://www.dansnoscoeurs.fr/avis-deces/recherche?nom=touret",
+    "checked_at": "2026-10-25T12:39:59.992885+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "deces-touret",
+    "url": "https://www.acte-deces.fr/recherche-deces-famille-touret",
+    "checked_at": "2026-10-25T12:30:03.180175+00:00",
+    "status": 200,
+    "bytes": 238857,
+    "final_url": "https://www.acte-deces.fr/recherche-deces-famille-touret"
+  },
+  {
+    "name": "gerard-maman1",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=gerard+etienne+gaston",
+    "checked_at": "2026-10-25T12:30:38.636775+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "gn-archives-quesques",
+    "url": "https://www.geneanet.org/fonds/individus/archives/?go=1&nom=HIETTE&place__0__=Quesques&from=1900&to=1940&size=100",
+    "checked_at": "2026-10-25T12:32:23.975497+00:00",
+    "status": 200,
+    "bytes": 185108,
+    "final_url": "https://www.geneanet.org/fonds/individus/archives/?go=1&nom=HIETTE&place__0__=Quesques&from=1900&to=1940&size=100"
+  },
+  {
+    "name": "gn-catalogue-quesques",
+    "url": "https://www.geneanet.org/archives/registres/geo/FRA/F62/quesques",
+    "checked_at": "2026-10-25T12:35:24.482313+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "gn-catalogue-root",
+    "url": "https://www.geneanet.org/archives/registres/",
+    "checked_at": "2026-10-25T12:38:16.519153+00:00",
+    "status": 200,
+    "bytes": 50999,
+    "final_url": "https://www.geneanet.org/registres/"
+  },
+  {
+    "name": "gn-claude-1940-correct",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&from=1939&to=1941&size=100",
+    "checked_at": "2026-10-25T12:42:55.867211+00:00",
+    "status": 200,
+    "bytes": 148171,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&from=1939&to=1941&size=100"
+  },
+  {
+    "name": "gn-claude-allbirth",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&type_periode=birth&exact_year=1940&size=100",
+    "checked_at": "2026-10-25T12:36:42.682481+00:00",
+    "status": 200,
+    "bytes": 951958,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&type_periode=birth&exact_year=1940&size=100"
+  },
+  {
+    "name": "gn-claude",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&size=50",
+    "checked_at": "2026-10-25T12:29:05.516225+00:00",
+    "status": 200,
+    "bytes": 509650,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&size=50"
+  },
+  {
+    "name": "gn-claude1940",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&from=1940&to=1940&size=50",
+    "checked_at": "2026-10-25T12:29:31.952382+00:00",
+    "status": 200,
+    "bytes": 148115,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&from=1940&to=1940&size=50"
+  },
+  {
+    "name": "gn-gerard",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Gerard&from=1912&to=1912&size=50",
+    "checked_at": "2026-10-25T12:30:03.214929+00:00",
+    "status": 200,
+    "bytes": 202757,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Gerard&from=1912&to=1912&size=50"
+  },
+  {
+    "name": "gn-grandrose-mariepaule",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&sourcename=grandrose1&size=100",
+    "checked_at": "2026-10-25T12:35:24.484502+00:00",
+    "status": 200,
+    "bytes": 126916,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&sourcename=grandrose1&size=100"
+  },
+  {
+    "name": "gn-hiette-claude-parent",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&place__0__=Vaudringhem&size=100",
+    "checked_at": "2026-10-25T12:34:33.291173+00:00",
+    "status": 200,
+    "bytes": 150732,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&place__0__=Vaudringhem&size=100"
+  },
+  {
+    "name": "gn-hiette-lieu",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&place__0__=Quesques&type_periode=start_between&from=1935&to=1945&size=100",
+    "checked_at": "2026-10-25T12:30:26.592026+00:00",
+    "status": 200,
+    "bytes": 202309,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&place__0__=Quesques&type_periode=start_between&from=1935&to=1945&size=100"
+  },
+  {
+    "name": "gn-hiette-photos",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&restrict_images=1&size=100",
+    "checked_at": "2026-10-25T12:42:11.014285+00:00",
+    "status": 200,
+    "bytes": 955390,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Claude&restrict_images=1&size=100"
+  },
+  {
+    "name": "gn-hiette1912exact",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Gerard&type_periode=birth&exact_day=30&exact_month=11&exact_year=1912&size=100",
+    "checked_at": "2026-10-25T12:35:24.483161+00:00",
+    "status": 200,
+    "bytes": 188374,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=HIETTE&prenom=Gerard&type_periode=birth&exact_day=30&exact_month=11&exact_year=1912&size=100"
+  },
+  {
+    "name": "gn-jeanne-archives",
+    "url": "https://www.geneanet.org/fonds/individus/archives/?go=1&nom=TOURET&prenom=Jeanne&place__0__=Saint-Martin-d%27Hardinghem&size=100",
+    "checked_at": "2026-10-25T12:36:42.684628+00:00",
+    "status": 200,
+    "bytes": 171988,
+    "final_url": "https://www.geneanet.org/fonds/individus/archives/?go=1&nom=TOURET&prenom=Jeanne&place__0__=Saint-Martin-d%27Hardinghem&size=100"
+  },
+  {
+    "name": "gn-jeanne-bauret",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=BAURET&prenom=Jeanne+Marthe+Noemie&size=50",
+    "checked_at": "2026-10-25T12:33:51.964559+00:00",
+    "status": 200,
+    "bytes": 148135,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=BAURET&prenom=Jeanne+Marthe+Noemie&size=50"
+  },
+  {
+    "name": "gn-jeanne-conjoint",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Jeanne&place__0__=Saint-Martin-d%27Hardinghem&size=100",
+    "checked_at": "2026-10-25T12:32:23.973759+00:00",
+    "status": 200,
+    "bytes": 188079,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Jeanne&place__0__=Saint-Martin-d%27Hardinghem&size=100"
+  },
+  {
+    "name": "gn-jeanne-lieu",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne&place__0__=Saint-Martin-d%27Hardinghem&size=100",
+    "checked_at": "2026-10-25T12:30:26.589955+00:00",
+    "status": 200,
+    "bytes": 163559,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne&place__0__=Saint-Martin-d%27Hardinghem&size=100"
+  },
+  {
+    "name": "gn-jeanne",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne&nom_conjoint=JOLY&size=50",
+    "checked_at": "2026-10-25T12:29:05.516817+00:00",
+    "status": 200,
+    "bytes": 496335,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne&nom_conjoint=JOLY&size=50"
+  },
+  {
+    "name": "gn-jeanne62",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne&place__0__=Pas-de-Calais&size=50",
+    "checked_at": "2026-10-25T12:29:31.953284+00:00",
+    "status": 200,
+    "bytes": 254896,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne&place__0__=Pas-de-Calais&size=50"
+  },
+  {
+    "name": "gn-jeanneregion",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne&country__0__=FRA&region__0__=NPC&subregion__0__=F62&from=1900&to=2000&size=100",
+    "checked_at": "2026-10-25T12:30:03.179006+00:00",
+    "status": 200,
+    "bytes": 179495,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne&country__0__=FRA&region__0__=NPC&subregion__0__=F62&from=1900&to=2000&size=100"
+  },
+  {
+    "name": "gn-joly-hiette",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&place__0__=Wavrans-sur-l%27Aa&size=100",
+    "checked_at": "2026-10-25T12:42:11.014927+00:00",
+    "status": 200,
+    "bytes": 129066,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&place__0__=Wavrans-sur-l%27Aa&size=100"
+  },
+  {
+    "name": "gn-joly-lieu",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&place__0__=Saint-Martin-d%27Hardinghem&from=1920&to=1970&size=100",
+    "checked_at": "2026-10-25T12:32:23.974879+00:00",
+    "status": 200,
+    "bytes": 311710,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&place__0__=Saint-Martin-d%27Hardinghem&from=1920&to=1970&size=100"
+  },
+  {
+    "name": "gn-joly1949-stmartin",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&place__0__=Saint-Martin-d%27Hardinghem&from=1949&to=1949&size=100",
+    "checked_at": "2026-10-25T12:42:55.868715+00:00",
+    "status": 200,
+    "bytes": 236669,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&place__0__=Saint-Martin-d%27Hardinghem&from=1949&to=1949&size=100"
+  },
+  {
+    "name": "gn-lourmi-children",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&sourcename=lourmi&size=100",
+    "checked_at": "2026-10-25T12:35:24.483816+00:00",
+    "status": 200,
+    "bytes": 221767,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&sourcename=lourmi&size=100"
+  },
+  {
+    "name": "gn-marie-stmartin",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie&place__0__=Saint-Martin-d%27Hardinghem&size=100",
+    "checked_at": "2026-10-25T12:33:51.965224+00:00",
+    "status": 200,
+    "bytes": 964717,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie&place__0__=Saint-Martin-d%27Hardinghem&size=100"
+  },
+  {
+    "name": "gn-marie1949birth",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&type_periode=start_between&from=1949&to=1949&size=100",
+    "checked_at": "2026-10-25T12:30:26.591158+00:00",
+    "status": 200,
+    "bytes": 780103,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&type_periode=start_between&from=1949&to=1949&size=100"
+  },
+  {
+    "name": "gn-marie1949exact",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&type_periode=birth&exact_day=30&exact_month=1&exact_year=1949&size=100",
+    "checked_at": "2026-10-25T12:34:33.289671+00:00",
+    "status": 200,
+    "bytes": 124015,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&type_periode=birth&exact_day=30&exact_month=1&exact_year=1949&size=100"
+  },
+  {
+    "name": "gn-mariepaule",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&from=1949&to=1949&size=50",
+    "checked_at": "2026-10-25T12:29:31.953867+00:00",
+    "status": 200,
+    "bytes": 523019,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Marie+Paule&from=1949&to=1949&size=50"
+  },
+  {
+    "name": "gn-marriage-indices",
+    "url": "https://www.geneanet.org/releves-collaboratifs/view/119635/733/indices?acte_type=M&matching_cases_categories%5B0%5D=descendance",
+    "checked_at": "2026-10-25T12:38:16.513545+00:00",
+    "status": 200,
+    "bytes": 52122,
+    "final_url": "https://www.geneanet.org/releves-collaboratifs/view/119635/733"
+  },
+  {
+    "name": "gn-odette",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=NOEL&prenom=Odette&place__0__=Quesques&size=100",
+    "checked_at": "2026-10-25T12:33:51.965695+00:00",
+    "status": 200,
+    "bytes": 193961,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=NOEL&prenom=Odette&place__0__=Quesques&size=100"
+  },
+  {
+    "name": "gn-registers-france",
+    "url": "https://www.geneanet.org/registres/geo/FRA/france",
+    "checked_at": "2026-10-25T12:42:11.013080+00:00",
+    "status": 200,
+    "bytes": 52571,
+    "final_url": "https://www.geneanet.org/registres/geo/FRA/france"
+  },
+  {
+    "name": "gn-registers-root",
+    "url": "https://www.geneanet.org/registres/",
+    "checked_at": "2026-10-25T12:38:16.516342+00:00",
+    "status": 200,
+    "bytes": 50999,
+    "final_url": "https://www.geneanet.org/registres/"
+  },
+  {
+    "name": "gn-registers62",
+    "url": "https://www.geneanet.org/registres/geo/FRA/F62/france-pas-de-calais",
+    "checked_at": "2026-10-25T12:42:55.866070+00:00",
+    "status": 200,
+    "bytes": 79321,
+    "final_url": "https://www.geneanet.org/registres/geo/FRA/F62/france-pas-de-calais"
+  },
+  {
+    "name": "gn-registres-quesques",
+    "url": "https://www.geneanet.org/registres/geo/FRA/F62/Quesques/france-pas-de-calais-quesques",
+    "checked_at": "2026-10-25T12:44:27.248155+00:00",
+    "status": 200,
+    "bytes": 42490,
+    "final_url": "https://www.geneanet.org/registres/geo/FRA/F62/Quesques/france-pas-de-calais-quesques"
+  },
+  {
+    "name": "gn-registres-saintmartin",
+    "url": "https://www.geneanet.org/registres/geo/FRA/F62/Saint-Martin-d%27Hardinghem/france-pas-de-calais-saint-martin-d-hardinghem",
+    "checked_at": "2026-10-25T12:44:27.249039+00:00",
+    "status": 200,
+    "bytes": 39012,
+    "final_url": "https://www.geneanet.org/registres/geo/FRA/F62/Saint-Martin-d%27Hardinghem/france-pas-de-calais-saint-martin-d-hardinghem"
+  },
+  {
+    "name": "gn-registres-vaudringhem",
+    "url": "https://www.geneanet.org/registres/geo/FRA/F62/Vaudringhem/france-pas-de-calais-vaudringhem",
+    "checked_at": "2026-10-25T12:44:27.249659+00:00",
+    "status": 200,
+    "bytes": 38798,
+    "final_url": "https://www.geneanet.org/registres/geo/FRA/F62/Vaudringhem/france-pas-de-calais-vaudringhem"
+  },
+  {
+    "name": "gn-theophile-archives",
+    "url": "https://www.geneanet.org/fonds/individus/archives/?go=1&nom=JOLY&prenom=Theophile&place__0__=Saint-Martin-d%27Hardinghem&size=100",
+    "checked_at": "2026-10-25T12:36:42.683812+00:00",
+    "status": 200,
+    "bytes": 148838,
+    "final_url": "https://www.geneanet.org/fonds/individus/archives/?go=1&nom=JOLY&prenom=Theophile&place__0__=Saint-Martin-d%27Hardinghem&size=100"
+  },
+  {
+    "name": "gn-theophile",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Theophile+Andre+Francois&size=50",
+    "checked_at": "2026-10-25T12:33:51.963514+00:00",
+    "status": 200,
+    "bytes": 169191,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=JOLY&prenom=Theophile+Andre+Francois&size=50"
+  },
+  {
+    "name": "gn-touret-joly",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne+Marthe+Noemie&size=100",
+    "checked_at": "2026-10-25T12:34:33.271683+00:00",
+    "status": 200,
+    "bytes": 169226,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&prenom=Jeanne+Marthe+Noemie&size=100"
+  },
+  {
+    "name": "gn-touret1950",
+    "url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&place__0__=Saint-Martin-d%27Hardinghem&from=1920&to=1960&size=100",
+    "checked_at": "2026-10-25T12:42:11.015473+00:00",
+    "status": 200,
+    "bytes": 254267,
+    "final_url": "https://www.geneanet.org/fonds/individus/?go=1&nom=TOURET&place__0__=Saint-Martin-d%27Hardinghem&from=1920&to=1960&size=100"
+  },
+  {
+    "name": "google-basic",
+    "url": "https://www.google.com/search?q=%22Hiette%22+%22Joly%22&gbv=1&filter=0&num=10",
+    "checked_at": "2026-10-25T12:30:03.177891+00:00",
+    "status": 200,
+    "bytes": 92211,
+    "final_url": "https://www.google.com/search?q=%22Hiette%22+%22Joly%22&gbv=1&filter=0&num=10"
+  },
+  {
+    "name": "google-claude",
+    "url": "https://www.google.com/search?q=%22Claude+Armand%22+%22Hiette%22&gbv=1&udm=14",
+    "checked_at": "2026-10-25T12:29:05.514723+00:00",
+    "status": 200,
+    "bytes": 92278,
+    "final_url": "https://www.google.com/search?q=%22Claude+Armand%22+%22Hiette%22&gbv=1"
+  },
+  {
+    "name": "google-fallback",
+    "url": "https://www.google.com/search?q=%22Jeanne+Touret%22+Joly&gbv=1&emsg=SG_REL",
+    "checked_at": "2026-10-25T12:29:31.954412+00:00",
+    "status": 200,
+    "bytes": 92408,
+    "final_url": "https://www.google.com/search?q=%22Jeanne+Touret%22+Joly&gbv=1&emsg=SG_REL"
+  },
+  {
+    "name": "google-jeanne",
+    "url": "https://www.google.com/search?q=%22Jeanne+Touret%22+Joly&gbv=1&udm=14",
+    "checked_at": "2026-10-25T12:29:05.515555+00:00",
+    "status": 200,
+    "bytes": 92212,
+    "final_url": "https://www.google.com/search?q=%22Jeanne+Touret%22+Joly&gbv=1"
+  },
+  {
+    "name": "google-mobile",
+    "url": "https://www.google.com/search?q=%22Jeanne%22+%22Touret%22+%22Joly%22&gbv=1&udm=14&num=10&dcr=0",
+    "checked_at": "2026-10-25T12:30:26.592898+00:00",
+    "status": 200,
+    "bytes": 92272,
+    "final_url": "https://www.google.com/search?q=%22Jeanne%22+%22Touret%22+%22Joly%22&gbv=1&num=10&dcr=0"
+  },
+  {
+    "name": "google-render",
+    "url": "https://www.google.com/search?q=%22Jeanne+Touret%22&gbv=1&sei=Efbdas3GNdDHkPIPh6O4-AE&emsg=SG_REL",
+    "checked_at": "2026-10-25T12:30:38.637489+00:00",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "gw-claude-maman",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=claude+armand+gerard",
+    "checked_at": "2026-10-25T12:40:00.027184+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "gw-claude-robert",
+    "url": "https://gw.geneanet.org/robert1951?lang=fr&n=hiette&p=claude+armand+gerard",
+    "checked_at": "2026-10-25T12:40:00.021360+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "gw-gerard-maman1",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=gerard+etienne+gaston",
+    "checked_at": "2026-10-25T12:38:27.396326+00:00",
+    "status": 200,
+    "bytes": 104404,
+    "final_url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=gerard+etienne+gaston"
+  },
+  {
+    "name": "gw-gerard-robert",
+    "url": "https://gw.geneanet.org/robert1951?lang=fr&n=hiette&p=gerard+etienne+gaston",
+    "checked_at": "2026-10-25T12:38:27.397158+00:00",
+    "status": 200,
+    "bytes": 93529,
+    "final_url": "https://gw.geneanet.org/robert1951?lang=fr&n=hiette&p=gerard+etienne+gaston"
+  },
+  {
+    "name": "gw-jeanne-grandrose",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&n=touret&p=jeanne+marthe+noemie",
+    "checked_at": "2026-10-25T12:38:27.397715+00:00",
+    "status": 200,
+    "bytes": 109020,
+    "final_url": "https://gw.geneanet.org/grandrose1?lang=fr&n=touret&p=jeanne+marthe+noemie"
+  },
+  {
+    "name": "gw-lourmi-theophile",
+    "url": "https://gw.geneanet.org/lourmi?lang=fr&n=joly&p=theophile+andre+francois",
+    "checked_at": "2026-10-25T12:37:41.387590+00:00",
+    "status": 200,
+    "bytes": 95081,
+    "final_url": "https://gw.geneanet.org/lourmi?lang=fr&n=joly&p=theophile+andre+francois"
+  },
+  {
+    "name": "gw-moustique-theophile",
+    "url": "https://gw.geneanet.org/moustique4?lang=fr&n=joly&p=theophile+andre+francois",
+    "checked_at": "2026-10-25T12:37:41.388986+00:00",
+    "status": 200,
+    "bytes": 93195,
+    "final_url": "https://gw.geneanet.org/moustique4?lang=fr&n=joly&p=theophile+andre+francois"
+  },
+  {
+    "name": "gw-theophile-patou",
+    "url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&p=theophile+andre+francois",
+    "checked_at": "2026-10-25T12:38:27.398363+00:00",
+    "status": 200,
+    "bytes": 104516,
+    "final_url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&p=theophile+andre+francois"
+  },
+  {
+    "name": "jeanne-grandrose",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&n=touret&p=jeanne+marthe+noemie",
+    "checked_at": "2026-10-25T12:30:38.635749+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "libra-search",
+    "url": "https://www.libramemoria.com/avis",
+    "checked_at": "2026-10-25T12:39:59.992180+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "marriage-gerard",
+    "url": "https://www.geneanet.org/releves-collaboratifs/view/119635/733",
+    "checked_at": "2026-10-25T12:36:42.680832+00:00",
+    "status": 200,
+    "bytes": 52122,
+    "final_url": "https://www.geneanet.org/releves-collaboratifs/view/119635/733"
+  },
+  {
+    "name": "matchid-home",
+    "url": "https://deces.matchid.io/",
+    "checked_at": "2026-10-25T12:32:26.107523+00:00",
+    "status": 200,
+    "bytes": 4179,
+    "final_url": "https://deces.matchid.io/"
+  },
+  {
+    "name": "pfbee-touret",
+    "url": "https://pf-bee.fr/?s=Touret",
+    "checked_at": "2026-10-25T12:39:59.990599+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "pfbonniez-touret",
+    "url": "https://www.pompes-funebres-herve-bonniez.fr/?s=Touret&post_type=obituaries",
+    "checked_at": "2026-10-25T12:39:59.991596+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

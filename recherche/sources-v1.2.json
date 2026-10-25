@@ -1,0 +1,110 @@
+[
+  {
+    "id": "M06",
+    "title": "Index HIETTE issu du fichier des décès INSEE",
+    "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+    "url": "https://www.acte-deces.fr/recherche-deces-famille-hiette",
+    "files": [
+      "../preuves/recherche-v1.2/M06.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M06.txt"
+    ],
+    "kind": "Index secondaire de décès",
+    "reading": "Claude Armand Gérard HIETTE, né à Quesques le 6 janvier 1940, décédé à Vaudringhem le 11 janvier 2001, acte n° 1. Cette entrée concorde avec les prénoms et la naissance de M05 et la date de décès déclarée par Maxime. Les parents ne sont pas nommés.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+    }
+  },
+  {
+    "id": "M07",
+    "title": "Table de mariage Gérard HIETTE–Odette NOEL",
+    "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+    "url": "https://www.geneanet.org/releves-collaboratifs/view/119635/733",
+    "files": [
+      "../preuves/recherche-v1.2/M07.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M07.txt"
+    ],
+    "kind": "Relevé secondaire d’une table de mariage, CC-BY-NC-SA 2.0, gavrais56",
+    "reading": "Quesques, 16 février 1938 : Gérard Etienne Gaston HIETTE et Odette Marie NOEL. Référence publiée : AD62, 5 MIR 678/3, Quesques 1933–1942, vue 7/10. Aucun enfant ni parent nommé dans ce relevé ; image originale indisponible (503).",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+    }
+  },
+  {
+    "id": "M08",
+    "title": "Jeanne Marthe Noémie TOURET dans l’arbre grandrose1",
+    "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+    "url": "https://gw.geneanet.org/grandrose1?lang=fr&n=touret&p=jeanne+marthe+noemie",
+    "files": [
+      "../preuves/recherche-v1.2/M08.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M08.txt"
+    ],
+    "kind": "Arbre collaboratif, piste non raccordée",
+    "reading": "Née le 15 avril 1926 à Saint-Martin-d’Hardinghem, morte le 22 octobre 2018 à Thiembronne. Parents attribués : Eugène Achille Désiré TOURET et Céline Félicie Honorine BOUTON. Conjoint Albert Louis François DUBIEZ ; trois enfants masqués. Aucun lien visible avec Marie-Paule JOLY. Sources déclarées par le déposant : tables/recensement et INSEE, sans acte personnel relu ici.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+    }
+  },
+  {
+    "id": "M09",
+    "title": "Théophile André François JOLY dans l’arbre patou3374",
+    "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+    "url": "https://gw.geneanet.org/patou3374?lang=fr&n=joly&p=theophile+andre+francois",
+    "files": [
+      "../preuves/recherche-v1.2/M09.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M09.txt"
+    ],
+    "kind": "Arbre collaboratif, piste non raccordée",
+    "reading": "Né le 20 août 1922 à Thiembronne, mort le 26 novembre 2011 à Fruges. Mère attribuée : Berthe Françoise Hélène JOLY ; père inconnu. Épouse nommée Jeanne Marthe Noémie BAURET, séparation indiquée. L’index de recherche mentionne 6 juillet 1946 à Saint-Martin-d’Hardinghem pour le mariage ; ce détail n’est pas affiché dans la fiche lue. Aucun lien visible avec Marie-Paule JOLY. Naissance et reconnaissance maternelle du 23 septembre 1922 citées via deux ARK AD62 ; images non consultées.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+    }
+  },
+  {
+    "id": "M10",
+    "title": "Gérard Etienne Gaston HIETTE dans l’arbre maman1",
+    "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+    "url": "https://gw.geneanet.org/maman1?lang=fr&n=hiette&p=gerard+etienne+gaston",
+    "files": [
+      "../preuves/recherche-v1.2/M10.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M10.txt"
+    ],
+    "kind": "Arbre collaboratif, piste non raccordée",
+    "reading": "Né le 30 novembre 1912 à Quesques, mort le 3 décembre 1989 à Vaudringhem. Parents attribués : Joseph Gaston Etienne HIETTE et Marie Philomène Ismérie TILLIER. Épouse Odette NOEL, mariage du 16 février 1938. Enfant visible : Claudine HIETTE. Aucun Claude Armand Gérard dans la descendance visible ; aucune filiation de Claude établie.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+    }
+  },
+  {
+    "id": "M11",
+    "title": "Couple Théophile JOLY–Jeanne TOURET dans l’arbre lourmi",
+    "reference": "Consultation en ligne du 25 octobre 2026 ; copie textuelle de la page conservée.",
+    "url": "https://gw.geneanet.org/lourmi?lang=fr&n=joly&p=theophile+andre+francois",
+    "files": [
+      "../preuves/recherche-v1.2/M11.txt"
+    ],
+    "copies": [
+      "../preuves/recherche-v1.2/M11.txt"
+    ],
+    "kind": "Arbre collaboratif, piste non raccordée",
+    "reading": "Théophile André François JOLY, conjoint Jeanne Marthe Noémie TOURET. Une fille affichée : Jeanne Marie JOLY. Aucune date ni filiation ascendante pour le couple, aucun lien visible avec Marie-Paule JOLY. Le patronyme TOURET diffère du BAURET de M09 ; ne pas fusionner sans acte.",
+    "verification": {
+      "date": "2026-10-25",
+      "method": "Lecture de la page publique ; distinguer index, table et arbre déclaratif des actes originaux."
+    }
+  }
+]
