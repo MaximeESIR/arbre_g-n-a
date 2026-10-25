@@ -1393,8 +1393,14 @@
 2 PLAC Quesque [lieu déclaré ; piste Quesques à confirmer]
 2 NOTE Déclaration familiale ; acte non consulté.
 2 SOUR @M04@
+1 DEAT
+2 DATE 11 JAN 2001
+2 PLAC Vandringhem
+2 NOTE Graphie de Maxime ; la notice M02 indique Vaudringhem. Commune à vérifier dans l'acte.
+2 SOUR @M04@
 1 FAMS @F3@
-1 NOTE Père de Nathalie selon Maxime. Lieu transmis : « Quesque » ; piste Quesques à confirmer. Aucun parent identifié. Le décès est une déclaration du dossier M01, sans date ni acte.
+1 NOTE Père de Nathalie selon Maxime. Lieu de naissance transmis : « Quesque » ; piste Quesques à confirmer. Décès confirmé par Maxime le 11 janvier 2001 à « Vandringhem » ; la notice M02 indique Vaudringhem. Graphie du lieu à vérifier
+2 CONT dans l'acte. Aucun parent identifié.
 1 SOUR @M04@
 0 @I15@ INDI
 1 NAME Jeanne /TOURET/
@@ -1410,6 +1416,7 @@
 1 SOUR @M04@
 0 @M04@ SOUR
 1 TITL Précisions familiales de Maxime sur la branche Nathalie, 25 octobre 2026
-1 NOTE Nathalie a pour parents Claude HIETTE, né le 6 janvier 1940 à « Quesque », et Marie-Paule JOLY. Marie-Paule est fille de Jeanne TOURET ; naissance donnée le 30 janvier 1969, corrigée ensuite en « 3949 », puis confirmée au 30 janvier
-2 CONT 1949 par Maxime. Saint-Martin-d'Hardinghem (Pas-de-Calais) est confirmé comme commune visée, lieu de naissance seulement possible.
+1 NOTE Nathalie a pour parents Claude HIETTE, né le 6 janvier 1940 à « Quesque », et Marie-Paule JOLY. Claude est décédé le 11 janvier 2001 à « Vandringhem », selon la précision ultérieure de Maxime. Marie-Paule est fille de Jeanne
+2 CONT TOURET ; naissance donnée le 30 janvier 1969, corrigée ensuite en « 3949 », puis confirmée au 30 janvier 1949 par Maxime. Saint-Martin-d'Hardinghem (Pas-de-Calais) est confirmé comme commune visée, lieu de naissance seulement
+2 CONT possible.
 0 TRLR

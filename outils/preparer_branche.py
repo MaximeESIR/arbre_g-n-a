@@ -21,8 +21,10 @@ def person(sosa, given, surname, generation, note):
 people[3]['note'] = "Mère de Maxime ; nom d'usage BLARET. Parents Claude HIETTE et Marie-Paule JOLY déclarés par Maxime (M04), sans acte consulté."
 people[3]['sources'].append('M04')
 people[6] = person(6, 'Claude', 'HIETTE', 3,
-    "Père de Nathalie selon Maxime. Lieu transmis : « Quesque » ; piste Quesques à confirmer. Aucun parent identifié. Le décès est une déclaration du dossier M01, sans date ni acte.")
+    "Père de Nathalie selon Maxime. Lieu de naissance transmis : « Quesque » ; piste Quesques à confirmer. Décès confirmé par Maxime le 11 janvier 2001 à « Vandringhem » ; la notice M02 indique Vaudringhem. Graphie du lieu à vérifier dans l'acte. Aucun parent identifié.")
 people[6]['birth'] = dict(date='6 JAN 1940', place='Quesque [lieu déclaré ; piste Quesques à confirmer]', sources=['M04'], quality=quality, note='Graphie de la commune à vérifier.')
+people[6]['death'] = dict(date='11 JAN 2001', place='Vandringhem', sources=['M04'], quality=quality,
+    note="Graphie littérale transmise par Maxime. Vaudringhem dans la notice M02 du ZIP ; commune à vérifier dans l'acte de décès. Le numéro d'acte 1 provient uniquement de M02.")
 people[7].update(given='Marie-Paule', surname='JOLY', name='Marie-Paule JOLY',
     aliases=['Marie-Paule HIETTE-JOLY'], sources=['M01', 'M04'],
     note="JOLY comme nom de naissance déclaré par Maxime ; nom d'usage HIETTE. Mère : Jeanne TOURET, selon Maxime. Maxime a corrigé l'année initiale 1969, puis la coquille 3949, et confirmé le 30 janvier 1949. Saint-Martin-d'Hardinghem confirmé comme commune visée, mais lieu de naissance toujours incertain. Aucun acte consulté.")
@@ -40,7 +42,7 @@ data['families'].append(dict(id='F7', child=7, father=None, mother=15,
 data['sources'].append(dict(id='M04', title='Précisions familiales de Maxime sur la branche Nathalie',
     reference='Conversation du 25 octobre 2026, demande accompagnant le ZIP et correction ultérieure.',
     url='', files=[], copies=[], kind='Déclaration familiale ; actes non consultés',
-    reading="Nathalie a pour parents Claude HIETTE, né le 6 janvier 1940 à « Quesque », et Marie-Paule JOLY. Marie-Paule est fille de Jeanne TOURET ; naissance donnée le 30 janvier 1969, corrigée ensuite en « 3949 », puis confirmée au 30 janvier 1949 par Maxime. Saint-Martin-d'Hardinghem (Pas-de-Calais) est confirmé comme commune visée, lieu de naissance seulement possible.",
+    reading="Nathalie a pour parents Claude HIETTE, né le 6 janvier 1940 à « Quesque », et Marie-Paule JOLY. Claude est décédé le 11 janvier 2001 à « Vandringhem », selon la précision ultérieure de Maxime. Marie-Paule est fille de Jeanne TOURET ; naissance donnée le 30 janvier 1969, corrigée ensuite en « 3949 », puis confirmée au 30 janvier 1949 par Maxime. Saint-Martin-d'Hardinghem (Pas-de-Calais) est confirmé comme commune visée, lieu de naissance seulement possible.",
     verification=dict(date='2026-10-25', method='Transcription du témoignage ; aucune vérification indépendante.')))
 data['assertions_maternelles'] = [
     dict(person=7, field='birth.date', value='30 JAN 1969', source='M04', status='Déclaration initiale corrigée par Maxime ; non retenue'),
@@ -48,7 +50,7 @@ data['assertions_maternelles'] = [
     dict(person=7, field='birth.date', value='30 JAN 1949', source='M04', status='Correction confirmée par Maxime ; déclaration familiale, acte non consulté'),
     dict(person=7, field='birth.place', value="Saint-Martin-d'Hardinghem, Pas-de-Calais, France", source='M04', status='Commune visée confirmée ; naissance dans cette commune incertaine')]
 data['scope'] = 'Dossier v1.0 préservé ; première itération sur la branche de Nathalie HIETTE. Filiations maternelles ajoutées sur déclaration, sans acte.'
-data['research_status'] = '25 octobre 2026 : Claude HIETTE et Jeanne TOURET ajoutés sur déclaration familiale. Marie-Paule JOLY née le 30 janvier 1949 selon la correction confirmée de Maxime. Un candidat Claude Armand Gérard HIETTE de mêmes date et lieu de naissance figure dans la notice M02 du dossier original ; aucun acte relu dans cette itération. Recherches externes bloquées par la politique réseau. Aucun ascendant plus ancien confirmé.'
+data['research_status'] = '25 octobre 2026 : Claude HIETTE et Jeanne TOURET ajoutés sur déclaration familiale. Marie-Paule JOLY née le 30 janvier 1949 selon Maxime. Décès de Claude confirmé par Maxime au 11 janvier 2001 à « Vandringhem » ; la notice M02 du ZIP indique Vaudringhem pour Claude Armand Gérard HIETTE, né le même jour. Graphie communale et prénoms supplémentaires à vérifier. Aucun acte relu dans cette itération. Recherches externes bloquées par la politique réseau. Aucun ascendant plus ancien confirmé.'
 data['counts']['total_people'] = len(data['people'])
 data['counts']['maternal_ancestors'] = 4
 data['counts']['by_generation'] = dict(sorted(collections.Counter(str(p['generation']) for p in data['people']).items(), key=lambda x: int(x[0])))
@@ -93,6 +95,11 @@ new_records = '''0 @I6@ INDI
 2 DATE 6 JAN 1940
 2 PLAC Quesque [lieu déclaré ; piste Quesques à confirmer]
 2 NOTE Déclaration familiale ; acte non consulté.
+2 SOUR @M04@
+1 DEAT
+2 DATE 11 JAN 2001
+2 PLAC Vandringhem
+2 NOTE Graphie de Maxime ; la notice M02 indique Vaudringhem. Commune à vérifier dans l'acte.
 2 SOUR @M04@
 1 FAMS @F3@
 1 NOTE ''' + people[6]['note'] + '''

@@ -65,5 +65,15 @@
     "Parents et conjoint de Jeanne inconnus",
     "Ne pas rattacher Frédéric HIETTE par simple patronyme"
   ],
-  "next_action": "Vérifier le décès du candidat Claude à Vaudringhem, puis rechercher la naissance à Quesques et le mariage HIETTE–JOLY."
+  "next_action": "Vérifier le décès du candidat Claude à Vaudringhem, puis rechercher la naissance à Quesques et le mariage HIETTE–JOLY.",
+  "precisions_ulterieures": [
+    {
+      "person": 6,
+      "source": "M04",
+      "declaration": "Claude HIETTE est mort le 11 janvier 2001 à vandringhem",
+      "death_date": "11 JAN 2001",
+      "death_place_literal": "Vandringhem",
+      "status": "Confirmation familiale de Maxime ; graphie différente de Vaudringhem dans M02, commune à vérifier par acte."
+    }
+  ]
 }

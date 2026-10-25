@@ -21,6 +21,7 @@ Maxime BLARET (1)
 | --- | --- | --- |
 | Nathalie HIETTE | 19 novembre 1969, Wavrans-sur-l'Aa | Déclaration M01 du dossier v1.0 ; acte absent |
 | Claude HIETTE | 6 janvier 1940, « Quesque » | Nouvelle déclaration M04 ; graphie communale à confirmer, piste Quesques |
+| Décès de Claude HIETTE | 11 janvier 2001, « Vandringhem » | Précision de Maxime, M04 ; la notice M02 donne Vaudringhem, graphie à vérifier |
 | Marie-Paule JOLY | 30 janvier 1949, peut-être Saint-Martin-d'Hardinghem | Déclaration M04 ; année corrigée et confirmée par Maxime, lieu de naissance incertain |
 | Jeanne TOURET | Mère de Marie-Paule | Nouvelle déclaration M04 ; ni date, ni lieu, ni conjoint établis |
 
@@ -28,7 +29,7 @@ Maxime BLARET (1)
 
 ## Piste déjà présente dans le ZIP
 
-La source **M02**, dans le JSON original, rapporte un index secondaire de décès : **Claude Armand Gérard HIETTE, né le 6 janvier 1940 à Quesques, décédé le 11 janvier 2001 à Vaudringhem, acte n° 1**. Le prénom, la date et la commune concordent avec votre nouvelle déclaration. C'est un candidat précis à vérifier, pas une filiation nouvelle prouvée. Les prénoms supplémentaires et le décès ne sont pas transférés comme faits certains dans la fiche de Claude.
+La source **M02**, dans le JSON original, rapporte un index secondaire de décès : **Claude Armand Gérard HIETTE, né le 6 janvier 1940 à Quesques, décédé le 11 janvier 2001 à Vaudringhem, acte n° 1**. Le prénom et les dates de naissance et de décès concordent avec les déclarations de Maxime. Celui-ci précise le décès le 11 janvier 2001 à « Vandringhem » : cette date est maintenant ajoutée à la fiche comme déclaration familiale, avec le lieu littéral et la divergence de graphie signalée. L'identité civile complète, la commune et les filiations restent à vérifier par acte ; les prénoms supplémentaires ne sont pas attribués comme faits établis.
 
 Référence rapportée dans l'import : https://www.acte-deces.fr/recherche-deces-famille-hiette. Cette page n'a pas été relue dans cette itération ; les copies HTML et texte mentionnées par M02 ne sont pas présentes dans les 55 fichiers du ZIP. Les autres notices du dossier ne suffisent pas à raccorder Frédéric HIETTE à cette famille.
 

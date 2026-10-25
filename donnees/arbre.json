@@ -145,11 +145,19 @@
         "quality": "Déclaration familiale de Maxime ; acte non consulté",
         "note": "Graphie de la commune à vérifier."
       },
-      "death": null,
+      "death": {
+        "date": "11 JAN 2001",
+        "place": "Vandringhem",
+        "sources": [
+          "M04"
+        ],
+        "quality": "Déclaration familiale de Maxime ; acte non consulté",
+        "note": "Graphie littérale transmise par Maxime. Vaudringhem dans la notice M02 du ZIP ; commune à vérifier dans l'acte de décès. Le numéro d'acte 1 provient uniquement de M02."
+      },
       "sources": [
         "M04"
       ],
-      "note": "Père de Nathalie selon Maxime. Lieu transmis : « Quesque » ; piste Quesques à confirmer. Aucun parent identifié. Le décès est une déclaration du dossier M01, sans date ni acte.",
+      "note": "Père de Nathalie selon Maxime. Lieu de naissance transmis : « Quesque » ; piste Quesques à confirmer. Décès confirmé par Maxime le 11 janvier 2001 à « Vandringhem » ; la notice M02 indique Vaudringhem. Graphie du lieu à vérifier dans l'acte. Aucun parent identifié.",
       "aliases": []
     },
     {
@@ -2530,7 +2538,7 @@
       "files": [],
       "copies": [],
       "kind": "Déclaration familiale ; actes non consultés",
-      "reading": "Nathalie a pour parents Claude HIETTE, né le 6 janvier 1940 à « Quesque », et Marie-Paule JOLY. Marie-Paule est fille de Jeanne TOURET ; naissance donnée le 30 janvier 1969, corrigée ensuite en « 3949 », puis confirmée au 30 janvier 1949 par Maxime. Saint-Martin-d'Hardinghem (Pas-de-Calais) est confirmé comme commune visée, lieu de naissance seulement possible.",
+      "reading": "Nathalie a pour parents Claude HIETTE, né le 6 janvier 1940 à « Quesque », et Marie-Paule JOLY. Claude est décédé le 11 janvier 2001 à « Vandringhem », selon la précision ultérieure de Maxime. Marie-Paule est fille de Jeanne TOURET ; naissance donnée le 30 janvier 1969, corrigée ensuite en « 3949 », puis confirmée au 30 janvier 1949 par Maxime. Saint-Martin-d'Hardinghem (Pas-de-Calais) est confirmé comme commune visée, lieu de naissance seulement possible.",
       "verification": {
         "date": "2026-10-25",
         "method": "Transcription du témoignage ; aucune vérification indépendante."
@@ -2553,7 +2561,7 @@
       "note": "Tester les graphies avec L et avec S ; aucun changement de nom entre ces formes n’est encore démontré par les actes réunis."
     }
   ],
-  "research_status": "25 octobre 2026 : Claude HIETTE et Jeanne TOURET ajoutés sur déclaration familiale. Marie-Paule JOLY née le 30 janvier 1949 selon la correction confirmée de Maxime. Un candidat Claude Armand Gérard HIETTE de mêmes date et lieu de naissance figure dans la notice M02 du dossier original ; aucun acte relu dans cette itération. Recherches externes bloquées par la politique réseau. Aucun ascendant plus ancien confirmé.",
+  "research_status": "25 octobre 2026 : Claude HIETTE et Jeanne TOURET ajoutés sur déclaration familiale. Marie-Paule JOLY née le 30 janvier 1949 selon Maxime. Décès de Claude confirmé par Maxime au 11 janvier 2001 à « Vandringhem » ; la notice M02 du ZIP indique Vaudringhem pour Claude Armand Gérard HIETTE, né le même jour. Graphie communale et prénoms supplémentaires à vérifier. Aucun acte relu dans cette itération. Recherches externes bloquées par la politique réseau. Aucun ascendant plus ancien confirmé.",
   "counts": {
     "paternal_ancestors": 55,
     "total_people": 60,
